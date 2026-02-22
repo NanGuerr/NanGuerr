@@ -1,4 +1,4 @@
-# 👋 Hola, soy nanguer2-debug
+# 👋 Hola, soy Nancy G.
 
 ### 🚀 "Volviendo del futuro para corregir el presente, un commit a la vez."
 
