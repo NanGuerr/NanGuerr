@@ -6,7 +6,7 @@ Estudiante de **Ingeniería en Telecomunicaciones** apasionada por la intersecci
 
 ---
 
-## 🛠️ Áreas de interes
+## 🛠️ Áreas de interés
 * **🛡️ Ciberseguridad:** Análisis de vulnerabilidades y defensa de redes.
 * **🤖 Robótica:** Sistemas embebidos y control de procesos.
 * **✈️ Aeronáutica:** Integración tecnológica en sistemas de vuelo.
