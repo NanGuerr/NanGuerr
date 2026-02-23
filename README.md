@@ -2,11 +2,11 @@
 
 ### 🚀 "Volviendo del futuro para corregir el presente, un commit a la vez."
 
-Soy **Ingeniero en Telecomunicaciones** apasionado por la intersección entre la seguridad digital, la automatización robótica y los sistemas aeronáuticos. Mi enfoque actual es documentar y optimizar la lógica algorítmica aplicada a sistemas críticos.
+Estudiante de **Ingeniería en Telecomunicaciones** apasionada por la intersección entre la seguridad digital, la automatización robótica y los sistemas aeronáuticos. Mi enfoque actual es documentar y optimizar la lógica algorítmica aplicada a sistemas críticos.
 
 ---
 
-## 🛠️ Áreas de Especialización
+## 🛠️ Áreas de interes
 * **🛡️ Ciberseguridad:** Análisis de vulnerabilidades y defensa de redes.
 * **🤖 Robótica:** Sistemas embebidos y control de procesos.
 * **✈️ Aeronáutica:** Integración tecnológica en sistemas de vuelo.
