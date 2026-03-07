@@ -63,3 +63,4 @@ Estudiante de **Ingeniería en Telecomunicaciones** apasionada por la intersecci
 - 🔗 [nanguer2]
 - http://www.khanacademy.org/profile/nanguer2
 - https://www.duolingo.com/profile/nanguer2
+[![Estadísticas de Duolingo](https://duolingo-stats-card.vercel.app/api?user=nanguer2&theme=dark)](https://www.duolingo.com/profile/nanguer2)
