@@ -14,10 +14,44 @@ Estudiante de **Ingeniería en Telecomunicaciones** apasionada por la intersecci
 
 ---
 
-## 📚 Proyectos Destacados
-Actualmente estoy organizando y compartiendo la resolución de exámenes de **Programación I (UP)**, asegurando que el código sea limpio, lógico y funcional:
-* [🔍 Ver Resoluciones de Finales (2024-2026)](https://github.com/nanguer2-debug/Introducci-n-a-la-Programaci-n)
+## 🛠 Proyectos Principales
 
+### 🧠 [Introducción-a-la-Programación](https://github.com/tu-usuario/Introduccion-a-la-Programacion)
+**Resolución de exámenes, parciales y finales de Programación I (UP).**
+* **Descripción:** Repositorio académico con guías RDC/RFD y finales actualizados a **Febrero 2026**.
+* **Enfoque:** Algoritmos eficientes y lógica pura en **Python 🐍**.
+* **Ideal para:** Estudiantes que buscan dominar las bases de la algoritmia.
+* `Python` `Algoritmos` `Educación`
+
+### 🎮 [MatchPaths](https://github.com/tu-usuario/MatchPaths)
+**Find your way in air, sea & land! 🚗🚢✈️**
+* **Descripción:** Minijuego interactivo de **entrenamiento cognitivo**. Diseñado para mejorar la concentración y la memoria a corto plazo mediante mecánicas de navegación.
+* **Tecnología:** HTML5 / JavaScript (Interactivo).
+* `HTML` `GameDev` `CognitiveTraining`
+
+### 🤖 [AUTOMATIZACIÓN-DE-MSJS](https://github.com/tu-usuario/AUTOMATIZACION-DE-MSJS)
+**Bot de Python para envío automático de mensajes en WhatsApp.**
+* **Características:**
+    * Ciclo de envío programado para **100 días**.
+    * Persistencia de progreso (no pierde el hilo si se apaga).
+    * Manejo de zona horaria específica (**Argentina ART**).
+    * Cierre automático de pestañas para optimizar recursos.
+* `Python` `Automation` `PyAutoGUI` `Selenium`
+
+---
+
+## 📂 Otros Repositorios
+
+| Proyecto | Descripción | Stack |
+| :--- | :--- | :--- |
+| **Duolingo-Guía-de-Optimización** | Guía estratégica para maximizar el aprendizaje y beneficios de la plataforma. | `HTML` / `Docs` |
+---
+
+## 📈 Estadísticas de GitHub
+![Tus Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=tokyonight)
+
+---
+*Ultima actualización: Marzo 2026*
 ---
 
 ## ⚙️ Tecnologías & Herramientas
