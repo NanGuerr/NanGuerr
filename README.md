@@ -44,13 +44,9 @@ Estudiante de **Ingeniería en Telecomunicaciones** apasionada por la intersecci
 
 | Proyecto | Descripción | Stack |
 | :--- | :--- | :--- |
-| **Duolingo-Guía-de-Optimización** | Guía estratégica para maximizar el aprendizaje y beneficios de la plataforma. | `HTML` / `Docs` |
+| **Duolingo-Guía-de-Optimización** | Guía estratégica para maximizar el aprendizaje y beneficios de la plataforma N° 1 en aprendizaje de idiomas Duolingo. | `HTML` / `Docs` |
 ---
 
-## 📈 Estadísticas de GitHub
-![Tus Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=tokyonight)
-
----
 *Ultima actualización: Marzo 2026*
 ---
 
