@@ -16,20 +16,20 @@ Estudiante de **Ingeniería en Telecomunicaciones** apasionada por la intersecci
 
 ## 🛠 Proyectos Principales
 
-### 🧠 [Introducción-a-la-Programación](https://github.com/tu-usuario/Introduccion-a-la-Programacion)
+### 🧠 [Introducción-a-la-Programación](https://github.com/nanguer2/Introducci-n-a-la-Programaci-n)
 **Resolución de exámenes, parciales y finales de Programación I (UP).**
 * **Descripción:** Repositorio académico con guías RDC/RFD y finales actualizados a **Febrero 2026**.
 * **Enfoque:** Algoritmos eficientes y lógica pura en **Python 🐍**.
 * **Ideal para:** Estudiantes que buscan dominar las bases de la algoritmia.
 * `Python` `Algoritmos` `Educación`
 
-### 🎮 [MatchPaths](https://github.com/tu-usuario/MatchPaths)
+### 🎮 [MatchPaths](https://github.com/nanguer2/MatchPaths)
 **Find your way in air, sea & land! 🚗🚢✈️**
 * **Descripción:** Minijuego interactivo de **entrenamiento cognitivo**. Diseñado para mejorar la concentración y la memoria a corto plazo mediante mecánicas de navegación.
 * **Tecnología:** HTML5 / JavaScript (Interactivo).
 * `HTML` `GameDev` `CognitiveTraining`
 
-### 🤖 [AUTOMATIZACIÓN-DE-MSJS](https://github.com/tu-usuario/AUTOMATIZACION-DE-MSJS)
+### 🤖 [AUTOMATIZACIÓN-DE-MSJS](https://github.com/nanguer2/AUTOMATIZACI-N-DE-MSJS)
 **Bot de Python para envío automático de mensajes en WhatsApp.**
 * **Características:**
     * Ciclo de envío programado para **100 días**.
@@ -40,7 +40,7 @@ Estudiante de **Ingeniería en Telecomunicaciones** apasionada por la intersecci
 
 ---
 
-## 📂 Otros Repositorios
+## 📂 Otros Repositorios [Duolingo-Gu-a-de-Optimizaci-n](https://github.com/nanguer2/Duolingo-Gu-a-de-Optimizaci-n)
 
 | Proyecto | Descripción | Stack |
 | :--- | :--- | :--- |
