@@ -60,8 +60,7 @@ Estudiante de **Ingeniería en Telecomunicaciones** apasionada por la intersecci
 
 ## 📫 Conectemos
 - ⚡ **Curiosidad:** Siempre buscando el "porqué" detrás del error (Debugging is my superpower).
-- 🔗 [nanguer2]
-- http://www.khanacademy.org/profile/nanguer2
-- https://www.duolingo.com/profile/nanguer2
+- 🔗 [Khan Academy](http://www.khanacademy.org/profile/nanguer2)
+- 🔗 [Duolingo](https://www.duolingo.com/profile/nanguer2)
 
 <img width="350" alt="1771199609" src="https://github.com/user-attachments/assets/b0c71dd5-0481-477d-aac4-8005a3e86346" />
