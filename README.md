@@ -64,4 +64,4 @@ Estudiante de **Ingeniería en Telecomunicaciones** apasionada por la intersecci
 - http://www.khanacademy.org/profile/nanguer2
 - https://www.duolingo.com/profile/nanguer2
 
-<img width="781" height="1040" alt="1771199609" src="https://github.com/user-attachments/assets/b0c71dd5-0481-477d-aac4-8005a3e86346" />
+<img width="350" alt="1771199609" src="https://github.com/user-attachments/assets/b0c71dd5-0481-477d-aac4-8005a3e86346" />
