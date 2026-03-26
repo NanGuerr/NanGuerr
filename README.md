@@ -1,4 +1,4 @@
-# 👋 Hola, soy Nancy G.
+# 👋 Hola, soy NanGuer.
 
 ### 🚀 "Volviendo del futuro para corregir el presente, un commit a la vez."
 
