@@ -16,20 +16,20 @@ Estudiante de **Ingeniería en Telecomunicaciones** apasionada por la intersecci
 
 ## 🛠 Proyectos Principales
 
-### 🧠 [Introducción-a-la-Programación](https://github.com/nanguer2/Introducci-n-a-la-Programaci-n)
+### 🧠 [Introducción-a-la-Programación](https://github.com/NanGuerr/Introducci-n-a-la-Programaci-n)
 **Resolución de exámenes, parciales y finales de Programación I (UP).**
 * **Descripción:** Repositorio académico con guías RDC/RFD y finales actualizados a **Febrero 2026**.
 * **Enfoque:** Algoritmos eficientes y lógica pura en **Python 🐍**.
 * **Ideal para:** Estudiantes que buscan dominar las bases de la algoritmia.
 * `Python` `Algoritmos` `Educación`
 
-### 🎮 [MatchPaths](https://github.com/nanguer2/MatchPaths)
+### 🎮 [MatchPaths](https://github.com/NanGuerr/MatchPaths)
 **Find your way in air, sea & land! 🚗🚢✈️**
 * **Descripción:** Minijuego interactivo de **entrenamiento cognitivo**. Diseñado para mejorar la concentración y la memoria a corto plazo mediante mecánicas de navegación.
 * **Tecnología:** HTML5 / JavaScript (Interactivo).
 * `HTML` `GameDev` `CognitiveTraining`
 
-### 🤖 [AUTOMATIZACIÓN-DE-MSJS](https://github.com/nanguer2/AUTOMATIZACI-N-DE-MSJS)
+### 🤖 [AUTOMATIZACIÓN-DE-MSJS](https://github.com/NanGuerr/AUTOMATIZACI-N-DE-MSJS)
 **Bot de Python para envío automático de mensajes en WhatsApp.**
 * **Características:**
     * Ciclo de envío programado para **100 días**.
@@ -40,7 +40,7 @@ Estudiante de **Ingeniería en Telecomunicaciones** apasionada por la intersecci
 
 ---
 
-## 📂 Otros Repositorios [Duolingo-Gu-a-de-Optimizaci-n](https://github.com/nanguer2/Duolingo-Gu-a-de-Optimizaci-n)
+## 📂 Otros Repositorios [Duolingo-Gu-a-de-Optimizaci-n](https://github.com/NanGuerr/Duolingo-Gu-a-de-Optimizaci-n)
 
 | Proyecto | Descripción | Stack |
 | :--- | :--- | :--- |
@@ -60,7 +60,7 @@ Estudiante de **Ingeniería en Telecomunicaciones** apasionada por la intersecci
 
 ## 📫 Conectemos
 - ⚡ **Curiosidad:** Siempre buscando el "porqué" detrás del error (Debugging is my superpower).
-- 🔗 [Khan Academy](http://www.khanacademy.org/profile/nanguer2)
-- 🔗 [Duolingo](https://www.duolingo.com/profile/nanguer2)
+- 🔗 [Khan Academy](http://www.khanacademy.org/profile/NanGuerr)
+- 🔗 [Duolingo](https://www.duolingo.com/profile/NanGuer)
 
 <img width="350" alt="1771199609" src="https://github.com/user-attachments/assets/b0c71dd5-0481-477d-aac4-8005a3e86346" />
