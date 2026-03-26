@@ -1,4 +1,4 @@
-# 👋 Hola, soy NanGuer.
+# 👋 Hola, soy NanGuerr.
 
 ### 🚀 "Volviendo del futuro para corregir el presente, un commit a la vez."
 
