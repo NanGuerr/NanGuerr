@@ -63,4 +63,4 @@ Estudiante de **Ingeniería en Telecomunicaciones** apasionada por la intersecci
 - 🔗 [Khan Academy](http://www.khanacademy.org/profile/NanGuer)
 - 🔗 [Duolingo](https://www.duolingo.com/profile/NanGuer)
 
-<img width="350" alt="1771199609" src="https://github.com/user-attachments/assets/b0c71dd5-0481-477d-aac4-8005a3e86346" />
+
