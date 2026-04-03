@@ -62,7 +62,7 @@ Estudiante de **Ingeniería en Telecomunicaciones** apasionada por la intersecci
 - ⚡ **Curiosidad:** Siempre buscando el "porqué" detrás del error (Debugging is my superpower).
 - 🔗 [Khan Academy](http://www.khanacademy.org/profile/NanGuer)
 - 🔗 [Duolingo](https://www.duolingo.com/profile/NanGuer)
-- 🔗 [ThinKercad](https://www.tinkercad.com//users/dGgLI9Jyg7V)
+- 🔗 [ThinKercad](https://www.tinkercad.com/users/dGgLI9Jyg7V))
 
 
-<img width="350" alt="1771199609" src="https://github.com/user-attachments/assets/b0c71dd5-0481-477d-aac4-8005a3e86346" />
+<img width="350" alt="1771199609" src="https://raw.githubusercontent.com/NanGuerr/NanGuerr/refs/heads/main/Duolingo-profile.png" />
