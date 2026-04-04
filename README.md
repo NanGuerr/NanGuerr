@@ -64,5 +64,4 @@ Apasionada por la intersección entre la seguridad digital, la automatización r
 - 🔗 [Duolingo](https://www.duolingo.com/profile/NanGuer)
 - 🔗 [ThinKercad](https://www.tinkercad.com/users/dGgLI9Jyg7V)
 
-
-
+<img width="350" alt="1771199609" src="https://raw.githubusercontent.com/NanGuerr/NanGuerr/refs/heads/main/Duolingo-profile.png" />
