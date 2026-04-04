@@ -6,7 +6,7 @@ Apasionada por la intersección entre la seguridad digital, la automatización r
 
 ---
 
-## 🛠️ Áreas de interés
+## 🛠️ Áreas de interés BLUE TEAM
 * **🛡️ Ciberseguridad:** Análisis de vulnerabilidades y defensa de redes.
 * **🤖 Robótica:** Sistemas embebidos y control de procesos.
 * **✈️ Aeronáutica:** Integración tecnológica en sistemas de vuelo.
@@ -65,4 +65,4 @@ Apasionada por la intersección entre la seguridad digital, la automatización r
 - 🔗 [ThinKercad](https://www.tinkercad.com/users/dGgLI9Jyg7V)
 
 
-<img width="350" alt="1771199609" src="https://raw.githubusercontent.com/NanGuerr/NanGuerr/refs/heads/main/Duolingo-profile.png" />
+
