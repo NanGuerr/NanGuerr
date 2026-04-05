@@ -1,4 +1,4 @@
-# 🚀 "Volviendo del futuro para corregir el presente, un commit a la vez."
+#"Corregir el presente, un commit a la vez."
 
 Apasionada por la intersección entre la seguridad digital, la automatización robótica y los sistemas aeronáuticos. Mi onjetivo es documentar y optimizar la lógica aplicada a sistemas críticos.
 
