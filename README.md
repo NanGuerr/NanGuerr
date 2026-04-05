@@ -71,6 +71,7 @@
 
 <img width="350" alt="1771199609" src="https://raw.githubusercontent.com/NanGuerr/NanGuerr/refs/heads/main/Duolingo-profile.png" />
 
-La adversidad muchas veces viene a sacudirnos el polvo de la comodidad, para salir de ese sofá del "así estoy bien"; justo cuando el entorno se pone difícil es cuando nos vemos obligados a dar ese salto al vacío.
-
+*Justo cuando el entorno se pone difícil es cuando nos vemos obligados a dar ese salto al vacío.*
+*El éxito es la suma de pequeños esfuerzos, repetidos día tras día.*
 *El aburrimiento es la excusa del mediocre para huir de la complejidad.*
+*Dos caminos se bifurcaron ante mi, yo elegí el menos transitado y eso hizo toda la diferencia.*
