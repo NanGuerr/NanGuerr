@@ -1,8 +1,6 @@
-# 👋 Hola, soy NanGuerr.
+# 🚀 "Volviendo del futuro para corregir el presente, un commit a la vez."
 
-### 🚀 "Volviendo del futuro para corregir el presente, un commit a la vez."
-
-Apasionada por la intersección entre la seguridad digital, la automatización robótica y los sistemas aeronáuticos. Mi enfoque actual es documentar y optimizar la lógica algorítmica aplicada a sistemas críticos.
+Apasionada por la intersección entre la seguridad digital, la automatización robótica y los sistemas aeronáuticos. Mi onjetivo es documentar y optimizar la lógica aplicada a sistemas críticos.
 
 ---
 
