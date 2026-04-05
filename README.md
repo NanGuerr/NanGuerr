@@ -5,10 +5,10 @@ Apasionada por la intersección entre la seguridad digital, la automatización r
 ---
 
 ## 🛠️ Áreas de interés BLUE TEAM
-* **🛡️ Ciberseguridad:** Análisis de vulnerabilidades y defensa de redes.
-* **🤖 Robótica:** Sistemas embebidos y control de procesos.
-* **✈️ Aeronáutica:** Integración tecnológica en sistemas de vuelo.
-* **📡 Telecomunicaciones:** Infraestructura y protocolos de comunicación.
+**🛡️ Ciberseguridad:*Análisis de vulnerabilidades y defensa de redes.
+**🤖 Robótica:*Sistemas embebidos y control de procesos.
+**✈️ Aeronáutica:*Integración tecnológica en sistemas de vuelo.
+**📡 Telecomunicaciones:*Infraestructura y protocolos de comunicación.
 
 ---
 
@@ -16,31 +16,31 @@ Apasionada por la intersección entre la seguridad digital, la automatización r
 
 ### 🏭 [Automatizaci-n-4.0](https://github.com/NanGuerr/Automatizaci-n-4.0)
 **Especialización en Smart Factory: Convergencia IT/OT.**
-* **Descripción:** Documentación que abarca más de **1,500 actividades** prácticas sobre la transformación digital de la industria.
-* **Enfoque:** Integración de Python, **IA (OpenCV)**, sistemas de control industrial, **PLCs (TIA Portal)** y diseño eléctrico EPLAN.
-* **Ideal para:** Tecnologías de vanguardia como Node-RED, Docker, **Ciberseguridad Industrial** y Robótica (ABB).
+**Descripción:*Documentación que abarca más de **1,500 actividades*prácticas sobre la transformación digital de la industria.
+**Enfoque:*Integración de Python, **IA (OpenCV)**, sistemas de control industrial, **PLCs (TIA Portal)*y diseño eléctrico EPLAN.
+**Ideal para:*Tecnologías de vanguardia como Node-RED, Docker, **Ciberseguridad Industrial*y Robótica (ABB).
 `Industria 4.0` `PLC` `Python` `IIoT`
 
 ### 🧠 [Introducción-a-la-Programación](https://github.com/NanGuerr/Introducci-n-a-la-Programaci-n)
 **Resolución de exámenes, parciales y finales de Programación I (UP).**
-* **Descripción:** Repositorio académico con guías RDC/RFD y finales actualizados a **Febrero 2026**.
-* **Enfoque:** Algoritmos eficientes y lógica pura en **Python 🐍**.
-* **Ideal para:** Estudiantes que buscan dominar las bases de la algoritmia.
+**Descripción:*Repositorio académico con guías RDC/RFD y finales actualizados a **Febrero 2026**.
+**Enfoque:*Algoritmos eficientes y lógica pura en **Python 🐍**.
+**Ideal para:*Estudiantes que buscan dominar las bases de la algoritmia.
 `Python` `Algoritmos` `Educación`
 
 ### 🎮 [MatchPaths](https://github.com/NanGuerr/MatchPaths)
 **Find your way in air, sea & land! 🚗🚢✈️**
-* **Descripción:** Minijuego interactivo de **entrenamiento cognitivo**. Diseñado para mejorar la concentración y la memoria a corto plazo mediante mecánicas de navegación.
-* **Tecnología:** HTML5 / JavaScript (Interactivo).
+**Descripción:*Minijuego interactivo de **entrenamiento cognitivo**. Diseñado para mejorar la concentración y la memoria a corto plazo mediante mecánicas de navegación.
+**Tecnología:*HTML5 / JavaScript (Interactivo).
 `HTML` `GameDev` `CognitiveTraining`
 
 ### 🤖 [AUTOMATIZACIÓN-DE-MSJS](https://github.com/NanGuerr/AUTOMATIZACI-N-DE-MSJS)
 **Bot de Python para envío automático de mensajes en WhatsApp.**
-* **Características:**
-    * Ciclo de envío programado para **100 días**.
-    * Persistencia de progreso (no pierde el hilo si se apaga).
-    * Manejo de zona horaria específica (**Argentina ART**).
-    * Cierre automático de pestañas para optimizar recursos.
+**Características:**
+    Ciclo de envío programado para **100 días**.
+    Persistencia de progreso (no pierde el hilo si se apaga).
+    Manejo de zona horaria específica (**Argentina ART**).
+    Cierre automático de pestañas para optimizar recursos.
 `Python` `Automation` `PyAutoGUI` `Selenium`
 
 ---
@@ -49,7 +49,7 @@ Apasionada por la intersección entre la seguridad digital, la automatización r
 
 | Proyecto | Descripción | Stack |
 | :--- | :--- | :--- |
-| **Duolingo-Guía-de-Optimización** | Guía estratégica para maximizar el aprendizaje y beneficios de la plataforma N° 1 en aprendizaje de idiomas Duolingo. | `HTML` / `Docs` |
+| **Duolingo-Guía-de-Optimización*| Guía estratégica para maximizar el aprendizaje y beneficios de la plataforma N° 1 en aprendizaje de idiomas Duolingo. | `HTML` / `Docs` |
 ---
 
 *Ultima actualización: Marzo 2026*
@@ -64,7 +64,7 @@ Apasionada por la intersección entre la seguridad digital, la automatización r
 ---
 
 ## 📫 Conectemos
-- ⚡ **Curiosidad:** Siempre buscando el "porqué" detrás del error (Debugging is my superpower).
+- ⚡ **Curiosidad:*Siempre buscando el "porqué" detrás del error (Debugging is my superpower).
 - 🔗 [Khan Academy](http://www.khanacademy.org/profile/NanGuer)
 - 🔗 [Duolingo](https://www.duolingo.com/profile/NanGuer)
 - 🔗 [ThinKercad](https://www.tinkercad.com/users/dGgLI9Jyg7V)
