@@ -16,23 +16,23 @@ Apasionada por la intersección entre la seguridad digital, la automatización r
 
 ### 🏭 [Automatizaci-n-4.0](https://github.com/NanGuerr/Automatizaci-n-4.0))
 **Especialización en Smart Factory: Convergencia IT/OT.**
-* **Descripción:** Documentación exhaustiva del Diplomado IngeLearn, abarcando más de **1,500 actividades** prácticas sobre la transformación digital de la industria.
-* **Enfoque:** Integración de Python e **IA (OpenCV)** con sistemas de control industrial como **PLCs (TIA Portal)** y diseño eléctrico en EPLAN.
-* **Ideal para:** Visualizar el progreso en tecnologías de vanguardia como Node-RED, Docker, **Ciberseguridad Industrial** y Robótica (ABB).
-* `Industria 4.0` `PLC` `Python` `IIoT`
+* **Descripción:** Documentación que abarca más de **1,500 actividades** prácticas sobre la transformación digital de la industria.
+* **Enfoque:** Integración de Python, **IA (OpenCV)**, sistemas de control industrial, **PLCs (TIA Portal)** y diseño eléctrico EPLAN.
+* **Ideal para:** Tecnologías de vanguardia como Node-RED, Docker, **Ciberseguridad Industrial** y Robótica (ABB).
+`Industria 4.0` `PLC` `Python` `IIoT`
 
 ### 🧠 [Introducción-a-la-Programación](https://github.com/NanGuerr/Introducci-n-a-la-Programaci-n)
 **Resolución de exámenes, parciales y finales de Programación I (UP).**
 * **Descripción:** Repositorio académico con guías RDC/RFD y finales actualizados a **Febrero 2026**.
 * **Enfoque:** Algoritmos eficientes y lógica pura en **Python 🐍**.
 * **Ideal para:** Estudiantes que buscan dominar las bases de la algoritmia.
-* `Python` `Algoritmos` `Educación`
+`Python` `Algoritmos` `Educación`
 
 ### 🎮 [MatchPaths](https://github.com/NanGuerr/MatchPaths)
 **Find your way in air, sea & land! 🚗🚢✈️**
 * **Descripción:** Minijuego interactivo de **entrenamiento cognitivo**. Diseñado para mejorar la concentración y la memoria a corto plazo mediante mecánicas de navegación.
 * **Tecnología:** HTML5 / JavaScript (Interactivo).
-* `HTML` `GameDev` `CognitiveTraining`
+`HTML` `GameDev` `CognitiveTraining`
 
 ### 🤖 [AUTOMATIZACIÓN-DE-MSJS](https://github.com/NanGuerr/AUTOMATIZACI-N-DE-MSJS)
 **Bot de Python para envío automático de mensajes en WhatsApp.**
@@ -41,7 +41,7 @@ Apasionada por la intersección entre la seguridad digital, la automatización r
     * Persistencia de progreso (no pierde el hilo si se apaga).
     * Manejo de zona horaria específica (**Argentina ART**).
     * Cierre automático de pestañas para optimizar recursos.
-* `Python` `Automation` `PyAutoGUI` `Selenium`
+`Python` `Automation` `PyAutoGUI` `Selenium`
 
 ---
 
