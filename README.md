@@ -14,6 +14,13 @@ Apasionada por la intersección entre la seguridad digital, la automatización r
 
 ## 🛠 Proyectos Principales
 
+### 🏭 [Automatizaci-n-4.0](https://github.com/NanGuerr/Automatizaci-n-4.0))
+**Especialización en Smart Factory: Convergencia IT/OT.**
+* **Descripción:** Documentación exhaustiva del Diplomado IngeLearn, abarcando más de **1,500 actividades** prácticas sobre la transformación digital de la industria.
+* **Enfoque:** Integración de Python e **IA (OpenCV)** con sistemas de control industrial como **PLCs (TIA Portal)** y diseño eléctrico en EPLAN.
+* **Ideal para:** Visualizar el progreso en tecnologías de vanguardia como Node-RED, Docker, **Ciberseguridad Industrial** y Robótica (ABB).
+* `Industria 4.0` `PLC` `Python` `IIoT`
+
 ### 🧠 [Introducción-a-la-Programación](https://github.com/NanGuerr/Introducci-n-a-la-Programaci-n)
 **Resolución de exámenes, parciales y finales de Programación I (UP).**
 * **Descripción:** Repositorio académico con guías RDC/RFD y finales actualizados a **Febrero 2026**.
