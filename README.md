@@ -77,7 +77,6 @@
 * *Dos caminos se bifurcaron ante mi, yo elegí el menos transitado y eso hizo toda la diferencia.*
 ---
 
-```bash
-*Aunque se interpongan muros de granito, no desesperes por su retraso, espera como alguien que entiende que cuando el espíritu surge y manda, hasta los dioses obedecen. --Wheeleer Wilcox.*
+>*Aunque se interpongan muros de granito, no desesperes por su retraso, espera como alguien que entiende que cuando el espíritu surge y manda, hasta los dioses obedecen. --Wheeleer Wilcox.*
 
 
