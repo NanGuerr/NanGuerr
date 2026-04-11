@@ -2,10 +2,6 @@
 
 *La intersección entre la seguridad digital, la automatización, documentar y optimizar la lógica aplicada a sistemas críticos.*
 
-> *Aunque se interpongan muros de granito, no desesperes por su retraso, espera como alguien que entiende que cuando el espíritu surge y manda, hasta los dioses obedecen. --Wheeleer Wilcox.*
-> 
-> *Si crees totalmente en ti mismo, no habrá nada que esté fuera de tus posibilidades. --Wayne W, Dyer*
-
 ---
 
 ## 🛠️ Áreas de interés BLUE TEAM
@@ -81,3 +77,7 @@
 * *Justo cuando el entorno se pone difícil es cuando nos vemos obligados a dar ese salto al vacío.*
 * *Dos caminos se bifurcaron ante mi, yo elegí el menos transitado y eso hizo toda la diferencia.*
 ---
+> *Aunque se interpongan muros de granito, no desesperes por su retraso, espera como alguien que entiende que cuando el espíritu surge y manda, hasta los dioses obedecen. --Wheeleer Wilcox.*
+> 
+> *Si crees totalmente en ti mismo, no habrá nada que esté fuera de tus posibilidades. --Wayne W, Dyer*
+
