@@ -73,7 +73,7 @@ La intersección entre la seguridad digital, la automatización, documentar y op
 
 ---
 * *El éxito es la suma de pequeños esfuerzos, repetidos día tras día.*
-* *El aburrimiento es la excusa del mediocre para huir de la complejidad.*
+* *El mayor acto de rebeldía es encontrar felicidad en tu propio castigo.*
 * *Dos caminos se bifurcaron ante mi, yo elegí el menos transitado y eso hizo toda la diferencia.*
 ---
 
