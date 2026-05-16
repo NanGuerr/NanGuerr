@@ -83,8 +83,8 @@ de los obstáculos.
 ---
 
 ```python
-# Aunque se interpongan muros de granito, no desesperes por su retraso, 
-# espera como alguien que entiende que cuando el espíritu surge y manda, 
-# hasta los dioses obedecen. --Wheeler Wilcox.*
+"""Aunque se interpongan muros de granito, no desesperes por su retraso, 
+espera como alguien que entiende que cuando el espíritu surge y manda, 
+hasta los dioses obedecen. --Wheeler Wilcox."""
 ```
 
