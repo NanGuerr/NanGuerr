@@ -1,6 +1,10 @@
 # "Corregir el presente, un commit a la vez."
 
-La intersección entre la seguridad digital, la automatización, documentar y optimizar la lógica aplicada a sistemas críticos.
+La intersección entre la seguridad digital, la automatización, documentar y optimizar la lógica aplicada a sistemas críticos. 
+
+Soy de las personas que no saben rendirse. Me apasionan los retos tecnológicos, 
+luchar contra los problemas complejos y encontrar soluciones eficientes a pesar 
+de los obstáculos.
 
 ---
 
@@ -75,6 +79,7 @@ La intersección entre la seguridad digital, la automatización, documentar y op
 * *El éxito es la suma de pequeños esfuerzos, repetidos día tras día.*
 * *El mayor acto de rebeldía es encontrar felicidad en tu propio castigo.*
 * *Dos caminos se bifurcaron ante mi, yo elegí el menos transitado y eso hizo toda la diferencia.*
+* *Mi voluntad es más grande que cualquier adversidad. Determinación antes que la frustración*
 ---
 
 >*Aunque se interpongan muros de granito, no desesperes por su retraso, espera como alguien que entiende que cuando el espíritu surge y manda, hasta los dioses obedecen. --Wheeleer Wilcox.*
