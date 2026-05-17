@@ -18,7 +18,7 @@ de los obstáculos.
 
 ## 🛠 Proyectos Principales
 
-### 🏭 [Automatizaci-n-4.0](https://github.com/NanGuerr/Automatizaci-n-4.0)
+### 🏭 [Smart-Factory-Expert](https://github.com/NanGuerr/Smart-Factory-Expert)
 * **Especialización en Smart Factory: Convergencia IT/OT.**
 * **Descripción:** Documentación que abarca más de **1,500 actividades** prácticas sobre la transformación digital de la industria.
 * **Enfoque:** Integración de Python, **IA (OpenCV)**, sistemas de control industrial, **PLCs (TIA Portal)** y diseño eléctrico EPLAN.
