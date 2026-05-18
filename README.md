@@ -41,20 +41,20 @@ de los obstáculos.
 ### 🤖 [AUTOMATIZACIÓN-DE-MSJS](https://github.com/NanGuerr/AUTOMATIZACI-N-DE-MSJS)
 * **Bot de Python para envío automático de mensajes en WhatsApp.**
 * **Características:**
-    * Ciclo de envío programado para **100 días**.
-    * Persistencia de progreso (no pierde el hilo si se apaga).
-    * Manejo de zona horaria específica (**Argentina ART**).
-    * Cierre automático de pestañas para optimizar recursos.
+* Ciclo de envío programado para **100 días**.
+* Persistencia de progreso (no pierde el hilo si se apaga).
+* Manejo de zona horaria específica (**Argentina ART**).
+* Cierre automático de pestañas para optimizar recursos.
 * `Python` `Automation` `PyAutoGUI` `Selenium`
 
----
+### 🦉 [Duolingo-Gu-a-de-Optimizaci-n](https://github.com/NanGuerr/Duolingo-Gu-a-de-Optimizaci-n)
 
-## 📂 Otros Repositorios [Duolingo-Gu-a-de-Optimizaci-n](https://github.com/NanGuerr/Duolingo-Gu-a-de-Optimizaci-n)
-
-| Proyecto | Descripción | Stack |
-| :--- | :--- | :--- |
-| **Duolingo-Guía-de-Optimización** | Guía estratégica para maximizar el aprendizaje y beneficios de la plataforma N° 1 en aprendizaje de idiomas Duolingo. | `HTML` / `Docs` |
----
+* **Guía estratégica para maximizar el aprendizaje y beneficios en Duolingo.**
+* **Características:**
+* Consejos tácticos para la **plataforma N° 1** en aprendizaje de idiomas.
+* Enfoque en la optimización del tiempo y retención de vocabulario.
+* Recursos estructurados para acelerar el dominio del idioma elegido.
+* `HTML` `Docs`
 
 *Ultima actualización: Mayo 2026*
 ---
