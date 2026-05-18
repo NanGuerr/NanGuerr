@@ -56,7 +56,7 @@ de los obstáculos.
 | **Duolingo-Guía-de-Optimización** | Guía estratégica para maximizar el aprendizaje y beneficios de la plataforma N° 1 en aprendizaje de idiomas Duolingo. | `HTML` / `Docs` |
 ---
 
-*Ultima actualización: Marzo 2026*
+*Ultima actualización: Mayo 2026*
 ---
 
 ## ⚙️ Tecnologías & Herramientas
