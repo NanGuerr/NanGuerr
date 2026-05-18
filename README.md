@@ -6,8 +6,6 @@ Soy de las personas que no saben rendirse. Me apasionan los retos tecnológicos,
 luchar contra los problemas complejos y encontrar soluciones eficientes a pesar 
 de los obstáculos.
 
----
-
 ## 🛠️ Áreas de interés BLUE TEAM
 * **🛡️ Ciberseguridad:** Análisis de vulnerabilidades y defensa de redes.
 * **🤖 Robótica:** Sistemas embebidos y control de procesos.
@@ -16,7 +14,7 @@ de los obstáculos.
 
 ---
 
-## 🛠 Proyectos Principales
+## 🛠 Repositorios Principales
 
 ### 🏭 [Smart-Factory-Expert](https://github.com/NanGuerr/Smart-Factory-Expert)
 * **Especialización en Smart Factory: Convergencia IT/OT.**
@@ -57,7 +55,6 @@ de los obstáculos.
 * `HTML` `Docs`
 
 *Ultima actualización: Mayo 2026*
----
 
 ## ⚙️ Tecnologías & Herramientas
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
