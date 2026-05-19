@@ -38,14 +38,17 @@ de los obstáculos.
 * **Tecnología:** HTML5 / JavaScript (Interactivo).
 * `HTML` `GameDev` `CognitiveTraining`
 
-### 🤖 [AUTOMATIZACIÓN-DE-MSJS](https://github.com/NanGuerr/AUTOMATIZACI-N-DE-MSJS)
-* **Bot de Python para envío automático de mensajes en WhatsApp.**
-* **Características:**
-* Ciclo de envío programado para **100 días**.
-* Persistencia de progreso (no pierde el hilo si se apaga).
-* Manejo de zona horaria específica (**Argentina ART**).
-* Cierre automático de pestañas para optimizar recursos.
-* `Python` `Automation` `PyAutoGUI` `Selenium`
+### 🦅 [PROTOCOLO-FÉNIX-CORE](https://github.com/NanGuerr/Protocolo-F-nix)
+
+* **Doctrina de resistencia técnica y autonomía radical ante escenarios de colapso sistémico.**
+**Características:**
+* **Blindaje Electromagnético:** Implementación de protocolos de invisibilidad térmica y Jaulas de Faraday.
+* **Autonomía Energética:** Gestión de micro-redes DC de baja firma mediante componentes recuperados.
+* **Comunicaciones Cifradas:** Integración de redes Mesh (LoRa) con criptografía AES-256 y OTP.
+* **Operatividad Crítica:** Ejecución mecánica del Protocolo T0 (estabilización y respuesta en <24h).
+* **Resiliencia Cognitiva:** Aplicación de metodologías S.T.O.P. y ciberseguridad analógica (Air-Gapping).
+
+`Meshtastic` `SDR` `LoRa` `MARCH` `STOP`
 
 ### 🦉 [Duolingo-Gu-a-de-Optimizaci-n](https://github.com/NanGuerr/Duolingo-Gu-a-de-Optimizaci-n)
 
