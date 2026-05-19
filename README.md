@@ -47,8 +47,7 @@ de los obstáculos.
 * **Comunicaciones Cifradas:** Integración de redes Mesh (LoRa) con criptografía AES-256 y OTP.
 * **Operatividad Crítica:** Ejecución mecánica del Protocolo T0 (estabilización y respuesta en <24h).
 * **Resiliencia Cognitiva:** Aplicación de metodologías S.T.O.P. y ciberseguridad analógica (Air-Gapping).
-
-`Meshtastic` `SDR` `LoRa` `MARCH` `STOP`
+* `Meshtastic` `SDR` `LoRa` `MARCH` `STOP`
 
 ### 🦉 [Duolingo-Gu-a-de-Optimizaci-n](https://github.com/NanGuerr/Duolingo-Gu-a-de-Optimizaci-n)
 
