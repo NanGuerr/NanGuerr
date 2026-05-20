@@ -38,7 +38,7 @@ de los obstáculos.
 * **Tecnología:** HTML5 / JavaScript (Interactivo).
 * `HTML` `GameDev` `CognitiveTraining`
 
-### 🦅 [PROTOCOLO-FÉNIX-CORE](https://github.com/NanGuerr/Protocolo-F-nix)
+### 🦅 [Protocolo-F-nix](https://github.com/NanGuerr/Protocolo-F-nix)
 
 * **Doctrina de resistencia técnica y autonomía radical ante escenarios de colapso sistémico.**
 **Características:**
