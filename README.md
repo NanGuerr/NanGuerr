@@ -63,7 +63,7 @@ de los obstáculos.
 
 *Ultima actualización: Mayo 2026*
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -84,7 +84,7 @@ de los obstáculos.
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### 📡 Active Learning
+## 📡 Active Learning
 
 ![Wireshark](https://img.shields.io/badge/wireshark-%231679A6.svg?style=for-the-badge&logo=wireshark&logoColor=white) 
 ![Kali Linux](https://img.shields.io/badge/kali%20linux-%23268BEE.svg?style=for-the-badge&logo=kalilinux&logoColor=white) 
