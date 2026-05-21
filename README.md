@@ -2,6 +2,10 @@
   <img src="https://raw.githubusercontent.com/NanGuerr/NanGuerr/refs/heads/main/Banner.png" width="100%">
 </p>
 
+<p align="center">
+  Build with 🚀 by NanGuerr
+</p>
+
 # "Corregir el presente, un commit a la vez."
 
 La intersección entre la seguridad digital, la automatización, documentar y optimizar la lógica aplicada a sistemas críticos. 
@@ -91,3 +95,5 @@ espera como alguien que entiende que cuando el espíritu surge y manda,
 hasta los dioses obedecen. 
 --Wheeler Wilcox.
 ```
+### 📈 GitHub Stats
+![NanGuerr's GitHub stats](https://github-readme-stats.vercel.app/api?username=NanGuerr&show_icons=true&theme=radical)
