@@ -54,8 +54,7 @@ de los obstáculos.
 
 ### 🦉 [Duolingo-Gu-a-de-Optimizaci-n](https://github.com/NanGuerr/Duolingo-Gu-a-de-Optimizaci-n)
 
-* **Guía estratégica para maximizar el aprendizaje y beneficios en Duolingo.**
-* **Características:**
+*Guía estratégica para maximizar el aprendizaje y beneficios en Duolingo.*
 * Consejos tácticos para la **plataforma N° 1** en aprendizaje de idiomas.
 * Enfoque en la optimización del tiempo y retención de vocabulario.
 * Recursos estructurados para acelerar el dominio del idioma elegido.
