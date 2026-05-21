@@ -102,19 +102,11 @@ de los obstáculos.
  ![MQTT](https://img.shields.io/badge/MQTT-%23660066.svg?style=for-the-badge&logo=mqtt&logoColor=white)
 
 ## 📫 Conectemos
-- ⚡ **Curiosidad:** Siempre buscando el "porqué" detrás del error (Debugging is my superpower).
+⚡ *Siempre buscando el "porqué" detrás del error (Debugging is my superpower).*
   
-<p align="center">
-  <a href="https://www.khanacademy.org/profile/NanGuer">
-    <img src="https://img.shields.io/badge/Khan_Academy-689f38?style=for-the-badge&logo=khan-academy&logoColor=white">
-  </a>
-  <a href="https://www.duolingo.com/profile/NanGuer">
-    <img src="https://img.shields.io/badge/Duolingo-58cc02?style=for-the-badge&logo=duolingo&logoColor=white">
-  </a>
-  <a href="https://www.tinkercad.com/users/dGgLI9Jyg7V">
-    <img src="https://img.shields.io/badge/Tinkercad-ff6c37?style=for-the-badge&logo=tinkercad&logoColor=white">
-  </a>
-</p>
+- 🎓 **[Khan Academy](http://www.khanacademy.org/profile/NanGuer)** — *Fundamentos teóricos y avance académico.*
+- 🦉 **[Duolingo](https://www.duolingo.com/profile/NanGuer)** — *Optimización de idiomas y consistencia diaria.*
+- ⚙️ **[Tinkercad](https://www.tinkercad.com/users/dGgLI9Jyg7V)** — *Laboratorio virtual y prototipado de circuitos.*
 
 <img width="350" alt="1771199609" src="https://raw.githubusercontent.com/NanGuerr/NanGuerr/refs/heads/main/Duolingo-profile.png" />
 
