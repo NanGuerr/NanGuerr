@@ -102,7 +102,7 @@ de los obstáculos.
  ![MQTT](https://img.shields.io/badge/MQTT-%23660066.svg?style=for-the-badge&logo=mqtt&logoColor=white)
 
 ## 📫 Conectemos
-⚡ *Siempre buscando el "porqué" detrás del error (Debugging is my superpower).*
+⚡ **Siempre buscando el "porqué" detrás del error (Debugging is my superpower).**
   
 - 🎓 **[Khan Academy](http://www.khanacademy.org/profile/NanGuer)** — *Fundamentos teóricos y avance académico.*
 - 🦉 **[Duolingo](https://www.duolingo.com/profile/NanGuer)** — *Optimización de idiomas y consistencia diaria.*
