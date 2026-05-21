@@ -32,8 +32,13 @@ de los obstáculos.
 * **Ideal para:** Estudiantes que buscan dominar las bases de la algoritmia.
 * `Python` `Algoritmos` `Educación`
 
+---
+
 [![Miniatura del video](https://img.youtube.com/vi/https://youtu.be/9g_2B1Ji_CI/0.jpg)](https://www.youtube.com/watch?v=https://youtu.be/9g_2B1Ji_CI)
+
 <iframe src="https://youtu.be/9g_2B1Ji_CI" width="560" height="315"></iframe>
+
+---
 
 ### 🦅 [Protocolo-F-nix](https://github.com/NanGuerr/Protocolo-F-nix)
 
