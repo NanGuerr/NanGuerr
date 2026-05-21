@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  Build by NanGuerr
+  By NanGuerr
 </p>
 
 # "Corregir el presente, un commit a la vez."
@@ -95,5 +95,3 @@ espera como alguien que entiende que cuando el espíritu surge y manda,
 hasta los dioses obedecen. 
 --Wheeler Wilcox.
 ```
-### 📈 GitHub Stats
-![NanGuerr's GitHub stats](https://github-readme-stats.vercel.app/api?username=NanGuerr&show_icons=true&theme=radical)
