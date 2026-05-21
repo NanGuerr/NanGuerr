@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  Build with 🚀 by NanGuerr
+  Build by NanGuerr
 </p>
 
 # "Corregir el presente, un commit a la vez."
