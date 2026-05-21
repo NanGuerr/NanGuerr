@@ -34,7 +34,7 @@ de los obstáculos.
 
 ### 🎥 Inspiración aquí:
 
-[![Miniatura del video](https://img.youtube.com/vi/9g_2B1Ji_CI/0.jpg)](https://www.youtube.com/watch?v=9g_2B1Ji_CI)
+[![Miniatura del video](https://img.youtube.com/vi/6bd1LtTkIj0.jpg)](https://www.youtube.com/watch?v=6bd1LtTkIj0)
 
 ### 🦅 [Protocolo-F-nix](https://github.com/NanGuerr/Protocolo-F-nix)
 
