@@ -2,6 +2,11 @@
   <img src="https://raw.githubusercontent.com/NanGuerr/NanGuerr/refs/heads/main/Banner.png" width="100%">
 </p>
 
+
+<p align="center">
+  🛸 Debugging at Mach 2.0 | Outpacing the bugs.
+</p>
+
 # "Corregir el presente, un commit a la vez."
 
 La intersección entre la seguridad digital, la automatización, documentar y optimizar la lógica aplicada a sistemas críticos. 
