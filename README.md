@@ -86,20 +86,20 @@ de los obstáculos.
 
 ### 📡 Active Learning
 
-![Wireshark](https://img.shields.io/badge/wireshark-%231679A6.svg?style=flat&logo=wireshark&logoColor=white) 
-![Kali Linux](https://img.shields.io/badge/kali%20linux-%23268BEE.svg?style=flat&logo=kalilinux&logoColor=white) 
-![Nmap](https://img.shields.io/badge/nmap-%23000000.svg?style=flat&logo=nmap&logoColor=white) 
-![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=flat&logo=splunk&logoColor=white)
-![Arduino](https://img.shields.io/badge/arduino-%2300979D.svg?style=flat&logo=arduino&logoColor=white) 
-![Raspberry Pi](https://img.shields.io/badge/raspberry%20pi-%23C51A4A.svg?style=flat&logo=raspberrypi&logoColor=white) 
-![ROS](https://img.shields.io/badge/ros-%230A0EB2.svg?style=flat&logo=ros&logoColor=white) 
-![ABB](https://img.shields.io/badge/ABB-%23FF0000.svg?style=flat&logo=abb&logoColor=white)
-![MATLAB](https://img.shields.io/badge/matlab-%23E76F00.svg?style=flat&logo=matlab&logoColor=white) 
-![Simulink](https://img.shields.io/badge/simulink-%230076A8.svg?style=flat&logo=simulink&logoColor=white) 
-![ArduPilot](https://img.shields.io/badge/ardupilot-%23007D8B.svg?style=flat&logo=ardupilot&logoColor=white)
-![LoRaWAN](https://img.shields.io/badge/LoRaWAN-%23007D8B.svg?style=flat&logo=lora&logoColor=white) 
-![SDR](https://img.shields.io/badge/SDR-%23FF6600.svg?style=flat&logo=radio&logoColor=white) 
-![MQTT](https://img.shields.io/badge/MQTT-%23660066.svg?style=flat&logo=mqtt&logoColor=white)
+![Wireshark](https://img.shields.io/badge/wireshark-%231679A6.svg?style=for-the-badge&logo=wireshark&logoColor=white) 
+![Kali Linux](https://img.shields.io/badge/kali%20linux-%23268BEE.svg?style=for-the-badge&logo=kalilinux&logoColor=white) 
+![Nmap](https://img.shields.io/badge/nmap-%23000000.svg?style=for-the-badge&logo=nmap&logoColor=white) 
+![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white)
+![Arduino](https://img.shields.io/badge/arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white) 
+![Raspberry Pi](https://img.shields.io/badge/raspberry%20pi-%23C51A4A.svg?style=for-the-badge&logo=raspberrypi&logoColor=white) 
+![ROS](https://img.shields.io/badge/ros-%230A0EB2.svg?style=for-the-badge&logo=ros&logoColor=white) 
+![ABB](https://img.shields.io/badge/ABB-%23FF0000.svg?style=for-the-badge&logo=abb&logoColor=white)
+![MATLAB](https://img.shields.io/badge/matlab-%23E76F00.svg?style=for-the-badge&logo=matlab&logoColor=white) 
+![Simulink](https://img.shields.io/badge/simulink-%230076A8.svg?style=for-the-badge&logo=simulink&logoColor=white) 
+![ArduPilot](https://img.shields.io/badge/ardupilot-%23007D8B.svg?style=for-the-badge&logo=ardupilot&logoColor=white)
+![LoRaWAN](https://img.shields.io/badge/LoRaWAN-%23007D8B.svg?style=for-the-badge&logo=lora&logoColor=white) 
+![SDR](https://img.shields.io/badge/SDR-%23FF6600.svg?style=for-the-badge&logo=radio&logoColor=white) 
+![MQTT](https://img.shields.io/badge/MQTT-%23660066.svg?style=for-the-badge&logo=mqtt&logoColor=white)
 
 ## 📫 Conectemos
 - ⚡ **Curiosidad:** Siempre buscando el "porqué" detrás del error (Debugging is my superpower).
