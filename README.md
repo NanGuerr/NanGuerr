@@ -107,8 +107,6 @@ de los obstáculos.
 - 🦉 **[Duolingo](https://www.duolingo.com/profile/NanGuer)** — *Optimización de idiomas y consistencia diaria.*
 - ⚙️ **[Tinkercad](https://www.tinkercad.com/users/dGgLI9Jyg7V)** — *Laboratorio virtual y prototipado de circuitos.*
 
-<img width="350" alt="1771199609" src="https://raw.githubusercontent.com/NanGuerr/NanGuerr/refs/heads/main/Duolingo-profile.png" />
-
 ```python
 > "Aunque se interpongan muros de granito, no desesperes por su retraso, 
 > espera como alguien que entiende que cuando el espíritu surge y manda, 
