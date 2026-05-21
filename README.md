@@ -120,4 +120,5 @@ de los obstáculos.
   <a href="#-áreas-de-interés-blue-team">Áreas de Interés</a> • 
   <a href="#-repositorios-principales">Proyectos</a> • 
   <a href="#-conectemos">Contacto</a>
+  <a href="#-tech-stack">Tech Stack</a>
 </p>
