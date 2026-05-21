@@ -103,9 +103,18 @@ de los obstáculos.
 
 ## 📫 Conectemos
 - ⚡ **Curiosidad:** Siempre buscando el "porqué" detrás del error (Debugging is my superpower).
-- 🔗 [Khan Academy](http://www.khanacademy.org/profile/NanGuer)
-- 🔗 [Duolingo](https://www.duolingo.com/profile/NanGuer)
-- 🔗 [ThinKercad](https://www.tinkercad.com/users/dGgLI9Jyg7V)
+  
+<p align="center">
+  <a href="https://www.khanacademy.org/profile/NanGuer">
+    <img src="https://img.shields.io/badge/Khan_Academy-689f38?style=for-the-badge&logo=khan-academy&logoColor=white">
+  </a>
+  <a href="https://www.duolingo.com/profile/NanGuer">
+    <img src="https://img.shields.io/badge/Duolingo-58cc02?style=for-the-badge&logo=duolingo&logoColor=white">
+  </a>
+  <a href="https://www.tinkercad.com/users/dGgLI9Jyg7V">
+    <img src="https://img.shields.io/badge/Tinkercad-ff6c37?style=for-the-badge&logo=tinkercad&logoColor=white">
+  </a>
+</p>
 
 <img width="350" alt="1771199609" src="https://raw.githubusercontent.com/NanGuerr/NanGuerr/refs/heads/main/Duolingo-profile.png" />
 
