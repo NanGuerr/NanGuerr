@@ -32,14 +32,6 @@ de los obstáculos.
 * **Ideal para:** Estudiantes que buscan dominar las bases de la algoritmia.
 * `Python` `Algoritmos` `Educación`
 
----
-
-[![Miniatura del video](https://img.youtube.com/vi/https://youtu.be/9g_2B1Ji_CI/0.jpg)](https://www.youtube.com/watch?v=https://youtu.be/9g_2B1Ji_CI)
-
-<iframe src="https://youtu.be/9g_2B1Ji_CI" width="560" height="315"></iframe>
-
----
-
 ### 🦅 [Protocolo-F-nix](https://github.com/NanGuerr/Protocolo-F-nix)
 
 * **Doctrina de resistencia técnica y autonomía radical ante escenarios de colapso sistémico.**
@@ -95,3 +87,10 @@ espera como alguien que entiende que cuando el espíritu surge y manda,
 hasta los dioses obedecen. 
 --Wheeler Wilcox.
 ```
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
+  <iframe 
+    src="https://www.youtube.com/embed/9g_2B1Ji_CI" 
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" 
+    allowfullscreen>
+  </iframe>
+</div>
