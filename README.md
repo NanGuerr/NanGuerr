@@ -64,24 +64,28 @@
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)
 
 ## 📫 Conectemos
-
-⚡ *HYPERFOCUS mode: I will HIT YOU UP; in the meantime, please just leave a SIGNAL on Duolingo if you need anything.*
-
-* 🇪🇸 España
-* 🇺🇸 EEUU
-* 🇧🇷 Brasil
-🇪🇸 **Spanish (Native)**
-🇺🇸 **English (Technical)**
-🇧🇷 **Portuguese (Intermediate)**
-
 ![Spanish](https://img.shields.io/badge/Spanish-Native-brightgreen?logo=spain&logoColor=white)
 ![English](https://img.shields.io/badge/English-Technical-blue?logo=google-translate&logoColor=white)
 ![Portuguese](https://img.shields.io/badge/Portuguese-Intermediate-orange?logo=read-the-docs&logoColor=white)
+
+⚡ *HYPERFOCUS mode: I will HIT YOU UP; in the meantime, please just leave a SIGNAL on Duolingo if you need anything.*
+
+<!-- Khan Academy -->
+<a href="https://www.khanacademy.org/profile/NanGuer">
+  <img src="https://cdn.worldvectorlogo.com/logos/khan-academy-1.svg" alt="Khan Academy" width="30" height="30">
+</a>
+
+<!-- Duolingo -->
+<a href="https://www.duolingo.com/profile/NanGuer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f6/Duolingo_logo.svg" alt="Duolingo" width="30" height="30">
+</a>
+
+<!-- Tinkercad -->
+<a href="https://www.tinkercad.com/users/dGgLI9Jyg7V">
+  <img src="https://cdn.worldvectorlogo.com/logos/tinkercad.svg" alt="Tinkercad" width="30" height="30">
+</a>
+
 - *Siempre buscando el "porqué" detrás del error (Debugging is my superpower).*
-  
-[![Khan Academy](https://img.shields.io/badge/Khan_Academy-Fundamentos_Teóricos-red?logo=khanacademy)](https://www.khanacademy.org/profile/NanGuer)
-[![Duolingo](https://img.shields.io/badge/Duolingo-Idiomas_y_Consistencia-green?logo=duolingo)](https://www.duolingo.com/profile/NanGuer)
-[![Tinkercad](https://img.shields.io/badge/Tinkercad-Prototipado_y_Circuitos-blue?logo=tinkercad)](https://www.tinkercad.com/users/dGgLI9Jyg7V)
 
 ```python
 > "Aunque se interpongan muros de granito, no desesperes por su retraso, 
