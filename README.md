@@ -1,4 +1,11 @@
-## *"Los nuevos desafíos tecnológicos son el código de mi optimismo. Busco la ruta más eficiente para alcanzar la mejor versión de cada sistema."* 
+## *"Los nuevos desafíos tecnológicos son el código de mi optimismo. Busco la ruta más eficiente para alcanzar la mejor versión de cada sistema."*
+
+<p align="center">
+  <a href="#-áreas-de-interés-blue-team">Áreas de Interés</a> • 
+  <a href="#-repositorios-principales">Repositorios</a> • 
+  <a href="#-conectemos">Contacto</a> • 
+  <a href="#-tech-stack">Tech Stack</a>
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/NanGuerr/NanGuerr/refs/heads/main/Banner.png" width="100%">
@@ -60,6 +67,9 @@
 
 ⚡ *HYPERFOCUS mode: I will HIT YOU UP; in the meantime, please just leave a SIGNAL on Duolingo if you need anything.*
 
+* 🇪🇸 España
+* 🇺🇸 EEUU
+* 🇧🇷 Brasil
 🇪🇸 **Spanish (Native)**
 🇺🇸 **English (Technical)**
 🇧🇷 **Portuguese (Intermediate)**
@@ -79,13 +89,6 @@
 > hasta los dioses obedecen."
 > — Wheeler Wilcox
 ```
-
-<p align="center">
-  <a href="#-áreas-de-interés-blue-team">Áreas de Interés</a> • 
-  <a href="#-repositorios-principales">Repositorios</a> • 
-  <a href="#-conectemos">Contacto</a> • 
-  <a href="#-tech-stack">Tech Stack</a>
-</p>
 
 ## 🛠 Repositorios Principales
 
