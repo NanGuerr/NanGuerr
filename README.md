@@ -92,11 +92,10 @@ de los obstáculos.
 * Integración de Python, **IA (OpenCV)**, sistemas de control industrial, **PLCs (TIA Portal)** y diseño eléctrico EPLAN.
 * Tecnologías de vanguardia como Node-RED, Docker, **Ciberseguridad Industrial** y Robótica (ABB).
 
-
-![Industria 4.0](https://img.shields.io/badge/Industria_4.0-blue?style=for-the-badge&logo=siemens)
-![PLC](https://img.shields.io/badge/PLC-📟-yellow?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-🐍-blue?style=for-the-badge&logo=python)
-![IIoT](https://img.shields.io/badge/IIoT-🌐-red?style=for-the-badge&logo=iot)
+![Industria 4.0](https://img.shields.io/badge/Industria-4.0-blue?logo=siemens)
+![PLC](https://img.shields.io/badge/PLC-Controladores_Lógicos-red?logo=logic)
+![Python](https://img.shields.io/badge/Python-Programación-yellow?logo=python&logoColor=blue)
+![IIoT](https://img.shields.io/badge/IIoT-Industrial_IoT-green?logo=internet-of-things)
 
 ### 🧠 [Introducción-a-la-Programación](https://github.com/NanGuerr/Introducci-n-a-la-Programaci-n)
 
