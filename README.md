@@ -76,7 +76,7 @@
 
 ⚡ ***HYPERFOCUS** mode: I will **hit you up**; please just leave a SIGNAL on **DUOLINGO** if you need anything.*
 
-<p align="center"><img src="https://raw.githubusercontent.com/NanGuerr/NanGuerr/refs/heads/main/Duolingo-profile.png" width="27%"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/NanGuerr/NanGuerr/refs/heads/main/Duolingo-profile.png" width="20%"></p>
 
 ## 🛠 Repositorios Principales
 
