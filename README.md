@@ -119,7 +119,6 @@
 ![Meshtastic](https://img.shields.io/badge/Meshtastic-Open_Source-blue?logo=meshtastic)
 ![SDR](https://img.shields.io/badge/SDR-Software_Defined_Radio-orange?logo=radio)
 ![LoRa](https://img.shields.io/badge/LoRa-Long_Range-green?logo=lora)
-![MARCH](https://img.shields.io/badge/MARCH-Protocolo_Médico-red?logo=heart)
 
 ### 🦉 [Duolingo-Gu-a-de-Optimizaci-n](https://github.com/NanGuerr/Duolingo-Gu-a-de-Optimizaci-n)
 
