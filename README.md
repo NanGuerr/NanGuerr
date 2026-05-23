@@ -51,8 +51,6 @@
 
 *Ultima actualización: Mayo 2026*
 
-## 🛠️ Next Tech Stack
-
 ![Wireshark](https://img.shields.io/badge/wireshark-%231679A6.svg?style=flat&logo=wireshark&logoColor=white) 
 ![Kali Linux](https://img.shields.io/badge/kali%20linux-%23268BEE.svg?style=flat&logo=kalilinux&logoColor=white) 
 ![Nmap](https://img.shields.io/badge/nmap-%23000000.svg?style=flat&logo=nmap&logoColor=white) 
@@ -75,9 +73,13 @@
 ## 📫 Conectemos
 ⚡ *HYPERFOCUS mode: I will HIT YOU UP; in the meantime, please just leave a SIGNAL on **Duolingo** if you need anything.*
 
--🦉 [Duolingo](https://www.duolingo.com/profile/NanGuer) - Práctica de idiomas.
--🎓 [Khan Academy](https://www.khanacademy.org/profile/NanGuer) - Aprendizaje autodidacta.
--🔧 [Tinkercad](https://www.tinkercad.com/users/dGgLI9Jyg7V) - Diseño y electrónica.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NanGuerr/NanGuerr/refs/heads/main/Duolingo-profile.png" width="100%">
+</p>
+
+*🦉 [Duolingo](https://www.duolingo.com/profile/NanGuer) - Práctica de idiomas.
+*🎓 [Khan Academy](https://www.khanacademy.org/profile/NanGuer) - Aprendizaje autodidacta.
+*🔧 [Tinkercad](https://www.tinkercad.com/users/dGgLI9Jyg7V) - Diseño y electrónica.
 - *Siempre buscando el "porqué" detrás del error (Debugging is my superpower).*
 
 ```python
