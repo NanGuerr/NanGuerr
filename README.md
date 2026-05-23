@@ -48,13 +48,13 @@
 ### 🎥 Inspiración aquí:
 
 <a href="https://www.youtube.com/watch?v=D9oH8skIZw0" target="_blank">
-  <img src="https://img.youtube.com/vi/D9oH8skIZw0/0.jpg" alt="Miniatura del video" width="30%">
+  <img src="https://img.youtube.com/vi/D9oH8skIZw0/0.jpg" alt="Miniatura del video" width="32%">
 </a>
 <a href="https://www.youtube.com/watch?v=9g_2B1Ji_CI4" target="_blank">
-  <img src="https://img.youtube.com/vi/9g_2B1Ji_CI/0.jpg" alt="Miniatura del video" width="30%">
+  <img src="https://img.youtube.com/vi/9g_2B1Ji_CI/0.jpg" alt="Miniatura del video" width="32%">
 </a>
-<a href="https://www.youtube.com/watch?v=1vmOa9oRMvA" target="_blank">
-  <img src="https://img.youtube.com/vi/1vmOa9oRMvA/0.jpg" alt="Miniatura del video" width="30%">
+<a href="https://www.youtube.com/watch?v=5BjdG3_BH8M" target="_blank">
+  <img src="https://img.youtube.com/vi/5BjdG3_BH8M/0.jpg" alt="Miniatura del video" width="32%">
 </a>
 
 *Ultima actualización: Mayo 2026*
