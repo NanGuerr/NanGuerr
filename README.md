@@ -4,22 +4,6 @@
   <img src="https://raw.githubusercontent.com/NanGuerr/NanGuerr/refs/heads/main/Banner.png" width="100%">
 </p>
 
-## 🛠️ Áreas de interés BLUE TEAM
-* **🛡️ Ciberseguridad:** Análisis de vulnerabilidades y defensa de redes.
-* **🤖 Robótica:** Sistemas embebidos y control de procesos.
-* **✈️ Aeronáutica:** Integración tecnológica en sistemas de vuelo.
-* **📡 Telecomunicaciones:** Infraestructura y protocolos de comunicación.
-
-**Objetivo:** *La intersección entre la seguridad digital, la automatización, documentar y optimizar la lógica aplicada a sistemas críticos.*
-
-### 🎥 Inspiración aquí:
-
-[![Miniatura del video](https://img.youtube.com/vi/9g_2B1Ji_CI/0.jpg)](https://www.youtube.com/watch?v=9g_2B1Ji_CI)
-
-*Ultima actualización: Mayo 2026*
-
-## 🛠️ Tech Stack
-
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
@@ -39,6 +23,22 @@
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
+## 🛠️ Áreas de interés BLUE TEAM
+* **🛡️ Ciberseguridad:** Análisis de vulnerabilidades y defensa de redes.
+* **🤖 Robótica:** Sistemas embebidos y control de procesos.
+* **✈️ Aeronáutica:** Integración tecnológica en sistemas de vuelo.
+* **📡 Telecomunicaciones:** Infraestructura y protocolos de comunicación.
+
+**Objetivo:** *La intersección entre la seguridad digital, la automatización, documentar y optimizar la lógica aplicada a sistemas críticos.*
+
+### 🎥 Inspiración aquí:
+
+[![Miniatura del video](https://img.youtube.com/vi/9g_2B1Ji_CI/0.jpg)](https://www.youtube.com/watch?v=9g_2B1Ji_CI)
+
+*Ultima actualización: Mayo 2026*
+
+## 🛠️ Next Tech Stack
+
 - **Active Learning**
 
 ![Wireshark](https://img.shields.io/badge/wireshark-%231679A6.svg?style=flat&logo=wireshark&logoColor=white) 
@@ -57,7 +57,7 @@
 ![MQTT](https://img.shields.io/badge/MQTT-%23660066.svg?style=flat&logo=mqtt&logoColor=white)
 
 ## 📫 Conectemos
-# *Hyperfocus mode:** I will **hit you up**; in the meantime, please just leave a **signal** on Duolingo if you need anything.*
+# *HYPERFOCUS mode: I will HIT YOU UP; in the meantime, please just leave a SIGNAL on Duolingo if you need anything.*
 ⚡ *Siempre buscando el "porqué" detrás del error (Debugging is my superpower).*
   
 [![Khan Academy](https://img.shields.io/badge/Khan_Academy-Fundamentos_Teóricos-red?logo=khanacademy)](https://www.khanacademy.org/profile/NanGuer)
