@@ -92,9 +92,9 @@ de los obstáculos.
 * Integración de Python, **IA (OpenCV)**, sistemas de control industrial, **PLCs (TIA Portal)** y diseño eléctrico EPLAN.
 * Tecnologías de vanguardia como Node-RED, Docker, **Ciberseguridad Industrial** y Robótica (ABB).
 
-```Bash
-`Industria 4.0` `PLC` `Python` `IIoT`
-```
+<p align="center">
+  Industria 4.0 | PLC | Python | IIoT
+</p>
 
 ### 🧠 [Introducción-a-la-Programación](https://github.com/NanGuerr/Introducci-n-a-la-Programaci-n)
 
