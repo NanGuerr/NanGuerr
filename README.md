@@ -1,6 +1,4 @@
-# "Soy de las personas que no saben rendirse. Me apasionan los retos tecnológicos...
-Luchar contra los problemas complejos y encontrar soluciones eficientes a pesar 
-de los obstáculos."
+## *"Los nuevos desafíos tecnológicos y los obstáculos no son más que ruido de fondo en el código de mi optimismo, y siempre encuentro la ruta más eficiente para hackear la realidad y alcanzar la mejor versión de cada sistema."* 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/NanGuerr/NanGuerr/refs/heads/main/Banner.png" width="100%">
