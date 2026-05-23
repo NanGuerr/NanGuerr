@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/NanGuerr/NanGuerr/refs/heads/main/Banner.png" width="60%">
+  <img src="https://raw.githubusercontent.com/NanGuerr/NanGuerr/refs/heads/main/Banner.png" width="80%">
 </p>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
