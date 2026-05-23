@@ -47,6 +47,10 @@
 
 ### 🎥 Inspiración aquí:
 
+<a href="https://www.youtube.com/watch?v=9g_2B1Ji_CI" target="_blank">
+  <img src="https://img.youtube.com/vi/9g_2B1Ji_CI/0.jpg" alt="Miniatura del video" width="40%">
+</a>
+
 [![Miniatura del video](https://img.youtube.com/vi/9g_2B1Ji_CI/0.jpg)](https://www.youtube.com/watch?v=9g_2B1Ji_CI)
 
 *Ultima actualización: Mayo 2026*
