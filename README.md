@@ -22,7 +22,6 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ## 🛠️ Áreas de interés BLUE TEAM
@@ -74,13 +73,13 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white)
 
 ## 📫 Conectemos
 
-🦉 [Duolingo](https://www.duolingo.com/profile/NanGuer) - Práctica de idiomas. 🎓 [Khan Academy](https://www.khanacademy.org/profile/NanGuer) - Aprendizaje autodidacta. 🔧 [Tinkercad](https://www.tinkercad.com/users/dGgLI9Jyg7V) - Diseño y electrónica.
 ⚡ ***HYPERFOCUS** mode: I will **HIT YOU UP**; in the meantime, please just leave a SIGNAL on **Duolingo** if you need anything.*
 
-<p align="left"><img src="https://raw.githubusercontent.com/NanGuerr/NanGuerr/refs/heads/main/Duolingo-profile.png" width="30%"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/NanGuerr/NanGuerr/refs/heads/main/Duolingo-profile.png" width="30%"></p>
 
 ## 🛠 Repositorios Principales
 
