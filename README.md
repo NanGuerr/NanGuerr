@@ -78,14 +78,6 @@
 * 🦉 [Duolingo](https://www.duolingo.com/profile/NanGuer) - Práctica de idiomas.
 * 🎓 [Khan Academy](https://www.khanacademy.org/profile/NanGuer) - Aprendizaje autodidacta.
 * 🔧 [Tinkercad](https://www.tinkercad.com/users/dGgLI9Jyg7V) - Diseño y electrónica.
-- *Siempre buscando el "porqué" detrás del error (Debugging is my superpower).*
-
-```python
-> "Aunque se interpongan muros de granito, no desesperes por su retraso, 
-> espera como alguien que entiende que cuando el espíritu surge y manda, 
-> hasta los dioses obedecen."
-> — Wheeler Wilcox
-```
 
 ## 🛠 Repositorios Principales
 
@@ -126,7 +118,6 @@
 ![SDR](https://img.shields.io/badge/SDR-Software_Defined_Radio-orange?logo=radio)
 ![LoRa](https://img.shields.io/badge/LoRa-Long_Range-green?logo=lora)
 ![MARCH](https://img.shields.io/badge/MARCH-Protocolo_Médico-red?logo=heart)
-![STOP](https://img.shields.io/badge/STOP-Control_de_Hemorragias-critical?logo=shield)
 
 ### 🦉 [Duolingo-Gu-a-de-Optimizaci-n](https://github.com/NanGuerr/Duolingo-Gu-a-de-Optimizaci-n)
 
@@ -140,3 +131,12 @@
 ![Languages](https://img.shields.io/badge/Languages-blue?logo=google-translate&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![Docs](https://img.shields.io/badge/Docs-4285F4?logo=googledocs&logoColor=white)
+
+- *Siempre buscando el "porqué" detrás del error (Debugging is my superpower).*
+
+```python
+> "Aunque se interpongan muros de granito, no desesperes por su retraso, 
+> espera como alguien que entiende que cuando el espíritu surge y manda, 
+> hasta los dioses obedecen."
+> — Wheeler Wilcox
+```
