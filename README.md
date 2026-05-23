@@ -1,22 +1,18 @@
+# "Soy de las personas que no saben rendirse. Me apasionan los retos tecnológicos...
+Luchar contra los problemas complejos y encontrar soluciones eficientes a pesar 
+de los obstáculos."
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/NanGuerr/NanGuerr/refs/heads/main/Banner.png" width="100%">
 </p>
-
-
-
-# "Corregir el presente, un commit a la vez."
-
-La intersección entre la seguridad digital, la automatización, documentar y optimizar la lógica aplicada a sistemas críticos. 
-
-Soy de las personas que no saben rendirse. Me apasionan los retos tecnológicos, 
-luchar contra los problemas complejos y encontrar soluciones eficientes a pesar 
-de los obstáculos.
 
 ## 🛠️ Áreas de interés BLUE TEAM
 * **🛡️ Ciberseguridad:** Análisis de vulnerabilidades y defensa de redes.
 * **🤖 Robótica:** Sistemas embebidos y control de procesos.
 * **✈️ Aeronáutica:** Integración tecnológica en sistemas de vuelo.
 * **📡 Telecomunicaciones:** Infraestructura y protocolos de comunicación.
+
+*La intersección entre la seguridad digital, la automatización, documentar y optimizar la lógica aplicada a sistemas críticos.*
 
 ### 🎥 Inspiración aquí:
 
@@ -131,8 +127,8 @@ de los obstáculos.
 * Enfoque en la optimización del tiempo y retención de vocabulario.
 * Recursos estructurados para acelerar el dominio del idioma elegido.
 
-![Duolingo](https://img.shields.io/badge/Duolingo-749D0C?style=for-the-badge&logo=duolingo&logoColor=white)
-![Super](https://img.shields.io/badge/Super-000000?style=for-the-badge&logo=superhuman&logoColor=white)
-![Languages](https://img.shields.io/badge/Languages-blue?style=for-the-badge&logo=google-translate&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Docs](https://img.shields.io/badge/Docs-4285F4?style=for-the-badge&logo=googledocs&logoColor=white)
+![Duolingo](https://img.shields.io/badge/Duolingo-749D0C?logo=duolingo&logoColor=white)
+![Super](https://img.shields.io/badge/Super-000000?logo=superhuman&logoColor=white)
+![Languages](https://img.shields.io/badge/Languages-blue?logo=google-translate&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![Docs](https://img.shields.io/badge/Docs-4285F4?logo=googledocs&logoColor=white)
