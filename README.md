@@ -132,7 +132,8 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![Docs](https://img.shields.io/badge/Docs-4285F4?logo=googledocs&logoColor=white)
 
-- *Siempre buscando el "porqué" detrás del error (Debugging is my superpower).*
+---
+*Siempre buscando el "porqué" detrás del error (Debugging is my superpower).*
 
 ```python
 > "Aunque se interpongan muros de granito, no desesperes por su retraso, 
