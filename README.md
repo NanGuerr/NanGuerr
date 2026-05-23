@@ -1,5 +1,11 @@
 ## *"Los nuevos desafíos tecnológicos son el código de mi optimismo. Busco la ruta más eficiente para alcanzar la mejor versión de cada sistema."*
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Español-Nativo-red?style=flat&logo=spain&logoColor=white" alt="Spanish">
+  <img src="https://img.shields.io/badge/English-Technical-2a5499?style=flat&logo=google-translate&logoColor=white" alt="English">
+  <img src="https://img.shields.io/badge/Português-Intermediário-green?style=flat&logo=brazil&logoColor=white" alt="Portuguese">
+</p>
+
 <p align="center">
   <a href="#-áreas-de-interés-blue-team">Áreas de Interés</a> • 
   <a href="#-repositorios-principales">Repositorios</a> • 
@@ -61,12 +67,6 @@
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)
 
 ## 📫 Conectemos
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Español-Nativo-red?style=flat&logo=spain&logoColor=white" alt="Spanish">
-  <img src="https://img.shields.io/badge/English-Technical-2a5499?style=flat&logo=google-translate&logoColor=white" alt="English">
-  <img src="https://img.shields.io/badge/Português-Intermediário-green?style=flat&logo=brazil&logoColor=white" alt="Portuguese">
-</p>
 
 ⚡ *HYPERFOCUS mode: I will HIT YOU UP; in the meantime, please just leave a SIGNAL on **Duolingo** if you need anything.*
 
