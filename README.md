@@ -1,4 +1,4 @@
-## *"Los nuevos desafíos tecnológicos y los obstáculos no son más que ruido de fondo en el código de mi optimismo. Busco la ruta más eficiente para hackear la realidad y alcanzar la mejor versión de cada sistema."* 
+## *"Los nuevos desafíos tecnológicos son el código de mi optimismo. Busco la ruta más eficiente para alcanzar la mejor versión de cada sistema."* 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/NanGuerr/NanGuerr/refs/heads/main/Banner.png" width="100%">
