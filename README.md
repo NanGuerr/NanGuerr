@@ -85,9 +85,9 @@
 ### 🏭 [Smart-Factory-Expert](https://github.com/NanGuerr/Smart-Factory-Expert)
 
 *Especialización en Smart Factory: Convergencia IT/OT.*
-* Documentación que abarca más de **1,500 actividades** prácticas sobre la transformación digital de la industria.
-* Integración de Python, **IA (OpenCV)**, sistemas de control industrial, **PLCs (TIA Portal)** y diseño eléctrico EPLAN.
-* Tecnologías de vanguardia como Node-RED, Docker, **Ciberseguridad Industrial** y Robótica (ABB).
+* Más de **1,500 actividades** prácticas sobre la transformación digital de la industria.
+* Integración **IA (OpenCV)**, **PLCs (TIA Portal)** y diseño eléctrico EPLAN.
+* Tecnologías como Node-RED, Docker, **Ciberseguridad Industrial** y Robótica (ABB).
 
 ![Industria 4.0](https://img.shields.io/badge/Industria-4.0-blue?logo=siemens)
 ![PLC](https://img.shields.io/badge/PLC-Controladores_Lógicos-red?logo=logic)
