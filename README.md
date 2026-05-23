@@ -45,7 +45,7 @@ de los obstáculos.
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-- 📡 Active Learning
+- **Active Learning**
 
 ![Wireshark](https://img.shields.io/badge/wireshark-%231679A6.svg?style=for-the-badge&logo=wireshark&logoColor=white) 
 ![Kali Linux](https://img.shields.io/badge/kali%20linux-%23268BEE.svg?style=for-the-badge&logo=kalilinux&logoColor=white) 
@@ -91,7 +91,7 @@ de los obstáculos.
 * **Descripción:** Documentación que abarca más de **1,500 actividades** prácticas sobre la transformación digital de la industria.
 * **Enfoque:** Integración de Python, **IA (OpenCV)**, sistemas de control industrial, **PLCs (TIA Portal)** y diseño eléctrico EPLAN.
 * **Ideal para:** Tecnologías de vanguardia como Node-RED, Docker, **Ciberseguridad Industrial** y Robótica (ABB).
-- `Industria 4.0` `PLC` `Python` `IIoT`
+`Industria 4.0` `PLC` `Python` `IIoT`
 
 ### 🧠 [Introducción-a-la-Programación](https://github.com/NanGuerr/Introducci-n-a-la-Programaci-n)
 
@@ -99,7 +99,7 @@ de los obstáculos.
 * **Descripción:** Repositorio académico con guías RDC/RFD y finales actualizados a **Febrero 2026**.
 * **Enfoque:** Algoritmos eficientes y lógica pura en **Python 🐍**.
 * **Ideal para:** Estudiantes que buscan dominar las bases de la algoritmia.
-- `Python` `Algoritmos` `Educación`
+`Python` `Algoritmos` `Educación`
 
 ### 🦅 [Protocolo-F-nix](https://github.com/NanGuerr/Protocolo-F-nix)
 
@@ -110,7 +110,7 @@ de los obstáculos.
 * **Comunicaciones Cifradas:** Integración de redes Mesh (LoRa) con criptografía AES-256 y OTP.
 * **Operatividad Crítica:** Ejecución mecánica del Protocolo T0 (estabilización y respuesta en <24h).
 * **Resiliencia Cognitiva:** Aplicación de metodologías S.T.O.P. y ciberseguridad analógica (Air-Gapping).
-- `Meshtastic` `SDR` `LoRa` `MARCH` `STOP`
+`Meshtastic` `SDR` `LoRa` `MARCH` `STOP`
 
 ### 🦉 [Duolingo-Gu-a-de-Optimizaci-n](https://github.com/NanGuerr/Duolingo-Gu-a-de-Optimizaci-n)
 
@@ -118,4 +118,4 @@ de los obstáculos.
 * Consejos tácticos para la **plataforma N° 1** en aprendizaje de idiomas.
 * Enfoque en la optimización del tiempo y retención de vocabulario.
 * Recursos estructurados para acelerar el dominio del idioma elegido.
-- `HTML` `Docs`
+`HTML` `Docs`
