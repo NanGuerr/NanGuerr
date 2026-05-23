@@ -64,9 +64,6 @@
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)
 
 ## 📫 Conectemos
-![Spanish](https://img.shields.io/badge/Spanish-Native-brightgreen?logo=spain&logoColor=white)
-![English](https://img.shields.io/badge/English-Technical-blue?logo=google-translate&logoColor=white)
-![Portuguese](https://img.shields.io/badge/Portuguese-Intermediate-orange?logo=read-the-docs&logoColor=white)
 
 <p align="left">
   <img src="https://img.shields.io/badge/Español-Nativo-red?style=flat&logo=spain&logoColor=white" alt="Spanish">
@@ -76,20 +73,28 @@
 
 ⚡ *HYPERFOCUS mode: I will HIT YOU UP; in the meantime, please just leave a SIGNAL on Duolingo if you need anything.*
 
-<!-- Khan Academy -->
-<a href="https://www.khanacademy.org/profile/NanGuer">
-  <img src="https://cdn.worldvectorlogo.com/logos/khan-academy-1.svg" alt="Khan Academy" width="30" height="30">
-</a>
-
-<!-- Duolingo -->
-<a href="https://www.duolingo.com/profile/NanGuer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f6/Duolingo_logo.svg" alt="Duolingo" width="30" height="30">
-</a>
-
-<!-- Tinkercad -->
-<a href="https://www.tinkercad.com/users/dGgLI9Jyg7V">
-  <img src="https://cdn.worldvectorlogo.com/logos/tinkercad.svg" alt="Tinkercad" width="30" height="30">
-</a>
+<table>
+  <tr>
+    <td align="center" width="100">
+      <a href="https://www.khanacademy.org/profile/NanGuer" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/2/23/Khan_Academy_logo.svg" alt="Khan Academy" width="40" />
+      </a>
+      <br><sub>Khan Academy</sub>
+    </td>
+    <td align="center" width="100">
+      <a href="https://www.duolingo.com/profile/NanGuer" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/f/f6/Duolingo_logo.svg" alt="Duolingo" width="40" />
+      </a>
+      <br><sub>Duolingo</sub>
+    </td>
+    <td align="center" width="100">
+      <a href="https://www.tinkercad.com/users/dGgLI9Jyg7V" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Tinkercad_logo.svg" alt="Tinkercad" width="40" />
+      </a>
+      <br><sub>Tinkercad</sub>
+    </td>
+  </tr>
+</table>
 
 - *Siempre buscando el "porqué" detrás del error (Debugging is my superpower).*
 
