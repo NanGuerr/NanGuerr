@@ -3,8 +3,7 @@
 <p align="center">
   <a href="#-áreas-de-interés-blue-team">Áreas de Interés</a> • 
   <a href="#-repositorios-principales">Repositorios</a> • 
-  <a href="#-conectemos">Contacto</a> • 
-  <a href="#-tech-stack">Tech Stack</a>
+  <a href="#-conectemos">Contacto</a>
 </p>
 
 <p align="center">
@@ -41,7 +40,7 @@
 *Ultima actualización: Mayo 2026*
 
 ## 🛠️ Next Tech Stack
-- 
+
 ![Wireshark](https://img.shields.io/badge/wireshark-%231679A6.svg?style=flat&logo=wireshark&logoColor=white) 
 ![Kali Linux](https://img.shields.io/badge/kali%20linux-%23268BEE.svg?style=flat&logo=kalilinux&logoColor=white) 
 ![Nmap](https://img.shields.io/badge/nmap-%23000000.svg?style=flat&logo=nmap&logoColor=white) 
@@ -69,19 +68,11 @@
   <img src="https://img.shields.io/badge/Português-Intermediário-green?style=flat&logo=brazil&logoColor=white" alt="Portuguese">
 </p>
 
-⚡ *HYPERFOCUS mode: I will HIT YOU UP; in the meantime, please just leave a SIGNAL on Duolingo if you need anything.*
+⚡ *HYPERFOCUS mode: I will HIT YOU UP; in the meantime, please just leave a SIGNAL on **Duolingo** if you need anything.*
 
-<p align="left">
-  <a href="https://www.khanacademy.org/profile/NanGuer">
-    <img src="https://img.shields.io/badge/Khan_Academy-000000?style=for-the-badge&logo=khan-academy&logoColor=white" alt="Khan Academy">
-  </a>
-  <a href="https://www.duolingo.com/profile/NanGuer">
-    <img src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=duolingo&logoColor=white" alt="Duolingo">
-  </a>
-  <a href="https://www.tinkercad.com/users/dGgLI9Jyg7V">
-    <img src="https://img.shields.io/badge/Tinkercad-007FFF?style=for-the-badge&logo=tinkercad&logoColor=white" alt="Tinkercad">
-  </a>
-</p>
+🦉 [Duolingo](https://www.duolingo.com/profile/NanGuer) - Práctica de idiomas.
+🎓 [Khan Academy](https://www.khanacademy.org/profile/NanGuer) - Aprendizaje autodidacta.
+🔧 [Tinkercad](https://www.tinkercad.com/users/dGgLI9Jyg7V) - Diseño y electrónica.
 
 - *Siempre buscando el "porqué" detrás del error (Debugging is my superpower).*
 
