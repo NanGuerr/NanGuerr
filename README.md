@@ -73,16 +73,11 @@
 ## 📫 Conectemos
 ⚡ *HYPERFOCUS mode: I will HIT YOU UP; in the meantime, please just leave a SIGNAL on **Duolingo** if you need anything.*
 
-<p align="left"><img src="https://raw.githubusercontent.com/NanGuerr/NanGuerr/refs/heads/main/Duolingo-profile.png" width="50%"></p>
-<img width="350" alt="1771199609" 
-  
-<p align="left">
-  <img src="https://raw.githubusercontent.com/NanGuerr/NanGuerr/refs/heads/main/Duolingo-profile.png" width="50%">
-</p>
+<p align="left"><img src="https://raw.githubusercontent.com/NanGuerr/NanGuerr/refs/heads/main/Duolingo-profile.png" width="40%"></p>
 
-*🦉 [Duolingo](https://www.duolingo.com/profile/NanGuer) - Práctica de idiomas.
-*🎓 [Khan Academy](https://www.khanacademy.org/profile/NanGuer) - Aprendizaje autodidacta.
-*🔧 [Tinkercad](https://www.tinkercad.com/users/dGgLI9Jyg7V) - Diseño y electrónica.
+* 🦉 [Duolingo](https://www.duolingo.com/profile/NanGuer) - Práctica de idiomas.
+* 🎓 [Khan Academy](https://www.khanacademy.org/profile/NanGuer) - Aprendizaje autodidacta.
+* 🔧 [Tinkercad](https://www.tinkercad.com/users/dGgLI9Jyg7V) - Diseño y electrónica.
 - *Siempre buscando el "porqué" detrás del error (Debugging is my superpower).*
 
 ```python
