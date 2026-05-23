@@ -108,7 +108,7 @@
 
 ### 🦅 [Protocolo-F-nix](https://github.com/NanGuerr/Protocolo-F-nix)
 
-*Doctrina de resistencia técnica y autonomía radical ante escenarios de colapso sistémico.*
+*Autonomía técnica y radical ante escenarios de colapso sistémico.*
 * Implementación de protocolos de invisibilidad térmica y Jaulas de Faraday.
 * Gestión de micro-redes DC de baja firma mediante componentes recuperados.
 * Integración de redes Mesh (LoRa) con **criptografía AES-256 y OTP**.
