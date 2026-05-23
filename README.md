@@ -18,7 +18,6 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)
 
 ## 🛠️ Áreas de interés BLUE TEAM
 * **🛡️ Ciberseguridad:** Análisis de vulnerabilidades y defensa de redes.
@@ -55,10 +54,11 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)
 
 ## 📫 Conectemos
-### *HYPERFOCUS mode: I will HIT YOU UP; in the meantime, please just leave a SIGNAL on Duolingo if you need anything.*
-⚡ *Siempre buscando el "porqué" detrás del error (Debugging is my superpower).*
+⚡ *HYPERFOCUS mode: I will HIT YOU UP; in the meantime, please just leave a SIGNAL on Duolingo if you need anything.*
+ *Siempre buscando el "porqué" detrás del error (Debugging is my superpower).*
   
 [![Khan Academy](https://img.shields.io/badge/Khan_Academy-Fundamentos_Teóricos-red?logo=khanacademy)](https://www.khanacademy.org/profile/NanGuer)
 [![Duolingo](https://img.shields.io/badge/Duolingo-Idiomas_y_Consistencia-green?logo=duolingo)](https://www.duolingo.com/profile/NanGuer)
