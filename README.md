@@ -63,7 +63,7 @@ de los obstáculos.
 ![MQTT](https://img.shields.io/badge/MQTT-%23660066.svg?style=for-the-badge&logo=mqtt&logoColor=white)
 
 ## 📫 Conectemos
-⚡ **Siempre buscando el "porqué" detrás del error (Debugging is my superpower).**
+⚡ *Siempre buscando el "porqué" detrás del error (Debugging is my superpower).*
   
 [![Khan Academy](https://img.shields.io/badge/Khan_Academy-Fundamentos_Teóricos-red?logo=khanacademy)](https://www.khanacademy.org/profile/NanGuer)
 [![Duolingo](https://img.shields.io/badge/Duolingo-Idiomas_y_Consistencia-green?logo=duolingo)](https://www.duolingo.com/profile/NanGuer)
@@ -104,10 +104,10 @@ de los obstáculos.
 * Algoritmos eficientes y lógica pura en **Python**.
 * Estudiantes que buscan dominar las bases de la algoritmia.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Programming](https://img.shields.io/badge/Programming-000000?style=for-the-badge&logo=codeforces&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Programming](https://img.shields.io/badge/Programming-000000?logo=codeforces&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=visualstudiocode&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 
 ### 🦅 [Protocolo-F-nix](https://github.com/NanGuerr/Protocolo-F-nix)
 
