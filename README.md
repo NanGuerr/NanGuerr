@@ -24,8 +24,6 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-ES US BR
-
 ## 🛠️ Áreas de interés BLUE TEAM
 * **🛡️ Ciberseguridad:** Análisis de vulnerabilidades y defensa de redes.
 * **🤖 Robótica:** Sistemas embebidos y control de procesos.
