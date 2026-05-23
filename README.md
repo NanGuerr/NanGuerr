@@ -73,8 +73,11 @@
 ## 📫 Conectemos
 ⚡ *HYPERFOCUS mode: I will HIT YOU UP; in the meantime, please just leave a SIGNAL on **Duolingo** if you need anything.*
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/NanGuerr/NanGuerr/refs/heads/main/Duolingo-profile.png" width="100%">
+<p align="left"><img src="https://raw.githubusercontent.com/NanGuerr/NanGuerr/refs/heads/main/Duolingo-profile.png" width="50%"></p>
+<img width="350" alt="1771199609" 
+  
+<p align="left">
+  <img src="https://raw.githubusercontent.com/NanGuerr/NanGuerr/refs/heads/main/Duolingo-profile.png" width="50%">
 </p>
 
 *🦉 [Duolingo](https://www.duolingo.com/profile/NanGuer) - Práctica de idiomas.
