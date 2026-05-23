@@ -65,9 +65,9 @@ de los obstáculos.
 ## 📫 Conectemos
 ⚡ **Siempre buscando el "porqué" detrás del error (Debugging is my superpower).**
   
-- 🎓 **[Khan Academy](http://www.khanacademy.org/profile/NanGuer)** — *Fundamentos teóricos y avance académico.*
-- 🦉 **[Duolingo](https://www.duolingo.com/profile/NanGuer)** — *Optimización de idiomas y consistencia diaria.*
-- ⚙️ **[Tinkercad](https://www.tinkercad.com/users/dGgLI9Jyg7V)** — *Laboratorio virtual y prototipado de circuitos.*
+[![Khan Academy](https://img.shields.io/badge/Khan_Academy-Fundamentos_Teóricos-red?logo=khanacademy)](https://www.khanacademy.org/profile/NanGuer)
+[![Duolingo](https://img.shields.io/badge/Duolingo-Idiomas_y_Consistencia-green?logo=duolingo)](https://www.duolingo.com/profile/NanGuer)
+[![Tinkercad](https://img.shields.io/badge/Tinkercad-Prototipado_y_Circuitos-blue?logo=tinkercad)](https://www.tinkercad.com/users/dGgLI9Jyg7V)
 
 ```python
 > "Aunque se interpongan muros de granito, no desesperes por su retraso, 
