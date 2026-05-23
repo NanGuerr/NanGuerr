@@ -60,10 +60,14 @@
 
 ⚡ *HYPERFOCUS mode: I will HIT YOU UP; in the meantime, please just leave a SIGNAL on Duolingo if you need anything.*
 
+🇪🇸 **Spanish (Native)**
+🇺🇸 **English (Technical)**
+🇧🇷 **Portuguese (Intermediate)**
+
 ![Spanish](https://img.shields.io/badge/Spanish-Native-brightgreen?logo=spain&logoColor=white)
 ![English](https://img.shields.io/badge/English-Technical-blue?logo=google-translate&logoColor=white)
 ![Portuguese](https://img.shields.io/badge/Portuguese-Intermediate-orange?logo=read-the-docs&logoColor=white)
- *Siempre buscando el "porqué" detrás del error (Debugging is my superpower).*
+- *Siempre buscando el "porqué" detrás del error (Debugging is my superpower).*
   
 [![Khan Academy](https://img.shields.io/badge/Khan_Academy-Fundamentos_Teóricos-red?logo=khanacademy)](https://www.khanacademy.org/profile/NanGuer)
 [![Duolingo](https://img.shields.io/badge/Duolingo-Idiomas_y_Consistencia-green?logo=duolingo)](https://www.duolingo.com/profile/NanGuer)
