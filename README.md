@@ -1,4 +1,4 @@
-## *"Los nuevos desafíos tecnológicos son el código de mi optimismo. Busco la ruta más eficiente para alcanzar la mejor versión de cada sistema."*
+## *"Los nuevos desafíos tecnológicos son el código para alcanzar la mejor versión de cada sistema."*
 
 <p align="center">
   <img src="https://img.shields.io/badge/Español-Nativo-red?style=flat&logo=spain&logoColor=white" alt="Spanish">
