@@ -60,7 +60,7 @@ de los obstáculos.
 ![ArduPilot](https://img.shields.io/badge/ardupilot-%23007D8B.svg?style=for-the-badge&logo=ardupilot&logoColor=white)
 ![LoRaWAN](https://img.shields.io/badge/LoRaWAN-%23007D8B.svg?style=for-the-badge&logo=lora&logoColor=white) 
 ![SDR](https://img.shields.io/badge/SDR-%23FF6600.svg?style=for-the-badge&logo=radio&logoColor=white) 
- ![MQTT](https://img.shields.io/badge/MQTT-%23660066.svg?style=for-the-badge&logo=mqtt&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-%23660066.svg?style=for-the-badge&logo=mqtt&logoColor=white)
 
 ## 📫 Conectemos
 ⚡ **Siempre buscando el "porqué" detrás del error (Debugging is my superpower).**
@@ -92,20 +92,23 @@ de los obstáculos.
 * Integración de Python, **IA (OpenCV)**, sistemas de control industrial, **PLCs (TIA Portal)** y diseño eléctrico EPLAN.
 * Tecnologías de vanguardia como Node-RED, Docker, **Ciberseguridad Industrial** y Robótica (ABB).
 
-```python
-⚙️ Industria 4.0 | 📟 PLC | 🐍 Python | 🌐 IIoT
-```
+
+![Industria 4.0](https://img.shields.io/badge/Industria_4.0-blue?style=for-the-badge&logo=siemens)
+![PLC](https://img.shields.io/badge/PLC-📟-yellow?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-🐍-blue?style=for-the-badge&logo=python)
+![IIoT](https://img.shields.io/badge/IIoT-🌐-red?style=for-the-badge&logo=iot)
 
 ### 🧠 [Introducción-a-la-Programación](https://github.com/NanGuerr/Introducci-n-a-la-Programaci-n)
 
 *Resolución de exámenes, parciales y finales de Programación I (UP).*
 * Repositorio académico con guías RDC/RFD y finales actualizados a **Febrero 2026**.
-* Algoritmos eficientes y lógica pura en **Python 🐍**.
+* Algoritmos eficientes y lógica pura en **Python**.
 * Estudiantes que buscan dominar las bases de la algoritmia.
 
-```python
-⚙️ Python | 📟 Programming | 💻 Visual Studio Code | 🐙 GitHub
-```
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Programming](https://img.shields.io/badge/Programming-000000?style=for-the-badge&logo=codeforces&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ### 🦅 [Protocolo-F-nix](https://github.com/NanGuerr/Protocolo-F-nix)
 
@@ -116,9 +119,11 @@ de los obstáculos.
 * Ejecución mecánica del Protocolo T0 (estabilización y respuesta en <24h).
 * Aplicación de metodologías S.T.O.P. y ciberseguridad analógica (Air-Gapping).
 
-```python
-📡 Meshtastic | 📻 SDR | 🛰️ LoRa | 🚑 MARCH | 🛑 STOP
-```
+![Meshtastic](https://img.shields.io/badge/Meshtastic-Open_Source-blue?logo=meshtastic)
+![SDR](https://img.shields.io/badge/SDR-Software_Defined_Radio-orange?logo=radio)
+![LoRa](https://img.shields.io/badge/LoRa-Long_Range-green?logo=lora)
+![MARCH](https://img.shields.io/badge/MARCH-Protocolo_Médico-red?logo=heart)
+![STOP](https://img.shields.io/badge/STOP-Control_de_Hemorragias-critical?logo=shield)
 
 ### 🦉 [Duolingo-Gu-a-de-Optimizaci-n](https://github.com/NanGuerr/Duolingo-Gu-a-de-Optimizaci-n)
 
@@ -127,6 +132,8 @@ de los obstáculos.
 * Enfoque en la optimización del tiempo y retención de vocabulario.
 * Recursos estructurados para acelerar el dominio del idioma elegido.
 
-```python
-💻 Duolingo | 🚀 Super | 🌍 Languages | ⚙️ HTML | 📄 Docs
-```
+![Duolingo](https://img.shields.io/badge/Duolingo-749D0C?style=for-the-badge&logo=duolingo&logoColor=white)
+![Super](https://img.shields.io/badge/Super-000000?style=for-the-badge&logo=superhuman&logoColor=white)
+![Languages](https://img.shields.io/badge/Languages-blue?style=for-the-badge&logo=google-translate&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Docs](https://img.shields.io/badge/Docs-4285F4?style=for-the-badge&logo=googledocs&logoColor=white)
