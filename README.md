@@ -68,6 +68,12 @@
 ![English](https://img.shields.io/badge/English-Technical-blue?logo=google-translate&logoColor=white)
 ![Portuguese](https://img.shields.io/badge/Portuguese-Intermediate-orange?logo=read-the-docs&logoColor=white)
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Español-Nativo-red?style=flat&logo=spain&logoColor=white" alt="Spanish">
+  <img src="https://img.shields.io/badge/English-Technical-2a5499?style=flat&logo=google-translate&logoColor=white" alt="English">
+  <img src="https://img.shields.io/badge/Português-Intermediário-green?style=flat&logo=brazil&logoColor=white" alt="Portuguese">
+</p>
+
 ⚡ *HYPERFOCUS mode: I will HIT YOU UP; in the meantime, please just leave a SIGNAL on Duolingo if you need anything.*
 
 <!-- Khan Academy -->
