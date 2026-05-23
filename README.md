@@ -3,9 +3,6 @@
 </p>
 
 
-<p align="center">
-  🛸 Debugging at Mach 2.0 | Outpacing the bugs.
-</p>
 
 # "Corregir el presente, un commit a la vez."
 
