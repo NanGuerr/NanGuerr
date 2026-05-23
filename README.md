@@ -50,8 +50,8 @@
 <a href="https://www.youtube.com/watch?v=9g_2B1Ji_CI" target="_blank">
   <img src="https://img.youtube.com/vi/9g_2B1Ji_CI/0.jpg" alt="Miniatura del video" width="30%">
 </a>
-<a href="https://www.youtube.com/watch?v=9g_2B1Ji_CI" target="_blank">
-  <img src="https://img.youtube.com/vi/9g_2B1Ji_CI/0.jpg" alt="Miniatura del video" width="30%">
+<a href="https://www.youtube.com/watch?v=0w80F8FffQ4" target="_blank">
+  <img src="https://img.youtube.com/vi/0w80F8FffQ4/0.jpg" alt="Miniatura del video" width="30%">
 </a>
 <a href="https://www.youtube.com/watch?v=9g_2B1Ji_CI" target="_blank">
   <img src="https://img.youtube.com/vi/9g_2B1Ji_CI/0.jpg" alt="Miniatura del video" width="30%">
