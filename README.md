@@ -41,9 +41,7 @@
 *Ultima actualización: Mayo 2026*
 
 ## 🛠️ Next Tech Stack
-
-- **Active Learning**
-
+- 
 ![Wireshark](https://img.shields.io/badge/wireshark-%231679A6.svg?style=flat&logo=wireshark&logoColor=white) 
 ![Kali Linux](https://img.shields.io/badge/kali%20linux-%23268BEE.svg?style=flat&logo=kalilinux&logoColor=white) 
 ![Nmap](https://img.shields.io/badge/nmap-%23000000.svg?style=flat&logo=nmap&logoColor=white) 
@@ -73,28 +71,17 @@
 
 ⚡ *HYPERFOCUS mode: I will HIT YOU UP; in the meantime, please just leave a SIGNAL on Duolingo if you need anything.*
 
-<table>
-  <tr>
-    <td align="center" width="100">
-      <a href="https://www.khanacademy.org/profile/NanGuer" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/2/23/Khan_Academy_logo.svg" alt="Khan Academy" width="40" />
-      </a>
-      <br><sub>Khan Academy</sub>
-    </td>
-    <td align="center" width="100">
-      <a href="https://www.duolingo.com/profile/NanGuer" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/f/f6/Duolingo_logo.svg" alt="Duolingo" width="40" />
-      </a>
-      <br><sub>Duolingo</sub>
-    </td>
-    <td align="center" width="100">
-      <a href="https://www.tinkercad.com/users/dGgLI9Jyg7V" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Tinkercad_logo.svg" alt="Tinkercad" width="40" />
-      </a>
-      <br><sub>Tinkercad</sub>
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <a href="https://www.khanacademy.org/profile/NanGuer">
+    <img src="https://img.shields.io/badge/Khan_Academy-000000?style=for-the-badge&logo=khan-academy&logoColor=white" alt="Khan Academy">
+  </a>
+  <a href="https://www.duolingo.com/profile/NanGuer">
+    <img src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=duolingo&logoColor=white" alt="Duolingo">
+  </a>
+  <a href="https://www.tinkercad.com/users/dGgLI9Jyg7V">
+    <img src="https://img.shields.io/badge/Tinkercad-007FFF?style=for-the-badge&logo=tinkercad&logoColor=white" alt="Tinkercad">
+  </a>
+</p>
 
 - *Siempre buscando el "porqué" detrás del error (Debugging is my superpower).*
 
