@@ -93,7 +93,7 @@ de los obstáculos.
 * Tecnologías de vanguardia como Node-RED, Docker, **Ciberseguridad Industrial** y Robótica (ABB).
 
 ```python
-> ⚙️ Industria 4.0 | 📟 PLC | 🐍 Python | 🌐 IIoT
+⚙️ Industria 4.0 | 📟 PLC | 🐍 Python | 🌐 IIoT
 ```
 
 ### 🧠 [Introducción-a-la-Programación](https://github.com/NanGuerr/Introducci-n-a-la-Programaci-n)
@@ -104,7 +104,7 @@ de los obstáculos.
 * Estudiantes que buscan dominar las bases de la algoritmia.
 
 ```python
-`Python` `Algoritmos` `Educación`*
+⚙️ Python | 📟 Programming | 💻 Visual Studio Code | 🐙 GitHub
 ```
 
 ### 🦅 [Protocolo-F-nix](https://github.com/NanGuerr/Protocolo-F-nix)
@@ -115,7 +115,10 @@ de los obstáculos.
 * Integración de redes Mesh (LoRa) con **criptografía AES-256 y OTP**.
 * Ejecución mecánica del Protocolo T0 (estabilización y respuesta en <24h).
 * Aplicación de metodologías S.T.O.P. y ciberseguridad analógica (Air-Gapping).
----> `Meshtastic` `SDR` `LoRa` `MARCH` `STOP`
+
+```python
+📡 Meshtastic | 📻 SDR | 🛰️ LoRa | 🚑 MARCH | 🛑 STOP
+```
 
 ### 🦉 [Duolingo-Gu-a-de-Optimizaci-n](https://github.com/NanGuerr/Duolingo-Gu-a-de-Optimizaci-n)
 
@@ -123,4 +126,7 @@ de los obstáculos.
 * Consejos tácticos para la **plataforma N° 1** en aprendizaje de idiomas.
 * Enfoque en la optimización del tiempo y retención de vocabulario.
 * Recursos estructurados para acelerar el dominio del idioma elegido.
-`HTML` `Docs`
+
+```python
+💻 Duolingo | 🚀 Super | 🌍 Languages | ⚙️ HTML | 📄 Docs
+```
