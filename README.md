@@ -76,13 +76,11 @@
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)
 
 ## 📫 Conectemos
+
+🦉 [Duolingo](https://www.duolingo.com/profile/NanGuer) - Práctica de idiomas. 🎓 [Khan Academy](https://www.khanacademy.org/profile/NanGuer) - Aprendizaje autodidacta. 🔧 [Tinkercad](https://www.tinkercad.com/users/dGgLI9Jyg7V) - Diseño y electrónica.
 ⚡ ***HYPERFOCUS** mode: I will **HIT YOU UP**; in the meantime, please just leave a SIGNAL on **Duolingo** if you need anything.*
 
 <p align="left"><img src="https://raw.githubusercontent.com/NanGuerr/NanGuerr/refs/heads/main/Duolingo-profile.png" width="30%"></p>
-
-* 🦉 [Duolingo](https://www.duolingo.com/profile/NanGuer) - Práctica de idiomas.
-* 🎓 [Khan Academy](https://www.khanacademy.org/profile/NanGuer) - Aprendizaje autodidacta.
-* 🔧 [Tinkercad](https://www.tinkercad.com/users/dGgLI9Jyg7V) - Diseño y electrónica.
 
 ## 🛠 Repositorios Principales
 
