@@ -74,7 +74,8 @@
 
 ## 📫 Conectemos
 
-⚡ ***HYPERFOCUS** mode: I will **hit you up**; please just leave a SIGNAL on **DUOLINGO** if you need anything.*
+⚡ ***HYPERFOCUS** mode: I will **hit you up**; please just leave a SIGNAL on **[DUOLINGO](https://www.duolingo.com/profile/NanGuer)** if you need anything.*
+
 
 <p align="center"><img src="https://raw.githubusercontent.com/NanGuerr/NanGuerr/refs/heads/main/Duolingo-profile.png" width="20%"></p>
 
