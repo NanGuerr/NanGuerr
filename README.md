@@ -93,7 +93,7 @@ de los obstáculos.
 * Tecnologías de vanguardia como Node-RED, Docker, **Ciberseguridad Industrial** y Robótica (ABB).
 
 ```python
-> ⚙️ **Industria 4.0** | 📟 **PLC** | 🐍 **Python** | 🌐 **IIoT**
+> ⚙️ Industria 4.0 | 📟 PLC | 🐍 Python | 🌐 IIoT
 ```
 
 ### 🧠 [Introducción-a-la-Programación](https://github.com/NanGuerr/Introducci-n-a-la-Programaci-n)
