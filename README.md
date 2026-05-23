@@ -91,7 +91,7 @@
 
 ![Industria 4.0](https://img.shields.io/badge/Industria-4.0-blue?logo=siemens)
 ![PLC](https://img.shields.io/badge/PLC-Controladores_Lógicos-red?logo=logic)
-![Python](https://img.shields.io/badge/Python-Programación-yellow?logo=python&logoColor=blue)
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![IIoT](https://img.shields.io/badge/IIoT-Industrial_IoT-green?logo=internet-of-things)
 
 ### 🧠 [Introducción-a-la-Programación](https://github.com/NanGuerr/Introducci-n-a-la-Programaci-n)
@@ -101,7 +101,7 @@
 * Algoritmos eficientes y lógica pura en **Python**.
 * Estudiantes que buscan dominar las bases de la algoritmia.
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![Programming](https://img.shields.io/badge/Programming-000000?logo=codeforces&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=visualstudiocode&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
