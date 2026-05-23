@@ -50,6 +50,12 @@
 <a href="https://www.youtube.com/watch?v=9g_2B1Ji_CI" target="_blank">
   <img src="https://img.youtube.com/vi/9g_2B1Ji_CI/0.jpg" alt="Miniatura del video" width="30%">
 </a>
+<a href="https://www.youtube.com/watch?v=9g_2B1Ji_CI" target="_blank">
+  <img src="https://img.youtube.com/vi/9g_2B1Ji_CI/0.jpg" alt="Miniatura del video" width="30%">
+</a>
+<a href="https://www.youtube.com/watch?v=9g_2B1Ji_CI" target="_blank">
+  <img src="https://img.youtube.com/vi/9g_2B1Ji_CI/0.jpg" alt="Miniatura del video" width="30%">
+</a>
 
 *Ultima actualización: Mayo 2026*
 
@@ -70,7 +76,7 @@
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)
 
 ## 📫 Conectemos
-⚡ *HYPERFOCUS mode: I will HIT YOU UP; in the meantime, please just leave a SIGNAL on **Duolingo** if you need anything.*
+⚡ ***HYPERFOCUS** mode: I will **HIT YOU UP**; in the meantime, please just leave a SIGNAL on **Duolingo** if you need anything.*
 
 <p align="left"><img src="https://raw.githubusercontent.com/NanGuerr/NanGuerr/refs/heads/main/Duolingo-profile.png" width="30%"></p>
 
