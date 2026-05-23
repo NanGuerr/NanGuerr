@@ -1,7 +1,5 @@
 ### *"Los desafíos tecnológicos son el código para alcanzar la mejor versión de cada sistema."* 
 
-🇪🇸 🇺🇸 🇧🇷
-
 <p align="center">
   <img src="https://img.shields.io/badge/Español-Nativo-red?style=flat&logo=spain&logoColor=white" alt="Spanish">
   <img src="https://img.shields.io/badge/English-Technical-2a5499?style=flat&logo=google-translate&logoColor=white" alt="English">
@@ -25,6 +23,8 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+ES US BR
 
 ## 🛠️ Áreas de interés BLUE TEAM
 * **🛡️ Ciberseguridad:** Análisis de vulnerabilidades y defensa de redes.
