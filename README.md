@@ -88,29 +88,28 @@ de los obstáculos.
 ### 🏭 [Smart-Factory-Expert](https://github.com/NanGuerr/Smart-Factory-Expert)
 
 *Especialización en Smart Factory: Convergencia IT/OT.*
-* **Descripción:** Documentación que abarca más de **1,500 actividades** prácticas sobre la transformación digital de la industria.
-* **Enfoque:** Integración de Python, **IA (OpenCV)**, sistemas de control industrial, **PLCs (TIA Portal)** y diseño eléctrico EPLAN.
-* **Ideal para:** Tecnologías de vanguardia como Node-RED, Docker, **Ciberseguridad Industrial** y Robótica (ABB).
-`Industria 4.0` `PLC` `Python` `IIoT`
+* Documentación que abarca más de **1,500 actividades** prácticas sobre la transformación digital de la industria.
+* Integración de Python, **IA (OpenCV)**, sistemas de control industrial, **PLCs (TIA Portal)** y diseño eléctrico EPLAN.
+* Tecnologías de vanguardia como Node-RED, Docker, **Ciberseguridad Industrial** y Robótica (ABB).
+*`Industria 4.0` `PLC` `Python` `IIoT`*
 
 ### 🧠 [Introducción-a-la-Programación](https://github.com/NanGuerr/Introducci-n-a-la-Programaci-n)
 
 *Resolución de exámenes, parciales y finales de Programación I (UP).*
-* **Descripción:** Repositorio académico con guías RDC/RFD y finales actualizados a **Febrero 2026**.
-* **Enfoque:** Algoritmos eficientes y lógica pura en **Python 🐍**.
-* **Ideal para:** Estudiantes que buscan dominar las bases de la algoritmia.
-`Python` `Algoritmos` `Educación`
+* Repositorio académico con guías RDC/RFD y finales actualizados a **Febrero 2026**.
+* Algoritmos eficientes y lógica pura en **Python 🐍**.
+* Estudiantes que buscan dominar las bases de la algoritmia.
+*`Python` `Algoritmos` `Educación`*
 
 ### 🦅 [Protocolo-F-nix](https://github.com/NanGuerr/Protocolo-F-nix)
 
 *Doctrina de resistencia técnica y autonomía radical ante escenarios de colapso sistémico.*
-**Características:**
-* **Blindaje Electromagnético:** Implementación de protocolos de invisibilidad térmica y Jaulas de Faraday.
-* **Autonomía Energética:** Gestión de micro-redes DC de baja firma mediante componentes recuperados.
-* **Comunicaciones Cifradas:** Integración de redes Mesh (LoRa) con criptografía AES-256 y OTP.
-* **Operatividad Crítica:** Ejecución mecánica del Protocolo T0 (estabilización y respuesta en <24h).
-* **Resiliencia Cognitiva:** Aplicación de metodologías S.T.O.P. y ciberseguridad analógica (Air-Gapping).
-`Meshtastic` `SDR` `LoRa` `MARCH` `STOP`
+* Implementación de protocolos de invisibilidad térmica y Jaulas de Faraday.
+* Gestión de micro-redes DC de baja firma mediante componentes recuperados.
+* Integración de redes Mesh (LoRa) con **criptografía AES-256 y OTP**.
+* Ejecución mecánica del Protocolo T0 (estabilización y respuesta en <24h).
+* Aplicación de metodologías S.T.O.P. y ciberseguridad analógica (Air-Gapping).
+*`Meshtastic` `SDR` `LoRa` `MARCH` `STOP`*
 
 ### 🦉 [Duolingo-Gu-a-de-Optimizaci-n](https://github.com/NanGuerr/Duolingo-Gu-a-de-Optimizaci-n)
 
