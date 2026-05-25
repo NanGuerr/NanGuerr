@@ -84,7 +84,7 @@
 
 Aquí tienes la información para tu nuevo repositorio siguiendo el formato solicitado:
 
-### 🛡️ [Ciberseguridad-Industrial-OT](https://www.google.com/search?q=https://github.com/NanGuerr/Ciberseguridad-Industrial-OT)
+### 🛡️ [Ciberseguridad-Industrial-OT](https://github.com/NanGuerr/Ciberseguridad)
 
 *Repositorio central de Ciberseguridad en Entornos Industriales (OT).*
 * Documentación técnica, marcos de referencia (IEC 62443, NIST SP 800-82) y guías de *hardening* para ICS/SCADA.
