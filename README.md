@@ -93,11 +93,8 @@ Aquí tienes la información para tu nuevo repositorio siguiendo el formato soli
 
 ![NIST 800-82](https://img.shields.io/badge/NIST-800--82-blue?logo=securityscorecard)
 ![SCADA/ICS](https://img.shields.io/badge/ICS-SCADA-green?logo=automattic)
-![Modbus](https://img.shields.io/badge/Protocolo-Modbus-orange)
 ![OPC UA](https://img.shields.io/badge/Protocolo-OPC%20UA-black)
 ![Siemens S7](https://img.shields.io/badge/Siemens-S7--1500-blue?logo=siemens)
-![Hardening](https://img.shields.io/badge/Hardening-OT-yellow?logo=gnupg)
-![Defensa en Profundidad](https://img.shields.io/badge/Defensa-en%20Profundidad-purple?logo=shield)
 ![Auditoría](https://img.shields.io/badge/Auditor%C3%ADa-Industrial-brightgreen?logo=bitdefender)
 ![Industria 4.0](https://img.shields.io/badge/Industria-4.0-blue?logo=siemens)
 ![Convergencia IT/OT](https://img.shields.io/badge/IT-OT-darkblue?logo=cisco)
