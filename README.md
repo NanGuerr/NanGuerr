@@ -1,29 +1,28 @@
 ### *"Los desafíos tecnológicos son el código para alcanzar la mejor versión de cada sistema."* 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Español-Nativo-red?style=flat&logo=spain&logoColor=white" alt="Spanish">
-  <img src="https://img.shields.io/badge/English-Technical-2a5499?style=flat&logo=google-translate&logoColor=white" alt="English">
-  <img src="https://img.shields.io/badge/Português-Intermediário-green?style=flat&logo=brazil&logoColor=white" alt="Portuguese">
+img src="https://img.shields.io/badge/Español-Nativo-red?style=flat&logo=spain&logoColor=white" alt="Spanish">
+img src="https://img.shields.io/badge/English-Technical-2a5499?style=flat&logo=google-translate&logoColor=white" alt="English">
+img src="https://img.shields.io/badge/Português-Intermediário-green?style=flat&logo=brazil&logoColor=white" alt="Portuguese">
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/NanGuerr/NanGuerr/refs/heads/main/Banner.png" width="80%">
+img src="https://raw.githubusercontent.com/NanGuerr/NanGuerr/refs/heads/main/Banner.png" width="80%">
 </p>
 
-<p align="center">
-  <![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)>
-  <![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)>
-  <![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)>
-  <![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white)>
-  <![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)>
-  <![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)>
-  <![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=flat&logo=mysql&logoColor=white)>
-  <![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)>
-  <![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)>
-  <![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)>
-  <![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)>
-  <![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)>
-  <![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)>
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 </p>
 
 ## 🛠️ Áreas de interés BLUE TEAM
@@ -35,27 +34,27 @@
 **Objetivo:** *La intersección entre la seguridad digital, la automatización, documentar y optimizar la lógica aplicada a sistemas críticos.*
 
 <p align="center">
-  <a href="#-áreas-de-interés-blue-team">
+a href="#-áreas-de-interés-blue-team">
 <img src="https://img.shields.io/badge/Áreas_de_Interés-0059b3?style=for-the-badge&logo=securityscorecard&logoColor=white" alt="Áreas de Interés">
-  </a>
-  <a href="#-repositorios-principales">
+/a>
+a href="#-repositorios-principales">
 <img src="https://img.shields.io/badge/Repositorios-4a4a4a?style=for-the-badge&logo=github&logoColor=white" alt="Repositorios">
-  </a>
-  <a href="#-conectemos">
+/a>
+a href="#-conectemos">
 <img src="https://img.shields.io/badge/Contacto-28a745?style=for-the-badge&logo=gmail&logoColor=white" alt="Contacto">
-  </a>
+/a>
 </p>
 
 ### 🎥 Inspiración aquí: 
 
 <a href="https://www.youtube.com/watch?v=D9oH8skIZw0" target="_blank">
-  <img src="https://img.youtube.com/vi/D9oH8skIZw0/0.jpg" alt="Miniatura del video" width="27%">
+img src="https://img.youtube.com/vi/D9oH8skIZw0/0.jpg" alt="Miniatura del video" width="27%">
 </a>
 <a href="https://www.youtube.com/watch?v=akpLkQd8WnE" target="_blank">
-  <img src="https://img.youtube.com/vi/akpLkQd8WnE/0.jpg" alt="Miniatura del video" width="27%">
+img src="https://img.youtube.com/vi/akpLkQd8WnE/0.jpg" alt="Miniatura del video" width="27%">
 </a>
 <a href="https://www.youtube.com/watch?v=0GDfOAuUvQ0" target="_blank">
-  <img src="https://img.youtube.com/vi/0GDfOAuUvQ0/0.jpg" alt="Miniatura del video" width="27%">
+img src="https://img.youtube.com/vi/0GDfOAuUvQ0/0.jpg" alt="Miniatura del video" width="27%">
 </a>
 
 *Ultima actualización: Mayo 2026*
