@@ -23,7 +23,7 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-</p>
+
 
 ## 🛠️ Áreas de interés BLUE TEAM
 * **🛡️ Ciberseguridad:** Análisis de vulnerabilidades y defensa de redes.
@@ -34,27 +34,27 @@
 **Objetivo:** *La intersección entre la seguridad digital, la automatización, documentar y optimizar la lógica aplicada a sistemas críticos.*
 
 <p align="center">
-a href="#-áreas-de-interés-blue-team">
-<img src="https://img.shields.io/badge/Áreas_de_Interés-0059b3?style=for-the-badge&logo=securityscorecard&logoColor=white" alt="Áreas de Interés">
-/a>
-a href="#-repositorios-principales">
-<img src="https://img.shields.io/badge/Repositorios-4a4a4a?style=for-the-badge&logo=github&logoColor=white" alt="Repositorios">
-/a>
-a href="#-conectemos">
-<img src="https://img.shields.io/badge/Contacto-28a745?style=for-the-badge&logo=gmail&logoColor=white" alt="Contacto">
-/a>
+  <a href="#-áreas-de-interés-blue-team">
+    <img src="https://img.shields.io/badge/Áreas_de_Interés-0059b3?style=for-the-badge&logo=securityscorecard&logoColor=white" alt="Áreas de Interés">
+  /a>
+  <a href="#-repositorios-principales">
+    <img src="https://img.shields.io/badge/Repositorios-4a4a4a?style=for-the-badge&logo=github&logoColor=white" alt="Repositorios">
+  /a>
+  <a href="#-conectemos">
+    <img src="https://img.shields.io/badge/Contacto-28a745?style=for-the-badge&logo=gmail&logoColor=white" alt="Contacto">
+  /a>
 </p>
 
 ### 🎥 Inspiración aquí: 
 
 <a href="https://www.youtube.com/watch?v=D9oH8skIZw0" target="_blank">
-img src="https://img.youtube.com/vi/D9oH8skIZw0/0.jpg" alt="Miniatura del video" width="27%">
+  <img src="https://img.youtube.com/vi/D9oH8skIZw0/0.jpg" alt="Miniatura del video" width="27%">
 </a>
 <a href="https://www.youtube.com/watch?v=akpLkQd8WnE" target="_blank">
-img src="https://img.youtube.com/vi/akpLkQd8WnE/0.jpg" alt="Miniatura del video" width="27%">
+  <img src="https://img.youtube.com/vi/akpLkQd8WnE/0.jpg" alt="Miniatura del video" width="27%">
 </a>
 <a href="https://www.youtube.com/watch?v=0GDfOAuUvQ0" target="_blank">
-img src="https://img.youtube.com/vi/0GDfOAuUvQ0/0.jpg" alt="Miniatura del video" width="27%">
+  <img src="https://img.youtube.com/vi/0GDfOAuUvQ0/0.jpg" alt="Miniatura del video" width="27%">
 </a>
 
 *Ultima actualización: Mayo 2026*
