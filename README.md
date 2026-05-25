@@ -1,13 +1,13 @@
 ### *"Los desafíos tecnológicos son el código para alcanzar la mejor versión de cada sistema."* 
 
 <p align="center">
-img src="https://img.shields.io/badge/Español-Nativo-red?style=flat&logo=spain&logoColor=white" alt="Spanish">
-img src="https://img.shields.io/badge/English-Technical-2a5499?style=flat&logo=google-translate&logoColor=white" alt="English">
-img src="https://img.shields.io/badge/Português-Intermediário-green?style=flat&logo=brazil&logoColor=white" alt="Portuguese">
+  <img src="https://img.shields.io/badge/Español-Nativo-red?style=flat&logo=spain&logoColor=white" alt="Spanish">
+  <img src="https://img.shields.io/badge/English-Technical-2a5499?style=flat&logo=google-translate&logoColor=white" alt="English">
+  <img src="https://img.shields.io/badge/Português-Intermediário-green?style=flat&logo=brazil&logoColor=white" alt="Portuguese">
 </p>
 
 <p align="center">
-img src="https://raw.githubusercontent.com/NanGuerr/NanGuerr/refs/heads/main/Banner.png" width="80%">
+  <img src="https://raw.githubusercontent.com/NanGuerr/NanGuerr/refs/heads/main/Banner.png" width="80%">
 </p>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
