@@ -95,8 +95,6 @@ Aquí tienes la información para tu nuevo repositorio siguiendo el formato soli
 ![SCADA/ICS](https://img.shields.io/badge/ICS-SCADA-green?logo=automattic)
 ![OPC UA](https://img.shields.io/badge/Protocolo-OPC%20UA-black)
 ![Siemens S7](https://img.shields.io/badge/Siemens-S7--1500-blue?logo=siemens)
-![Auditoría](https://img.shields.io/badge/Auditor%C3%ADa-Industrial-brightgreen?logo=bitdefender)
-![Industria 4.0](https://img.shields.io/badge/Industria-4.0-blue?logo=siemens)
 ![Convergencia IT/OT](https://img.shields.io/badge/IT-OT-darkblue?logo=cisco)
 
 ### 🏭 [Smart-Factory-Expert](https://github.com/NanGuerr/Smart-Factory-Expert)
