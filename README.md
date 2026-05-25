@@ -11,7 +11,6 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/NanGuerr/NanGuerr/refs/heads/main/Banner.png" width="80%">
   <![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)>
   <![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)>
   <![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)>
