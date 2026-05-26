@@ -105,8 +105,9 @@ Aquí tienes la información para tu nuevo repositorio siguiendo el formato soli
 * **✈️ Aeronáutica:** Integración tecnológica en sistemas de vuelo.
 * **📡 Telecomunicaciones:** Infraestructura y protocolos de comunicación.
 
-<p align="center", bold>
-   🛸 Debugging at Mach 2.0 | Outpacing the bugs.
+<p align="center">
+   
+  🛸 Debugging at Mach 2.0 | Outpacing the bugs.
 </p>
 
 ### El objetivo es la intersección entre la seguridad digital y la automatización, documentando y optimizando la lógica aplicada a los sistemas críticos.
