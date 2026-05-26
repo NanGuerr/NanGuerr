@@ -100,13 +100,12 @@ Aquí tienes la información para tu nuevo repositorio siguiendo el formato soli
 
 
 ## 🛠️ Áreas de interés BLUE TEAM
-
 * **🛡️ Ciberseguridad:** Análisis de vulnerabilidades y defensa de redes.
 * **🤖 Robótica:** Sistemas embebidos y control de procesos.
 * **✈️ Aeronáutica:** Integración tecnológica en sistemas de vuelo.
 * **📡 Telecomunicaciones:** Infraestructura y protocolos de comunicación.
 
-### Objetivo: *La intersección entre la seguridad digital, la automatización, documentar y optimizar la lógica aplicada a sistemas críticos.*
+### Objetivo: La intersección entre la seguridad digital, la automatización, documentar y optimizar la lógica aplicada a sistemas críticos.
 
 *Siempre buscando el "porqué" detrás del error (Debugging is my superpower).*
 
