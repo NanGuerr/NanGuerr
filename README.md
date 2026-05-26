@@ -84,7 +84,7 @@
 
 Aquí tienes la información para tu nuevo repositorio siguiendo el formato solicitado:
 
-### 🛡️ [Ciberseguridad-Industrial-OT](https://github.com/NanGuerr/Ciberseguridad)
+### 🛡️ [Ciberseguridad Industrial OT](https://github.com/NanGuerr/Ciberseguridad)
 
 *Repositorio central de Ciberseguridad en Entornos Industriales (OT).*
 * Documentación técnica, marcos de referencia (IEC 62443, NIST SP 800-82) y guías de *hardening* para ICS/SCADA.
@@ -97,7 +97,7 @@ Aquí tienes la información para tu nuevo repositorio siguiendo el formato soli
 ![Siemens S7](https://img.shields.io/badge/Siemens-S7--1500-blue?logo=siemens)
 ![Convergencia IT/OT](https://img.shields.io/badge/IT-OT-darkblue?logo=cisco)
 
-### 🏭 [Smart-Factory-Expert](https://github.com/NanGuerr/Smart-Factory-Expert)
+### 🏭 [Smart Factory Expert](https://github.com/NanGuerr/Smart-Factory-Expert)
 
 *Especialización en Smart Factory: Convergencia IT/OT.*
 * Más de **1,500 actividades** prácticas sobre la transformación digital de la industria.
@@ -109,7 +109,7 @@ Aquí tienes la información para tu nuevo repositorio siguiendo el formato soli
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![IIoT](https://img.shields.io/badge/IIoT-Industrial_IoT-green?logo=internet-of-things)
 
-### 🧠 [Introducción-a-la-Programación](https://github.com/NanGuerr/Introducci-n-a-la-Programaci-n)
+### 🧠 [Programación en Python](https://github.com/NanGuerr/Introducci-n-a-la-Programaci-n)
 
 *Resolución de exámenes, parciales y finales de Programación I (UP).*
 * Repositorio académico con guías RDC/RFD y finales actualizados a **Febrero 2026**.
@@ -121,7 +121,7 @@ Aquí tienes la información para tu nuevo repositorio siguiendo el formato soli
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=visualstudiocode&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 
-### 🦅 [Protocolo-F-nix](https://github.com/NanGuerr/Protocolo-F-nix)
+### 🦅 [Protocolo Fénix](https://github.com/NanGuerr/Protocolo-F-nix)
 
 *Autonomía técnica y radical ante escenarios de colapso sistémico.*
 * Implementación de protocolos de invisibilidad térmica y Jaulas de Faraday.
@@ -134,7 +134,7 @@ Aquí tienes la información para tu nuevo repositorio siguiendo el formato soli
 ![SDR](https://img.shields.io/badge/SDR-Software_Defined_Radio-orange?logo=radio)
 ![LoRa](https://img.shields.io/badge/LoRa-Long_Range-green?logo=lora)
 
-### 🦉 [Duolingo-Gu-a-de-Optimizaci-n](https://github.com/NanGuerr/Duolingo-Gu-a-de-Optimizaci-n)
+### 🦉 [Duolingo Guía de Optimización](https://github.com/NanGuerr/Duolingo-Gu-a-de-Optimizaci-n)
 
 *Guía estratégica para maximizar el aprendizaje y beneficios en Duolingo.*
 * Consejos tácticos para la **plataforma N° 1** en aprendizaje de idiomas.
