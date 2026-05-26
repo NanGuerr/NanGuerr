@@ -98,15 +98,18 @@ Aquí tienes la información para tu nuevo repositorio siguiendo el formato soli
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![Docs](https://img.shields.io/badge/Docs-4285F4?logo=googledocs&logoColor=white)
 
+
 ## 🛠️ Áreas de interés BLUE TEAM
+
 * **🛡️ Ciberseguridad:** Análisis de vulnerabilidades y defensa de redes.
 * **🤖 Robótica:** Sistemas embebidos y control de procesos.
 * **✈️ Aeronáutica:** Integración tecnológica en sistemas de vuelo.
 * **📡 Telecomunicaciones:** Infraestructura y protocolos de comunicación.
 
-**Objetivo:** *La intersección entre la seguridad digital, la automatización, documentar y optimizar la lógica aplicada a sistemas críticos.*
+### Objetivo: *La intersección entre la seguridad digital, la automatización, documentar y optimizar la lógica aplicada a sistemas críticos.*
 
 ---
+
 *Siempre buscando el "porqué" detrás del error (Debugging is my superpower).*
 
 ```python
