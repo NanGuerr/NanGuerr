@@ -159,3 +159,16 @@ Aquí tienes la información para tu nuevo repositorio siguiendo el formato soli
 <p align="center">
    🛸 Debugging at Mach 2.0 | Outpacing the bugs.
 </p>
+
+<p align="center">
+  <a href="#-áreas-de-interés-blue-team">
+    <img src="https://img.shields.io/badge/Áreas_de_Interés-0059b3?style=for-the-badge&logo=securityscorecard&logoColor=white" alt="Áreas de Interés"> 
+  </a>
+  <a href="#-repositorios-principales">
+    <img src="https://img.shields.io/badge/Repositorios-4a4a4a?style=for-the-badge&logo=github&logoColor=white" alt="Repositorios">
+  </a>
+  <a href="#-conectemos">
+    <img src="https://img.shields.io/badge/Contacto-28a745?style=for-the-badge&logo=gmail&logoColor=white" alt="Contacto">
+  </a>
+</p>
+
