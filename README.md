@@ -105,11 +105,6 @@ Aquí tienes la información para tu nuevo repositorio siguiendo el formato soli
 * **✈️ Aeronáutica:** Integración tecnológica en sistemas de vuelo.
 * **📡 Telecomunicaciones:** Infraestructura y protocolos de comunicación.
 
-<p align="center">
-   
-  🛸 Debugging at Mach 2.0 | Outpacing the bugs.
-</p>
-
 ### El objetivo es la intersección entre la seguridad digital y la automatización, documentando y optimizando la lógica aplicada a los sistemas críticos.
 
 *Siempre buscando el "porqué" detrás del error (Debugging is my superpower).*
@@ -160,3 +155,7 @@ Aquí tienes la información para tu nuevo repositorio siguiendo el formato soli
 </p>
 
 <p align="center"><img src="https://raw.githubusercontent.com/NanGuerr/NanGuerr/refs/heads/main/Duolingo-profile.png" width="20%"></p>
+
+<p align="center">
+   🛸 Debugging at Mach 2.0 | Outpacing the bugs.
+</p>
