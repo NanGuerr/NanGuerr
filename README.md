@@ -1,9 +1,15 @@
 ### *"Los desafíos tecnológicos son el código para alcanzar la mejor versión de cada sistema."* 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Español-Nativo-red?style=flat&logo=spain&logoColor=white" alt="Spanish">
-  <img src="https://img.shields.io/badge/English-Technical-2a5499?style=flat&logo=google-translate&logoColor=white" alt="English">
-  <img src="https://img.shields.io/badge/Português-Intermediário-green?style=flat&logo=brazil&logoColor=white" alt="Portuguese">
+  <a href="#-áreas-de-interés-blue-team">
+    <img src="https://img.shields.io/badge/Áreas_de_Interés-0059b3?style=for-the-badge&logo=securityscorecard&logoColor=white" alt="Áreas de Interés"> 
+  </a>
+  <a href="#-repositorios-principales">
+    <img src="https://img.shields.io/badge/Repositorios-4a4a4a?style=for-the-badge&logo=github&logoColor=white" alt="Repositorios">
+  </a>
+  <a href="#-conectemos">
+    <img src="https://img.shields.io/badge/Contacto-28a745?style=for-the-badge&logo=gmail&logoColor=white" alt="Contacto">
+  </a>
 </p>
 
 <p align="center">
@@ -23,62 +29,6 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-
-
-## 🛠️ Áreas de interés BLUE TEAM
-* **🛡️ Ciberseguridad:** Análisis de vulnerabilidades y defensa de redes.
-* **🤖 Robótica:** Sistemas embebidos y control de procesos.
-* **✈️ Aeronáutica:** Integración tecnológica en sistemas de vuelo.
-* **📡 Telecomunicaciones:** Infraestructura y protocolos de comunicación.
-
-**Objetivo:** *La intersección entre la seguridad digital, la automatización, documentar y optimizar la lógica aplicada a sistemas críticos.*
-
-<p align="center">
-  <a href="#-áreas-de-interés-blue-team">
-    <img src="https://img.shields.io/badge/Áreas_de_Interés-0059b3?style=for-the-badge&logo=securityscorecard&logoColor=white" alt="Áreas de Interés"> 
-  </a>
-  <a href="#-repositorios-principales">
-    <img src="https://img.shields.io/badge/Repositorios-4a4a4a?style=for-the-badge&logo=github&logoColor=white" alt="Repositorios">
-  </a>
-  <a href="#-conectemos">
-    <img src="https://img.shields.io/badge/Contacto-28a745?style=for-the-badge&logo=gmail&logoColor=white" alt="Contacto">
-  </a>
-</p>
-
-### 🎥 Inspiración aquí: 
-
-<a href="https://www.youtube.com/watch?v=D9oH8skIZw0" target="_blank">
-  <img src="https://img.youtube.com/vi/D9oH8skIZw0/0.jpg" alt="Miniatura del video" width="27%">
-</a>
-<a href="https://www.youtube.com/watch?v=akpLkQd8WnE" target="_blank">
-  <img src="https://img.youtube.com/vi/akpLkQd8WnE/0.jpg" alt="Miniatura del video" width="27%">
-</a>
-<a href="https://www.youtube.com/watch?v=0GDfOAuUvQ0" target="_blank">
-  <img src="https://img.youtube.com/vi/0GDfOAuUvQ0/0.jpg" alt="Miniatura del video" width="27%">
-</a>
-
-*Ultima actualización: Mayo 2026*
-
-![Wireshark](https://img.shields.io/badge/wireshark-%231679A6.svg?style=flat&logo=wireshark&logoColor=white) 
-![Kali Linux](https://img.shields.io/badge/kali%20linux-%23268BEE.svg?style=flat&logo=kalilinux&logoColor=white) 
-![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=flat&logo=splunk&logoColor=white)
-![Arduino](https://img.shields.io/badge/arduino-%2300979D.svg?style=flat&logo=arduino&logoColor=white) 
-![Raspberry Pi](https://img.shields.io/badge/raspberry%20pi-%23C51A4A.svg?style=flat&logo=raspberrypi&logoColor=white) 
-![ROS](https://img.shields.io/badge/ros-%230A0EB2.svg?style=flat&logo=ros&logoColor=white) 
-![ABB](https://img.shields.io/badge/ABB-%23FF0000.svg?style=flat&logo=abb&logoColor=white)
-![MATLAB](https://img.shields.io/badge/matlab-%23E76F00.svg?style=flat&logo=matlab&logoColor=white) 
-![Simulink](https://img.shields.io/badge/simulink-%230076A8.svg?style=flat&logo=simulink&logoColor=white) 
-![LoRaWAN](https://img.shields.io/badge/LoRaWAN-%23007D8B.svg?style=flat&logo=lora&logoColor=white) 
-![SDR](https://img.shields.io/badge/SDR-%23FF6600.svg?style=flat&logo=radio&logoColor=white) 
-![MQTT](https://img.shields.io/badge/MQTT-%23660066.svg?style=flat&logo=mqtt&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
-
-## 📫 Conectemos
-
-⚡ ***HYPERFOCUS** mode: I will **hit you up**; please just leave a SIGNAL on **[DUOLINGO](https://www.duolingo.com/profile/NanGuer)** if you need anything.*
-
-
-<p align="center"><img src="https://raw.githubusercontent.com/NanGuerr/NanGuerr/refs/heads/main/Duolingo-profile.png" width="20%"></p>
 
 ## 🛠 Repositorios Principales
 
@@ -157,3 +107,50 @@ Aquí tienes la información para tu nuevo repositorio siguiendo el formato soli
 > hasta los dioses obedecen."
 > — Wheeler Wilcox
 ```
+## 🛠️ Áreas de interés BLUE TEAM
+* **🛡️ Ciberseguridad:** Análisis de vulnerabilidades y defensa de redes.
+* **🤖 Robótica:** Sistemas embebidos y control de procesos.
+* **✈️ Aeronáutica:** Integración tecnológica en sistemas de vuelo.
+* **📡 Telecomunicaciones:** Infraestructura y protocolos de comunicación.
+
+**Objetivo:** *La intersección entre la seguridad digital, la automatización, documentar y optimizar la lógica aplicada a sistemas críticos.*
+
+### 🎥 Inspiración aquí: 
+
+<a href="https://www.youtube.com/watch?v=D9oH8skIZw0" target="_blank">
+  <img src="https://img.youtube.com/vi/D9oH8skIZw0/0.jpg" alt="Miniatura del video" width="27%">
+</a>
+<a href="https://www.youtube.com/watch?v=akpLkQd8WnE" target="_blank">
+  <img src="https://img.youtube.com/vi/akpLkQd8WnE/0.jpg" alt="Miniatura del video" width="27%">
+</a>
+<a href="https://www.youtube.com/watch?v=0GDfOAuUvQ0" target="_blank">
+  <img src="https://img.youtube.com/vi/0GDfOAuUvQ0/0.jpg" alt="Miniatura del video" width="27%">
+</a>
+
+*Ultima actualización: Mayo 2026*
+
+![Wireshark](https://img.shields.io/badge/wireshark-%231679A6.svg?style=flat&logo=wireshark&logoColor=white) 
+![Kali Linux](https://img.shields.io/badge/kali%20linux-%23268BEE.svg?style=flat&logo=kalilinux&logoColor=white) 
+![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=flat&logo=splunk&logoColor=white)
+![Arduino](https://img.shields.io/badge/arduino-%2300979D.svg?style=flat&logo=arduino&logoColor=white) 
+![Raspberry Pi](https://img.shields.io/badge/raspberry%20pi-%23C51A4A.svg?style=flat&logo=raspberrypi&logoColor=white) 
+![ROS](https://img.shields.io/badge/ros-%230A0EB2.svg?style=flat&logo=ros&logoColor=white) 
+![ABB](https://img.shields.io/badge/ABB-%23FF0000.svg?style=flat&logo=abb&logoColor=white)
+![MATLAB](https://img.shields.io/badge/matlab-%23E76F00.svg?style=flat&logo=matlab&logoColor=white) 
+![Simulink](https://img.shields.io/badge/simulink-%230076A8.svg?style=flat&logo=simulink&logoColor=white) 
+![LoRaWAN](https://img.shields.io/badge/LoRaWAN-%23007D8B.svg?style=flat&logo=lora&logoColor=white) 
+![SDR](https://img.shields.io/badge/SDR-%23FF6600.svg?style=flat&logo=radio&logoColor=white) 
+![MQTT](https://img.shields.io/badge/MQTT-%23660066.svg?style=flat&logo=mqtt&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
+
+## 📫 Conectemos
+
+⚡ ***HYPERFOCUS** mode: I will **hit you up**; please just leave a SIGNAL on **[DUOLINGO](https://www.duolingo.com/profile/NanGuer)** if you need anything.*
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Español-Nativo-red?style=flat&logo=spain&logoColor=white" alt="Spanish">
+  <img src="https://img.shields.io/badge/English-Technical-2a5499?style=flat&logo=google-translate&logoColor=white" alt="English">
+  <img src="https://img.shields.io/badge/Português-Intermediário-green?style=flat&logo=brazil&logoColor=white" alt="Portuguese">
+</p>
+
+<p align="center"><img src="https://raw.githubusercontent.com/NanGuerr/NanGuerr/refs/heads/main/Duolingo-profile.png" width="20%"></p>
