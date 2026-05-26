@@ -99,8 +99,9 @@ Aquí tienes la información para tu nuevo repositorio siguiendo el formato soli
 
 ### 🏭 [Smart Factory Expert](https://github.com/NanGuerr/Smart-Factory-Expert)
 
-*Especialización en Smart Factory: Convergencia IT/OT.*
-* Más de **1,500 actividades** prácticas sobre la transformación digital de la industria.
+*Especialización en Automatización Industrial 4.0: 
+* **Convergencia IT/OT**, vulnerabilidades y Ciberseguridad.*
+* Más de **1,500 actividades** prácticas sobre la digitalización industrial.
 * Integración **IA (OpenCV)**, **PLCs (TIA Portal)** y diseño eléctrico EPLAN.
 * Tecnologías como Node-RED, Docker, **Ciberseguridad Industrial** y Robótica (ABB).
 
