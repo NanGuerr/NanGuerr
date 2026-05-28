@@ -143,7 +143,8 @@ Aquí tienes la información para tu nuevo repositorio siguiendo el formato soli
   <img src="https://img.youtube.com/vi/zhdA76etej0/0.jpg" alt="Miniatura del video" width="24%">
 </a>
 
-*Ultima actualización: Mayo 2026*
+
+*Ultima actualización: Junio 2026*
 
 ![Wireshark](https://img.shields.io/badge/wireshark-%231679A6.svg?style=flat&logo=wireshark&logoColor=white) 
 ![Kali Linux](https://img.shields.io/badge/kali%20linux-%23268BEE.svg?style=flat&logo=kalilinux&logoColor=white) 
