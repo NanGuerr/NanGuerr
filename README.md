@@ -68,7 +68,7 @@ Aquí tienes la información para tu nuevo repositorio siguiendo el formato soli
 * Infraestructura, **multiplexación (WDM/FDM)**, troncales (SDH/SONET), redes **FTTH**...
 * Diseño de hardware con **herramientas CAD**, fabricación de PCBs, microcontroladores...
 
-![Telecom](https://img.shields.io/badge/Telecom-Comunicaciones-blue?logo=data-gript)
+![Telecom](https://img.shields.io/badge/Telecom-FTTH-blue?logo=data-gript)
 ![Redes](https://img.shields.io/badge/Redes-LAN_%7C_MPLS-green?logo=cisco)
 ![Electrónica](https://img.shields.io/badge/Electrónica-Embedded-red?logo=microchip)
 ![RF](https://img.shields.io/badge/RF-Propagación-orange?logo=ubiquiti)
