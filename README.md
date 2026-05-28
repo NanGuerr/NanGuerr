@@ -60,17 +60,18 @@ Aquí tienes la información para tu nuevo repositorio siguiendo el formato soli
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![IIoT](https://img.shields.io/badge/IIoT-Industrial_IoT-green?logo=internet-of-things)
 
-### 🧠 [Programación en Python](https://github.com/NanGuerr/Introducci-n-a-la-Programaci-n)
+### 📡 [Telecom & Electronics](https://github.com/NanGuerr/Telecom)
 
-*Resolución de exámenes, parciales y finales de Programación I (UP).*
-* Repositorio académico con guías RDC/RFD y finales actualizados a **Febrero 2026**.
-* Algoritmos eficientes y lógica pura en **Python**.
-* Estudiantes que buscan dominar las bases de la algoritmia.
+*Especialización en Tecnologías de la Información y Comunicaciones (TIC):* 
+* **Análisis Avanzado de Señales** (Fourier), modelado de subsistemas de comunicación y técnicas de modulación analógica (AM/FM) y digital.
+* Compilación exhaustiva de **libros, apuntes y guías técnico-prácticas** esenciales para ingenieros y estudiantes del sector.
+* Infraestructura de redes avanzadas, **multiplexación (WDM/FDM)**, sistemas troncales (SDH/SONET), redes ópticas **FTTH** y arquitectura celular.
+* Diseño de hardware con **herramientas CAD**, fabricación de PCBs, microcontroladores, sistemas embebidos de tiempo real (**RTOS**) y teoría de antenas.
 
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![Programming](https://img.shields.io/badge/Programming-000000?logo=codeforces&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=visualstudiocode&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Telecom](https://img.shields.io/badge/Telecom-Comunicaciones-blue?logo=data-gript)
+![Redes](https://img.shields.io/badge/Redes-LAN_%7C_MPLS-green?logo=cisco)
+![Electrónica](https://img.shields.io/badge/Electrónica-Embedded_Systems-red?logo=microchip)
+![RF](https://img.shields.io/badge/RF-Antenas_%26_Propagación-orange?logo=ubiquiti)
 
 ### 🦅 [Protocolo Fénix](https://github.com/NanGuerr/Protocolo-F-nix)
 
@@ -98,6 +99,17 @@ Aquí tienes la información para tu nuevo repositorio siguiendo el formato soli
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![Docs](https://img.shields.io/badge/Docs-4285F4?logo=googledocs&logoColor=white)
 
+### 🧠 [Programación en Python](https://github.com/NanGuerr/Introducci-n-a-la-Programaci-n)
+
+*Resolución de exámenes, parciales y finales de Programación I (UP).*
+* Repositorio académico con guías RDC/RFD y finales actualizados a **Febrero 2026**.
+* Algoritmos eficientes y lógica pura en **Python**.
+* Estudiantes que buscan dominar las bases de la algoritmia.
+
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![Programming](https://img.shields.io/badge/Programming-000000?logo=codeforces&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=visualstudiocode&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 
 ## 🛠️ Áreas de interés BLUE TEAM
 * **🛡️ Ciberseguridad:** Análisis de vulnerabilidades y defensa de redes.
