@@ -63,15 +63,15 @@ Aquí tienes la información para tu nuevo repositorio siguiendo el formato soli
 ### 📡 [Telecom & Electronics](https://github.com/NanGuerr/Telecom)
 
 *Especialización en Tecnologías de la Información y Comunicaciones (TIC):* 
-* **Análisis Avanzado de Señales** (Fourier), modelado de subsistemas de comunicación y técnicas de modulación analógica (AM/FM) y digital.
-* Compilación exhaustiva de **libros, apuntes y guías técnico-prácticas** esenciales para ingenieros y estudiantes del sector.
-* Infraestructura de redes avanzadas, **multiplexación (WDM/FDM)**, sistemas troncales (SDH/SONET), redes ópticas **FTTH** y arquitectura celular.
-* Diseño de hardware con **herramientas CAD**, fabricación de PCBs, microcontroladores, sistemas embebidos de tiempo real (**RTOS**) y teoría de antenas.
+* **Análisis de Señales** (Fourier), subsistemas y modulación analógica (AM/FM) y digital.
+* Sistemas embebidos (**RTOS**) y teoría de antenas.
+* Infraestructura, **multiplexación (WDM/FDM)**, troncales (SDH/SONET), redes **FTTH**...
+* Diseño de hardware con **herramientas CAD**, fabricación de PCBs, microcontroladores...
 
 ![Telecom](https://img.shields.io/badge/Telecom-Comunicaciones-blue?logo=data-gript)
 ![Redes](https://img.shields.io/badge/Redes-LAN_%7C_MPLS-green?logo=cisco)
-![Electrónica](https://img.shields.io/badge/Electrónica-Embedded_Systems-red?logo=microchip)
-![RF](https://img.shields.io/badge/RF-Antenas_%26_Propagación-orange?logo=ubiquiti)
+![Electrónica](https://img.shields.io/badge/Electrónica-Embedded-red?logo=microchip)
+![RF](https://img.shields.io/badge/RF-Propagación-orange?logo=ubiquiti)
 
 ### 🦅 [Protocolo Fénix](https://github.com/NanGuerr/Protocolo-F-nix)
 
