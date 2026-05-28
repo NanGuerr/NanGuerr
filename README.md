@@ -131,13 +131,16 @@ Aquí tienes la información para tu nuevo repositorio siguiendo el formato soli
 ### 🎥 Inspiración aquí: 
 
 <a href="https://www.youtube.com/watch?v=D9oH8skIZw0" target="_blank">
-  <img src="https://img.youtube.com/vi/D9oH8skIZw0/0.jpg" alt="Miniatura del video" width="27%">
+  <img src="https://img.youtube.com/vi/D9oH8skIZw0/0.jpg" alt="Miniatura del video" width="24%">
 </a>
 <a href="https://www.youtube.com/watch?v=akpLkQd8WnE" target="_blank">
-  <img src="https://img.youtube.com/vi/akpLkQd8WnE/0.jpg" alt="Miniatura del video" width="27%">
+  <img src="https://img.youtube.com/vi/akpLkQd8WnE/0.jpg" alt="Miniatura del video" width="24%">
 </a>
 <a href="https://www.youtube.com/watch?v=0GDfOAuUvQ0" target="_blank">
-  <img src="https://img.youtube.com/vi/0GDfOAuUvQ0/0.jpg" alt="Miniatura del video" width="27%">
+  <img src="https://img.youtube.com/vi/0GDfOAuUvQ0/0.jpg" alt="Miniatura del video" width="24%">
+</a>
+<a href="https://www.youtube.com/watch?v=0GDfOAuUvQ0" target="_blank">
+  <img src="https://img.youtube.com/vi/0GDfOAuUvQ0/0.jpg" alt="Miniatura del video" width="24%">
 </a>
 
 *Ultima actualización: Mayo 2026*
