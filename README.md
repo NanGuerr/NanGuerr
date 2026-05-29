@@ -182,6 +182,14 @@ Aquí tienes la información para tu nuevo repositorio siguiendo el formato soli
 ![Defense](https://img.shields.io/badge/Defense-%231A202C.svg?style=flat&logo=securityscorecard&logoColor=white)
 ![LoRaWAN](https://img.shields.io/badge/LoRaWAN-%234A90E2.svg?style=flat&logo=wireguard&logoColor=white)
 
+![Blue Team](https://img.shields.io/badge/Blue_Team-%23005A9C.svg?style=flat&logo=shield&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![SolidWorks](https://img.shields.io/badge/SolidWorks-%2300468E.svg?style=flat&logo=dassaultsystemes&logoColor=white)
+![Network Defense](https://img.shields.io/badge/Net_Defense-%232D3748.svg?style=flat&logo=cisco&logoColor=white)
+![DFIR](https://img.shields.io/badge/DFIR-%23C53030.svg?style=flat&logo=detect-language&logoColor=white)
+![Threat Intel](https://img.shields.io/badge/Threat_Intel-%23744210.svg?style=flat&logo=intel&logoColor=white)
+![SDR](https://img.shields.io/badge/SDR-%2338A169.svg?style=flat&logo=radio-button&logoColor=white)
+
 ## 📫 Conectemos
 
 ⚡ ***HYPERFOCUS** mode: I will **hit you up**; please just leave a SIGNAL on **[DUOLINGO](https://www.duolingo.com/profile/NanGuer)** if you need anything.*
