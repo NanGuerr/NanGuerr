@@ -171,6 +171,10 @@ Aquí tienes la información para tu nuevo repositorio siguiendo el formato soli
 ![RF](https://img.shields.io/badge/Radio_Frequency-%23E63946.svg?style=flat&logo=rss&logoColor=white)
 ![SatCom](https://img.shields.io/badge/Satellite_Comms-%231D3557.svg?style=flat&logo=satellite&logoColor=white)
 ![Telemetry](https://img.shields.io/badge/Telemetry-%23F4A261.svg?style=flat&logo=radar&logoColor=white)
+![Vulnerability Analysis](https://img.shields.io/badge/Vulnerability-%23D9534F.svg?style=flat&logo=securityscorecard&logoColor=white)
+![Network Defense](https://img.shields.io/badge/Defense-%235CB85C.svg?style=flat&logo=network-manager&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-%23000000.svg?style=flat&logo=cyberdefenders&logoColor=white)
+![Pentesting](https://img.shields.io/badge/Pentesting-%23FF6600.svg?style=flat&logo=kali-linux&logoColor=white)
 
 ## 📫 Conectemos
 
