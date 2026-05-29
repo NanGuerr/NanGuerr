@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="#-áreas-de-interés-blue-team">
-    <img src="https://img.shields.io/badge/Áreas_de_Interés-0059b3?style=for-the-badge&logo=securityscorecard&logoColor=white" alt="Áreas de Interés"> 
+    <img src="https://img.shields.io/badge/Áreas_de_Interés-0059b3?style=for-the-badge&logo=securityscorecard&logoColor=white" alt="Áreas de Interés">
   </a>
   <a href="#-repositorios-principales">
     <img src="https://img.shields.io/badge/Repositorios-4a4a4a?style=for-the-badge&logo=github&logoColor=white" alt="Repositorios">
