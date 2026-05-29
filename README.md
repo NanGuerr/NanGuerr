@@ -174,7 +174,7 @@ Aquí tienes la información para tu nuevo repositorio siguiendo el formato soli
 <p align="center">
    🛸 Debugging at Mach 2.0 | Outpacing the bugs.
 </p>
-*Siempre buscando el "porqué" detrás del error (Debugging is my superpower).*
+
 <p align="center">
   <a href="#-áreas-de-interés-blue-team">
     <img src="https://img.shields.io/badge/Áreas_de_Interés-0059b3?style=for-the-badge&logo=securityscorecard&logoColor=white" alt="Áreas de Interés"> 
@@ -187,3 +187,4 @@ Aquí tienes la información para tu nuevo repositorio siguiendo el formato soli
   </a>
 </p>
 
+*Siempre buscando el "porqué" detrás del error (Debugging is my superpower).*
