@@ -112,12 +112,12 @@ Aquí tienes la información para tu nuevo repositorio siguiendo el formato soli
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 
 ## 🛠️ Áreas de interés BLUE TEAM
+*El objetivo es la intersección documentando y optimizando la lógica aplicada a los sistemas críticos.*
+
 * **🛡️ Ciberseguridad:** Análisis de vulnerabilidades y defensa de redes.
 * **🤖 Robótica:** Sistemas embebidos y control de procesos.
 * **✈️ Aeronáutica:** Integración tecnológica en sistemas de vuelo.
 * **📡 Telecomunicaciones:** Infraestructura y protocolos de comunicación.
-
-- El objetivo es la intersección documentando y optimizando la lógica aplicada a los sistemas críticos.
 
 *Siempre buscando el "porqué" detrás del error (Debugging is my superpower).*
 
