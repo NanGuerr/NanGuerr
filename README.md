@@ -16,10 +16,8 @@
   <img src="https://raw.githubusercontent.com/NanGuerr/NanGuerr/refs/heads/main/Banner.png" width="80%">
 </p>
 
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=flat&logo=mysql&logoColor=white)
+![EPLAN](https://img.shields.io/badge/EPLAN-%23004A99.svg?style=flat&logo=eplan&logoColor=white)
+![AutoCAD](https://img.shields.io/badge/AutoCAD-%230696D7.svg?style=flat&logo=autocad&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![IL](https://img.shields.io/badge/IL-%23000000.svg?style=flat&logo=codeigniter&logoColor=white)
@@ -29,9 +27,11 @@
 ![Raspberry Pi](https://img.shields.io/badge/raspberry%20pi-%23C51A4A.svg?style=flat&logo=raspberrypi&logoColor=white) 
 ![ABB](https://img.shields.io/badge/ABB-%23FF0000.svg?style=flat&logo=abb&logoColor=white)
 ![Arduino](https://img.shields.io/badge/arduino-%2300979D.svg?style=flat&logo=arduino&logoColor=white) 
-![MATLAB](https://img.shields.io/badge/matlab-%23E76F00.svg?style=flat&logo=matlab&logoColor=white) 
 ![MQTT](https://img.shields.io/badge/MQTT-%23660066.svg?style=flat&logo=mqtt&logoColor=white)
 ![JSON](https://img.shields.io/badge/json-%23000000.svg?style=flat&logo=json&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=flat&logo=mysql&logoColor=white)
 
 ## 🛠 Repositorios Principales
 
@@ -148,6 +148,9 @@ Aquí tienes la información para tu nuevo repositorio siguiendo el formato soli
 
 *Ultima actualización: Junio 2026*
 
+![SolidWorks](https://img.shields.io/badge/SolidWorks-%23003F7D.svg?style=flat&logo=solidworks&logoColor=white)
+![TIA Portal](https://img.shields.io/badge/TIA_Portal-%23009999.svg?style=flat&logo=siemens&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![ROS](https://img.shields.io/badge/ros-%230A0EB2.svg?style=flat&logo=ros&logoColor=white) 
 ![Wireshark](https://img.shields.io/badge/wireshark-%231679A6.svg?style=flat&logo=wireshark&logoColor=white) 
 ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=flat&logo=splunk&logoColor=white)
