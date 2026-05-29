@@ -16,7 +16,6 @@
   <img src="https://raw.githubusercontent.com/NanGuerr/NanGuerr/refs/heads/main/Banner.png" width="80%">
 </p>
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![IL](https://img.shields.io/badge/IL-%23000000.svg?style=flat&logo=codeigniter&logoColor=white)
 ![Ladder](https://img.shields.io/badge/Ladder-%23FFD700.svg?style=flat&logo=arduino&logoColor=black)
@@ -27,9 +26,9 @@
 ![Arduino](https://img.shields.io/badge/Arduino-%2300979D.svg?style=flat&logo=arduino&logoColor=white) 
 ![MQTT](https://img.shields.io/badge/MQTT-%23660066.svg?style=flat&logo=mqtt&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-%23000000.svg?style=flat&logo=json&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=flat&logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=flat&logo=mysql&logoColor=white)
 
 
 ## 🛠 Repositorios Principales
@@ -147,6 +146,7 @@ Aquí tienes la información para tu nuevo repositorio siguiendo el formato soli
 
 *Ultima actualización: Junio 2026*
 
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-%230696D7.svg?style=flat&logo=autocad&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/raspberry%20pi-%23C51A4A.svg?style=flat&logo=raspberrypi&logoColor=white) 
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-%23003F7D.svg?style=flat&logo=solidworks&logoColor=white)
