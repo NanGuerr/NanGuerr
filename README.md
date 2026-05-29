@@ -176,6 +176,11 @@ Aquí tienes la información para tu nuevo repositorio siguiendo el formato soli
 ![Network Defense](https://img.shields.io/badge/Defense-%235CB85C.svg?style=flat&logo=network-manager&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-%23000000.svg?style=flat&logo=cyberdefenders&logoColor=white)
 ![Pentesting](https://img.shields.io/badge/Pentesting-%23FF6600.svg?style=flat&logo=kali-linux&logoColor=white)
+![Blue Team](https://img.shields.io/badge/Blue_Team-%230000FF.svg?style=flat&logo=defender&logoColor=white)
+![SOC Analyst](https://img.shields.io/badge/SOC-%232D3748.svg?style=flat&logo=splunk&logoColor=white)
+![Digital Forensics](https://img.shields.io/badge/DFIR-%23800080.svg?style=flat&logo=fire-c&logoColor=white)
+![Threat Intel](https://img.shields.io/badge/Threat_Intel-%23E53E3E.svg?style=flat&logo=threathunters&logoColor=white)
+![Incident Response](https://img.shields.io/badge/Response-%23D69E2E.svg?style=flat&logo=checkmarx&logoColor=white)
 
 ## 📫 Conectemos
 
