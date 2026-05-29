@@ -167,13 +167,11 @@ Aquí tienes la información para tu nuevo repositorio siguiendo el formato soli
 ![ROS](https://img.shields.io/badge/ROS-%230A0EB2.svg?style=flat&logo=ros&logoColor=white) 
 ![Wireshark](https://img.shields.io/badge/Wireshark-%231679A6.svg?style=flat&logo=wireshark&logoColor=white) 
 ![Splunk](https://img.shields.io/badge/Splunk-%23000000.svg?style=flat&logo=splunk&logoColor=white)
-![LoRaWAN](https://img.shields.io/badge/LoRaWAN-%23007D8B.svg?style=flat&logo=lora&logoColor=white) 
 ![SDR](https://img.shields.io/badge/SDR-%23FF6600.svg?style=flat&logo=radio&logoColor=white) 
 ![RF](https://img.shields.io/badge/Radio_Frequency-%23E63946.svg?style=flat&logo=rss&logoColor=white)
 ![SatCom](https://img.shields.io/badge/Satellite_Comms-%231D3557.svg?style=flat&logo=satellite&logoColor=white)
 ![Telemetry](https://img.shields.io/badge/Telemetry-%23F4A261.svg?style=flat&logo=radar&logoColor=white)
 ![Vulnerability Analysis](https://img.shields.io/badge/Vulnerability-%23D9534F.svg?style=flat&logo=securityscorecard&logoColor=white)
-![Network Defense](https://img.shields.io/badge/Defense-%235CB85C.svg?style=flat&logo=network-manager&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-%23000000.svg?style=flat&logo=cyberdefenders&logoColor=white)
 ![Pentesting](https://img.shields.io/badge/Pentesting-%23FF6600.svg?style=flat&logo=kali-linux&logoColor=white)
 ![Blue Team](https://img.shields.io/badge/Blue_Team-%230000FF.svg?style=flat&logo=defender&logoColor=white)
@@ -181,19 +179,8 @@ Aquí tienes la información para tu nuevo repositorio siguiendo el formato soli
 ![Digital Forensics](https://img.shields.io/badge/DFIR-%23800080.svg?style=flat&logo=fire-c&logoColor=white)
 ![Threat Intel](https://img.shields.io/badge/Threat_Intel-%23E53E3E.svg?style=flat&logo=threathunters&logoColor=white)
 ![Incident Response](https://img.shields.io/badge/Response-%23D69E2E.svg?style=flat&logo=checkmarx&logoColor=white)
-### Ciberseguridad
-![Blue Team](https://img.shields.io/badge/Blue_Team-%230074D9.svg?style=flat&logo=shield&logoColor=white)
 ![Defense](https://img.shields.io/badge/Defense-%231A202C.svg?style=flat&logo=securityscorecard&logoColor=white)
-![DFIR](https://img.shields.io/badge/DFIR-%23C53030.svg?style=flat&logo=detective&logoColor=white)
-![Threat Intel](https://img.shields.io/badge/Threat_Intel-%23805AD5.svg?style=flat&logo=crowdstrike&logoColor=white)
-
-### Desarrollo y CAD
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-![SolidWorks](https://img.shields.io/badge/SolidWorks-%23005596.svg?style=flat&logo=solidworks&logoColor=white)
-
-### Radiofrecuencia
 ![LoRaWAN](https://img.shields.io/badge/LoRaWAN-%234A90E2.svg?style=flat&logo=wireguard&logoColor=white)
-![SDR](https://img.shields.io/badge/SDR-%23E53E3E.svg?style=flat&logo=radio&logoColor=white)
 
 ## 📫 Conectemos
 
