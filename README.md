@@ -112,6 +112,7 @@ Aquí tienes la información para tu nuevo repositorio siguiendo el formato soli
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=visualstudiocode&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 
+
 ## 🛠️ Áreas de interés BLUE TEAM
 *El objetivo es la intersección documentando y optimizando la lógica aplicada a los sistemas críticos.*
 
