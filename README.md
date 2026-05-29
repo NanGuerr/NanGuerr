@@ -16,15 +16,12 @@
   <img src="https://raw.githubusercontent.com/NanGuerr/NanGuerr/refs/heads/main/Banner.png" width="80%">
 </p>
 
-![EPLAN](https://img.shields.io/badge/EPLAN-%23004A99.svg?style=flat&logo=eplan&logoColor=white)
-![AutoCAD](https://img.shields.io/badge/AutoCAD-%230696D7.svg?style=flat&logo=autocad&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![IL](https://img.shields.io/badge/IL-%23000000.svg?style=flat&logo=codeigniter&logoColor=white)
 ![Ladder](https://img.shields.io/badge/Ladder-%23FFD700.svg?style=flat&logo=arduino&logoColor=black)
 ![ST](https://img.shields.io/badge/ST-%23005571.svg?style=flat&logo=c&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/kali%20linux-%23268BEE.svg?style=flat&logo=kalilinux&logoColor=white) 
-![Raspberry Pi](https://img.shields.io/badge/raspberry%20pi-%23C51A4A.svg?style=flat&logo=raspberrypi&logoColor=white) 
 ![ABB](https://img.shields.io/badge/ABB-%23FF0000.svg?style=flat&logo=abb&logoColor=white)
 ![Arduino](https://img.shields.io/badge/arduino-%2300979D.svg?style=flat&logo=arduino&logoColor=white) 
 ![MQTT](https://img.shields.io/badge/MQTT-%23660066.svg?style=flat&logo=mqtt&logoColor=white)
@@ -148,6 +145,8 @@ Aquí tienes la información para tu nuevo repositorio siguiendo el formato soli
 
 *Ultima actualización: Junio 2026*
 
+![AutoCAD](https://img.shields.io/badge/AutoCAD-%230696D7.svg?style=flat&logo=autocad&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/raspberry%20pi-%23C51A4A.svg?style=flat&logo=raspberrypi&logoColor=white) 
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-%23003F7D.svg?style=flat&logo=solidworks&logoColor=white)
 ![TIA Portal](https://img.shields.io/badge/TIA_Portal-%23009999.svg?style=flat&logo=siemens&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
