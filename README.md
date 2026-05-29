@@ -182,7 +182,11 @@ Aquí tienes la información para tu nuevo repositorio siguiendo el formato soli
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-%2300468E.svg?style=flat&logo=dassaultsystemes&logoColor=white)
 ![Network Defense](https://img.shields.io/badge/Net_Defense-%232D3748.svg?style=flat&logo=cisco&logoColor=white)
 ![Threat Intel](https://img.shields.io/badge/Threat_Intel-%23744210.svg?style=flat&logo=intel&logoColor=white)
-
+![Blue Team](https://img.shields.io/badge/Blue_Team-%230000FF.svg?style=flat&logo=shield&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![SolidWorks](https://img.shields.io/badge/SolidWorks-%23005571.svg?style=flat&logo=solidworks&logoColor=white)
+![DFIR](https://img.shields.io/badge/DFIR-%23C53030.svg?style=flat&logo=searxng&logoColor=white)
+![SDR](https://img.shields.io/badge/SDR-%2338A169.svg?style=flat&logo=radio&logoColor=white)
 
 ## 📫 Conectemos
 
