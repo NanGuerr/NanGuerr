@@ -117,7 +117,7 @@ Aquí tienes la información para tu nuevo repositorio siguiendo el formato soli
 * **✈️ Aeronáutica:** Integración tecnológica en sistemas de vuelo.
 * **📡 Telecomunicaciones:** Infraestructura y protocolos de comunicación.
 
-### El objetivo es la intersección entre la seguridad digital y la automatización, documentando y optimizando la lógica aplicada a los sistemas críticos.
+- El objetivo es la intersección entre la seguridad digital y la automatización, documentando y optimizando la lógica aplicada a los sistemas críticos.
 
 *Siempre buscando el "porqué" detrás del error (Debugging is my superpower).*
 
