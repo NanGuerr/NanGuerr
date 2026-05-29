@@ -16,13 +16,13 @@
   <img src="https://raw.githubusercontent.com/NanGuerr/NanGuerr/refs/heads/main/Banner.png" width="80%">
 </p>
 
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=Python&logoColor=ffdd54)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=Docker&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![IL](https://img.shields.io/badge/IL-%23000000.svg?style=flat&logo=codeigniter&logoColor=white)
 ![Ladder](https://img.shields.io/badge/Ladder-%23FFD700.svg?style=flat&logo=arduino&logoColor=black)
 ![Structure Text](https://img.shields.io/badge/Structure%20Text-%23005571.svg?style=flat&logo=c&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-%23268BEE.svg?style=flat&logo=kalilinux&logoColor=white) 
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 ![ABB](https://img.shields.io/badge/ABB-%23FF0000.svg?style=flat&logo=abb&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-%2300979D.svg?style=flat&logo=arduino&logoColor=white) 
 ![MQTT](https://img.shields.io/badge/MQTT-%23660066.svg?style=flat&logo=mqtt&logoColor=white)
