@@ -154,7 +154,6 @@ Aquí tienes la información para tu nuevo repositorio siguiendo el formato soli
 ![ROS](https://img.shields.io/badge/ROS-%230A0EB2.svg?style=flat&logo=ros&logoColor=white) 
 ![Wireshark](https://img.shields.io/badge/Wireshark-%231679A6.svg?style=flat&logo=wireshark&logoColor=white) 
 ![Splunk](https://img.shields.io/badge/Splunk-%23000000.svg?style=flat&logo=splunk&logoColor=white)
-![Simulink](https://img.shields.io/badge/simulink-%230076A8.svg?style=flat&logo=simulink&logoColor=white) 
 ![LoRaWAN](https://img.shields.io/badge/LoRaWAN-%23007D8B.svg?style=flat&logo=lora&logoColor=white) 
 ![SDR](https://img.shields.io/badge/SDR-%23FF6600.svg?style=flat&logo=radio&logoColor=white) 
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
@@ -172,8 +171,6 @@ Aquí tienes la información para tu nuevo repositorio siguiendo el formato soli
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
 ![RF](https://img.shields.io/badge/Radio_Frequency-%23E63946.svg?style=flat&logo=rss&logoColor=white)
 ![SatCom](https://img.shields.io/badge/Satellite_Comms-%231D3557.svg?style=flat&logo=satellite&logoColor=white)
-![Antenna Theory](https://img.shields.io/badge/Antenna_Theory-%23457B9D.svg?style=flat&logo=antenna&logoColor=white)
-![Signal Processing](https://img.shields.io/badge/Signal_Processing-%232A9D8F.svg?style=flat&logo=microchip&logoColor=white)
 ![Telemetry](https://img.shields.io/badge/Telemetry-%23F4A261.svg?style=flat&logo=radar&logoColor=white)
 
 ## 📫 Conectemos
