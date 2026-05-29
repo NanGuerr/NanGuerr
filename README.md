@@ -163,7 +163,6 @@ Aquí tienes la información para tu nuevo repositorio siguiendo el formato soli
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
-![SolidWorks](https://img.shields.io/badge/SolidWorks-%23003F7D.svg?style=flat&logo=solidworks&logoColor=white)
 ![ROS](https://img.shields.io/badge/ROS-%230A0EB2.svg?style=flat&logo=ros&logoColor=white) 
 ![Wireshark](https://img.shields.io/badge/Wireshark-%231679A6.svg?style=flat&logo=wireshark&logoColor=white) 
 ![Splunk](https://img.shields.io/badge/Splunk-%23000000.svg?style=flat&logo=splunk&logoColor=white)
@@ -177,18 +176,13 @@ Aquí tienes la información para tu nuevo repositorio siguiendo el formato soli
 ![Blue Team](https://img.shields.io/badge/Blue_Team-%230000FF.svg?style=flat&logo=defender&logoColor=white)
 ![SOC Analyst](https://img.shields.io/badge/SOC-%232D3748.svg?style=flat&logo=splunk&logoColor=white)
 ![Digital Forensics](https://img.shields.io/badge/DFIR-%23800080.svg?style=flat&logo=fire-c&logoColor=white)
-![Threat Intel](https://img.shields.io/badge/Threat_Intel-%23E53E3E.svg?style=flat&logo=threathunters&logoColor=white)
 ![Incident Response](https://img.shields.io/badge/Response-%23D69E2E.svg?style=flat&logo=checkmarx&logoColor=white)
 ![Defense](https://img.shields.io/badge/Defense-%231A202C.svg?style=flat&logo=securityscorecard&logoColor=white)
 ![LoRaWAN](https://img.shields.io/badge/LoRaWAN-%234A90E2.svg?style=flat&logo=wireguard&logoColor=white)
-
-![Blue Team](https://img.shields.io/badge/Blue_Team-%23005A9C.svg?style=flat&logo=shield&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-%2300468E.svg?style=flat&logo=dassaultsystemes&logoColor=white)
 ![Network Defense](https://img.shields.io/badge/Net_Defense-%232D3748.svg?style=flat&logo=cisco&logoColor=white)
-![DFIR](https://img.shields.io/badge/DFIR-%23C53030.svg?style=flat&logo=detect-language&logoColor=white)
 ![Threat Intel](https://img.shields.io/badge/Threat_Intel-%23744210.svg?style=flat&logo=intel&logoColor=white)
-![SDR](https://img.shields.io/badge/SDR-%2338A169.svg?style=flat&logo=radio-button&logoColor=white)
+
 
 ## 📫 Conectemos
 
