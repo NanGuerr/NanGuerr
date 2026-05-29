@@ -133,8 +133,8 @@ Aquí tienes la información para tu nuevo repositorio siguiendo el formato soli
 <a href="https://www.youtube.com/watch?v=D9oH8skIZw0" target="_blank">
   <img src="https://img.youtube.com/vi/D9oH8skIZw0/0.jpg" alt="Miniatura del video" width="24%">
 </a>
-<a href="https://www.youtube.com/watch?v=7d6rzXVlbjg" target="_blank">
-  <img src="https://img.youtube.com/vi/7d6rzXVlbjg/0.jpg" alt="Miniatura del video" width="24%">
+<a href="https://www.youtube.com/watch?v=n3dVcriuXeY" target="_blank">
+  <img src="https://img.youtube.com/vi/n3dVcriuXeY/0.jpg" alt="Miniatura del video" width="24%">
 </a>
 <a href="https://www.youtube.com/watch?v=0GDfOAuUvQ0" target="_blank">
   <img src="https://img.youtube.com/vi/0GDfOAuUvQ0/0.jpg" alt="Miniatura del video" width="24%">
