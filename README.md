@@ -184,7 +184,7 @@ Aquí tienes la información para tu nuevo repositorio siguiendo el formato soli
 ![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=flat&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-%230078D4.svg?style=flat&logo=microsoft-azure&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)
-![Cloud](https://img.shields.io/badge/Cloud_Computing-%23FF4F00.svg?style=flat&logo=cloudfoundry&logoColor=white)
+![Cloud_Computing](https://img.shields.io/badge/Cloud-%23FF4F00.svg?style=flat&logo=cloudfoundry&logoColor=white)
 
 ## 📫 Conectemos
 
