@@ -119,11 +119,10 @@ Aquí tienes la información para tu nuevo repositorio siguiendo el formato soli
 * **📡 Telecomunicaciones:** Infraestructura y protocolos de comunicación.
 * **✈️ Aeronáutica:** Integración tecnológica en sistemas de vuelo...
 
+*Siempre buscando el "porqué" detrás del error (Debugging is my superpower).*
+
 ```python
-> "Aunque se interpongan muros de granito, no desesperes por su retraso, 
-> espera como alguien que entiende que cuando el espíritu surge y manda, 
-> hasta los dioses obedecen."
-> — Wheeler Wilcox
+> - Siempre buscando el "porqué" detrás del error (Debugging is my superpower).
 ```
 ![Digital Forensics](https://img.shields.io/badge/DFIR-%23C53030.svg?style=flat&logo=searxng&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-%231679A6.svg?style=flat&logo=wireshark&logoColor=white) 
@@ -194,7 +193,12 @@ Aquí tienes la información para tu nuevo repositorio siguiendo el formato soli
   </a>
 </p>
 
-*Siempre buscando el "porqué" detrás del error (Debugging is my superpower).*
+```python
+> "Aunque se interpongan muros de granito, no desesperes por su retraso, 
+> espera como alguien que entiende que cuando el espíritu surge y manda, 
+> hasta los dioses obedecen."
+> — Wheeler Wilcox
+```
 
 ### 🎥 Inspiración aquí: 
 
