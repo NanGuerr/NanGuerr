@@ -188,7 +188,7 @@ Aquí tienes la información para tu nuevo repositorio siguiendo el formato soli
 
 ## 📫 Conectemos
 
-⚡ ***HYPERFOCUS** mode: I will **hit you up**; please just leave a SIGNAL on **[DUOLINGO](https://www.duolingo.com/profile/NanGuer)** if you need anything.*
+⚡ ***HYPERFOCUS** mode: I will **hit you up**; please just leave a SIGNAL on **[DUOLINGO](https://www.duolingo.com/profile/NanGuerr)** if you need anything.*
 
 <p align="center">
   <img src="https://img.shields.io/badge/Español-Nativo-red?style=flat&logo=spain&logoColor=white" alt="Spanish">
