@@ -117,7 +117,7 @@
 * **📡 Telecomunicaciones:** Infraestructura y protocolos de comunicación.
 * **🤖 Robótica:** Sistemas embebidos y control de procesos.
 
-> *Siempre buscando el "porqué" detrás del error (Debugging is my superpower).*
+> *Buscando el "porqué" detrás del error (Debugging is my superpower).*
 
 ![TIA Portal](https://img.shields.io/badge/TIA_Portal-%23009999.svg?style=flat&logo=siemens&logoColor=white)
 ![ROS](https://img.shields.io/badge/ROS-%230A0EB2.svg?style=flat&logo=ros&logoColor=white) 
