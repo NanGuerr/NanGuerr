@@ -32,8 +32,6 @@
 
 ## 🛠 Repositorios Principales
 
-Aquí tienes la información para tu nuevo repositorio siguiendo el formato solicitado:
-
 ### 🛡️ [Ciberseguridad Industrial OT](https://github.com/NanGuerr/Ciberseguridad)
 
 *Repositorio central de Ciberseguridad en Entornos Industriales (OT).*
