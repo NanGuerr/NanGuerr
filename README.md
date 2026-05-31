@@ -177,7 +177,7 @@ Aquí tienes la información para tu nuevo repositorio siguiendo el formato soli
   <img src="https://img.shields.io/badge/Português-Intermediário-green?style=flat&logo=brazil&logoColor=white" alt="Portuguese">
 </p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/NanGuerr/NanGuerr/refs/heads/main/Duolingo-profile.png" width="20%"></p>
+<p align="center"><img src="https://github.com/NanGuerr/NanGuerr/blob/main/Duolingo-profile.png?raw=true" width="20%"></p>
 
 <p align="center">
    🛸 Debugging at Mach 2.0 | Outpacing the bugs.
