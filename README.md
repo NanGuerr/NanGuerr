@@ -116,7 +116,7 @@ Aquí tienes la información para tu nuevo repositorio siguiendo el formato soli
 *El objetivo es la intersección documentando y optimizando la lógica aplicada a los sistemas críticos.*
 
 * **🛡️ Ciberseguridad:** Análisis de vulnerabilidades y defensa de redes.
-  ![Digital Forensics](https://img.shields.io/badge/DFIR-%23C53030.svg?style=flat&logo=searxng&logoColor=white)
+* ![Digital Forensics](https://img.shields.io/badge/DFIR-%23C53030.svg?style=flat&logo=searxng&logoColor=white)
   ![Wireshark](https://img.shields.io/badge/Wireshark-%231679A6.svg?style=flat&logo=wireshark&logoColor=white) 
   ![Splunk](https://img.shields.io/badge/Splunk-%23000000.svg?style=flat&logo=splunk&logoColor=white)
   ![Vulnerability Analysis](https://img.shields.io/badge/Vulnerability-%23D9534F.svg?style=flat&logo=securityscorecard&logoColor=white)
@@ -129,13 +129,13 @@ Aquí tienes la información para tu nuevo repositorio siguiendo el formato soli
   ![Network Defense](https://img.shields.io/badge/Net_Defense-%232D3748.svg?style=flat&logo=cisco&logoColor=white)
   ![Threat Intel](https://img.shields.io/badge/Threat_Intel-%23744210.svg?style=flat&logo=intel&logoColor=white)
 * **🤖 Robótica:** Sistemas embebidos y control de procesos.
-  ![TIA Portal](https://img.shields.io/badge/TIA_Portal-%23009999.svg?style=flat&logo=siemens&logoColor=white)
+* ![TIA Portal](https://img.shields.io/badge/TIA_Portal-%23009999.svg?style=flat&logo=siemens&logoColor=white)
   ![ROS](https://img.shields.io/badge/ROS-%230A0EB2.svg?style=flat&logo=ros&logoColor=white) 
   ![AutoCAD](https://img.shields.io/badge/AutoCAD-%230696D7.svg?style=flat&logo=autocad&logoColor=white)
   ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-%23C51A4A.svg?style=flat&logo=raspberrypi&logoColor=white) 
   ![Arduino](https://img.shields.io/badge/Arduino-%2300979D.svg?style=flat&logo=arduino&logoColor=white) 
 * **📡 Telecomunicaciones:** Infraestructura y protocolos de comunicación.
-  ![Radio_Frequency](https://img.shields.io/badge/RF-%23E63946.svg?style=flat&logo=rss&logoColor=white)
+* ![Radio_Frequency](https://img.shields.io/badge/RF-%23E63946.svg?style=flat&logo=rss&logoColor=white)
   ![SatCom](https://img.shields.io/badge/Satellite_Comms-%231D3557.svg?style=flat&logo=satellite&logoColor=white)
   ![Telemetry](https://img.shields.io/badge/Telemetry-%23F4A261.svg?style=flat&logo=radar&logoColor=white)
   ![LoRaWAN](https://img.shields.io/badge/LoRaWAN-%234A90E2.svg?style=flat&logo=wireguard&logoColor=white)
