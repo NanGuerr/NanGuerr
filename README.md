@@ -111,34 +111,12 @@ Aquí tienes la información para tu nuevo repositorio siguiendo el formato soli
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=visualstudiocode&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 
-
 ## 🛠️ Áreas de interés BLUE TEAM
 *El objetivo es la intersección documentando y optimizando la lógica aplicada a los sistemas críticos.*
 
-* **🛡️ Ciberseguridad:** ![Digital Forensics](https://img.shields.io/badge/DFIR-%23C53030.svg?style=flat&logo=searxng&logoColor=white)
-  ![Wireshark](https://img.shields.io/badge/Wireshark-%231679A6.svg?style=flat&logo=wireshark&logoColor=white) 
-  ![Splunk](https://img.shields.io/badge/Splunk-%23000000.svg?style=flat&logo=splunk&logoColor=white)
-  ![Vulnerability Analysis](https://img.shields.io/badge/Vulnerability-%23D9534F.svg?style=flat&logo=securityscorecard&logoColor=white)
-  ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-%23000000.svg?style=flat&logo=cyberdefenders&logoColor=white)
-  ![Pentesting](https://img.shields.io/badge/Pentesting-%23FF6600.svg?style=flat&logo=kali-linux&logoColor=white)
-  ![Blue Team](https://img.shields.io/badge/Blue_Team-%230000FF.svg?style=flat&logo=defender&logoColor=white)
-  ![SOC Analyst](https://img.shields.io/badge/SOC-%232D3748.svg?style=flat&logo=splunk&logoColor=white)
-  ![Incident Response](https://img.shields.io/badge/Response-%23D69E2E.svg?style=flat&logo=checkmarx&logoColor=white)
-  ![Defense](https://img.shields.io/badge/Defense-%231A202C.svg?style=flat&logo=securityscorecard&logoColor=white)
-  ![Network Defense](https://img.shields.io/badge/Net_Defense-%232D3748.svg?style=flat&logo=cisco&logoColor=white)
-  ![Threat Intel](https://img.shields.io/badge/Threat_Intel-%23744210.svg?style=flat&logo=intel&logoColor=white)
+* **🛡️ Ciberseguridad:** Análisis de vulnerabilidades y defensa de redes.
 * **🤖 Robótica:** Sistemas embebidos y control de procesos.
-* ![TIA Portal](https://img.shields.io/badge/TIA_Portal-%23009999.svg?style=flat&logo=siemens&logoColor=white)
-  ![ROS](https://img.shields.io/badge/ROS-%230A0EB2.svg?style=flat&logo=ros&logoColor=white) 
-  ![AutoCAD](https://img.shields.io/badge/AutoCAD-%230696D7.svg?style=flat&logo=autocad&logoColor=white)
-  ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-%23C51A4A.svg?style=flat&logo=raspberrypi&logoColor=white) 
-  ![Arduino](https://img.shields.io/badge/Arduino-%2300979D.svg?style=flat&logo=arduino&logoColor=white) 
 * **📡 Telecomunicaciones:** Infraestructura y protocolos de comunicación.
-* ![Radio_Frequency](https://img.shields.io/badge/RF-%23E63946.svg?style=flat&logo=rss&logoColor=white)
-  ![SatCom](https://img.shields.io/badge/Satellite_Comms-%231D3557.svg?style=flat&logo=satellite&logoColor=white)
-  ![Telemetry](https://img.shields.io/badge/Telemetry-%23F4A261.svg?style=flat&logo=radar&logoColor=white)
-  ![LoRaWAN](https://img.shields.io/badge/LoRaWAN-%234A90E2.svg?style=flat&logo=wireguard&logoColor=white)
-  ![SDR](https://img.shields.io/badge/SDR-%23FF6600.svg?style=flat&logo=radio&logoColor=white)
 * **✈️ Aeronáutica:** Integración tecnológica en sistemas de vuelo...
 
 ```python
@@ -147,7 +125,28 @@ Aquí tienes la información para tu nuevo repositorio siguiendo el formato soli
 > hasta los dioses obedecen."
 > — Wheeler Wilcox
 ```
-
+![Digital Forensics](https://img.shields.io/badge/DFIR-%23C53030.svg?style=flat&logo=searxng&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-%231679A6.svg?style=flat&logo=wireshark&logoColor=white) 
+![Splunk](https://img.shields.io/badge/Splunk-%23000000.svg?style=flat&logo=splunk&logoColor=white)
+![Vulnerability Analysis](https://img.shields.io/badge/Vulnerability-%23D9534F.svg?style=flat&logo=securityscorecard&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-%23000000.svg?style=flat&logo=cyberdefenders&logoColor=white)
+![Pentesting](https://img.shields.io/badge/Pentesting-%23FF6600.svg?style=flat&logo=kali-linux&logoColor=white)
+![Blue Team](https://img.shields.io/badge/Blue_Team-%230000FF.svg?style=flat&logo=defender&logoColor=white)
+![SOC Analyst](https://img.shields.io/badge/SOC-%232D3748.svg?style=flat&logo=splunk&logoColor=white)
+![Incident Response](https://img.shields.io/badge/Response-%23D69E2E.svg?style=flat&logo=checkmarx&logoColor=white)
+![Defense](https://img.shields.io/badge/Defense-%231A202C.svg?style=flat&logo=securityscorecard&logoColor=white)
+![Network Defense](https://img.shields.io/badge/Net_Defense-%232D3748.svg?style=flat&logo=cisco&logoColor=white)
+![Threat Intel](https://img.shields.io/badge/Threat_Intel-%23744210.svg?style=flat&logo=intel&logoColor=white)
+![TIA Portal](https://img.shields.io/badge/TIA_Portal-%23009999.svg?style=flat&logo=siemens&logoColor=white)
+![ROS](https://img.shields.io/badge/ROS-%230A0EB2.svg?style=flat&logo=ros&logoColor=white) 
+![AutoCAD](https://img.shields.io/badge/AutoCAD-%230696D7.svg?style=flat&logo=autocad&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-%23C51A4A.svg?style=flat&logo=raspberrypi&logoColor=white) 
+![Arduino](https://img.shields.io/badge/Arduino-%2300979D.svg?style=flat&logo=arduino&logoColor=white) 
+![Radio_Frequency](https://img.shields.io/badge/RF-%23E63946.svg?style=flat&logo=rss&logoColor=white)
+![SatCom](https://img.shields.io/badge/Satellite_Comms-%231D3557.svg?style=flat&logo=satellite&logoColor=white)
+![Telemetry](https://img.shields.io/badge/Telemetry-%23F4A261.svg?style=flat&logo=radar&logoColor=white)
+![LoRaWAN](https://img.shields.io/badge/LoRaWAN-%234A90E2.svg?style=flat&logo=wireguard&logoColor=white)
+![SDR](https://img.shields.io/badge/SDR-%23FF6600.svg?style=flat&logo=radio&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
@@ -165,6 +164,7 @@ Aquí tienes la información para tu nuevo repositorio siguiendo el formato soli
 ![Azure](https://img.shields.io/badge/Azure-%230078D4.svg?style=flat&logo=microsoft-azure&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)
 ![Cloud_Computing](https://img.shields.io/badge/Cloud-%23FF4F00.svg?style=flat&logo=cloudfoundry&logoColor=white)
+
 
 ## 📫 Conectemos
 
