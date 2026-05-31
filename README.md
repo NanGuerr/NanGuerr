@@ -119,11 +119,8 @@ Aquí tienes la información para tu nuevo repositorio siguiendo el formato soli
 * **📡 Telecomunicaciones:** Infraestructura y protocolos de comunicación.
 * **✈️ Aeronáutica:** Integración tecnológica en sistemas de vuelo...
 
-*Siempre buscando el "porqué" detrás del error (Debugging is my superpower).*
+> [!ALERT] *Siempre buscando el "porqué" detrás del error (Debugging is my superpower).*
 
-```python
-> - Siempre buscando el "porqué" detrás del error (Debugging is my superpower).
-```
 ![Digital Forensics](https://img.shields.io/badge/DFIR-%23C53030.svg?style=flat&logo=searxng&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-%231679A6.svg?style=flat&logo=wireshark&logoColor=white) 
 ![Splunk](https://img.shields.io/badge/Splunk-%23000000.svg?style=flat&logo=splunk&logoColor=white)
