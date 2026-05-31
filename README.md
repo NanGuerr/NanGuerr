@@ -115,8 +115,7 @@ Aquí tienes la información para tu nuevo repositorio siguiendo el formato soli
 ## 🛠️ Áreas de interés BLUE TEAM
 *El objetivo es la intersección documentando y optimizando la lógica aplicada a los sistemas críticos.*
 
-* **🛡️ Ciberseguridad:** Análisis de vulnerabilidades y defensa de redes.
-* ![Digital Forensics](https://img.shields.io/badge/DFIR-%23C53030.svg?style=flat&logo=searxng&logoColor=white)
+* **🛡️ Ciberseguridad:** ![Digital Forensics](https://img.shields.io/badge/DFIR-%23C53030.svg?style=flat&logo=searxng&logoColor=white)
   ![Wireshark](https://img.shields.io/badge/Wireshark-%231679A6.svg?style=flat&logo=wireshark&logoColor=white) 
   ![Splunk](https://img.shields.io/badge/Splunk-%23000000.svg?style=flat&logo=splunk&logoColor=white)
   ![Vulnerability Analysis](https://img.shields.io/badge/Vulnerability-%23D9534F.svg?style=flat&logo=securityscorecard&logoColor=white)
