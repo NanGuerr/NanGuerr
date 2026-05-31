@@ -113,9 +113,9 @@
 *El objetivo es la intersección documentando y optimizando la lógica aplicada a los sistemas críticos.*
 
 * **🛡️ Ciberseguridad:** Análisis de vulnerabilidades y defensa de redes.
-* **🤖 Robótica:** Sistemas embebidos y control de procesos.
+* **✈️ Aeronáutica:** Integración tecnológica en sistemas de vuelo.
 * **📡 Telecomunicaciones:** Infraestructura y protocolos de comunicación.
-* **✈️ Aeronáutica:** Integración tecnológica en sistemas de vuelo...
+* **🤖 Robótica:** Sistemas embebidos y control de procesos.
 
 > *Siempre buscando el "porqué" detrás del error (Debugging is my superpower).*
 
