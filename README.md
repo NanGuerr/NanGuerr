@@ -110,12 +110,11 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 
 ## 🛠️ Áreas de interés BLUE TEAM
-*El objetivo es la intersección documentando y optimizando la lógica aplicada a los sistemas críticos.*
+*El objetivo documentar y optimizar la lógica aplicada a los sistemas críticos.*
 
-* **🛡️ Ciberseguridad:** Análisis de vulnerabilidades y defensa de redes.
-* **✈️ Aeronáutica:** Integración tecnológica en sistemas de vuelo.
-* **📡 Telecomunicaciones:** Infraestructura y protocolos de comunicación.
-* **🤖 Robótica:** Sistemas embebidos y control de procesos.
+* **🛡️ Ciberseguridad:** Arquitectura Zero Trust, telemetría (MDR), Migración (PQC) y QKD.
+* **✈️ Aeronáutica:** Sistema de Control Fly-By-Wire (A350) y Terrain Following (TFR).
+* **⛓️ Mecánica:** Motor EcoBoost® V6 birurbo y Terrain Management System™ (Ford F-150 Raptor).
 
 > *Buscando el "porqué" detrás del error (Debugging is my superpower).*
 
