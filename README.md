@@ -19,7 +19,7 @@
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![IL](https://img.shields.io/badge/IL-%23000000.svg?style=flat&logo=codeigniter&logoColor=white)
 ![Ladder](https://img.shields.io/badge/Ladder-%23FFD700.svg?style=flat&logo=arduino&logoColor=black)
-![Structure Text](https://img.shields.io/badge/Structure%20Text-%23005571.svg?style=flat&logo=c&logoColor=white)
+![Structured Text](https://img.shields.io/badge/Structured%20Text-%23005571.svg?style=flat&logo=c&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-%23268BEE.svg?style=flat&logo=kalilinux&logoColor=white) 
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 ![ABB](https://img.shields.io/badge/ABB-%23FF0000.svg?style=flat&logo=abb&logoColor=white)
@@ -28,7 +28,7 @@
 ![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=flat&logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 
 ## 🛠 Repositorios Principales
 
