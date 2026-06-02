@@ -165,7 +165,7 @@
 ![First Aid (TCCC)](https://img.shields.io/badge/First_Aid_(TCCC)-%23D32F2F.svg?style=flat&logo=redcross&logoColor=white)
 ![Hermetismo](https://img.shields.io/badge/Hermetismo-%23455A64.svg?style=flat&logo=vault&logoColor=white)
 ![Autonomía](https://img.shields.io/badge/Autonom%C3%ADa-%23F57C00.svg?style=flat&logo=probot&logoColor=white)
-![TCCC](https://img.shields.io/badge/TCCC-%23B71C1C.svg?style=flat&logo=plus&logoColor=white)
+![Primeros Auxilios Tácticos TCC](https://img.shields.io/badge/TCC-%23B71C1C.svg?style=flat&logo=plus&logoColor=white)
 ![OpenStreetMap](https://img.shields.io/badge/OpenStreetMap-%237EBC6F.svg?style=flat&logo=openstreetmap&logoColor=white)
 ![Heartbeat](https://img.shields.io/badge/Heartbeat-%23FF4081.svg?style=flat&logo=appwrite&logoColor=white)
 ![Proton](https://img.shields.io/badge/Proton-%236D4AFF.svg?style=flat&logo=proton&logoColor=white)
