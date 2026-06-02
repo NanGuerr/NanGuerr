@@ -116,12 +116,15 @@
 * **✈️ Aeronáutica:** Fly-By-Wire (A350), Terrain Following (TFR) y ALICE (F-35 L2)
 * **⛓️ Mecánica:** Motor EcoBoost® V6 birurbo y Terrain Management System™ (Ford F-150 Raptor).
 * **📡 Telecomunicaciones:** Satelitales LEO, radares SAR y redes de banda ancha de última generación.
-* **🆘 Supervivencia:** Protocolos de autonomía y resiliencia operativa en entornos de infraestructura degradada.
+* **🆘 Supervivencia:** Protocolos, Operación Descentralizada y Resiliencia (Arquitectura Offline-First).
 * **🩺 Firts AID:** HEAT (Hostile Environment Awareness Training), (TCCC) y procedimientos de estabilización.
 * **👁️ Hermetismo:** Reserva estratégica de información y el dominio del razonamiento lógico-científico.
 
 > *Buscando el "porqué" detrás del error (Debugging is my superpower).*
 
+![Infra Degradada](https://img.shields.io/badge/Infra%20Degradada-%23E67E22.svg?style=flat&logo=sqlite&logoColor=white)
+![Autonomía Edge](https://img.shields.io/badge/Autonomía%20Edge-%236C5CE7.svg?style=flat&logo=ipfs&logoColor=white)
+![Resiliencia Operativa](https://img.shields.io/badge/Resiliencia%20Operativa-%232C3E50.svg?style=flat&logo=kubernetes&logoColor=white)
 ![TIA Portal](https://img.shields.io/badge/TIA_Portal-%23009999.svg?style=flat&logo=siemens&logoColor=white)
 ![ROS](https://img.shields.io/badge/ROS-%230A0EB2.svg?style=flat&logo=ros&logoColor=white) 
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-%230696D7.svg?style=flat&logo=autocad&logoColor=white)
