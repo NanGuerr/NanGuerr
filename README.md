@@ -170,7 +170,7 @@
 ![Proton](https://img.shields.io/badge/Proton-%236D4AFF.svg?style=flat&logo=proton&logoColor=white)
 ![ALIS F-35 L2](https://img.shields.io/badge/ALIS%20(F--35%20L2)-%2351585E.svg?style=flat&logo=lockheedmartin&logoColor=white)
 ![HEAT Training](https://img.shields.io/badge/HEAT_Training-%23A07855.svg?style=flat&logo=guardsquare&logoColor=white)
-![Cruz Roja](https://img.shields.io/badge/Cruz_Roja-%23EE1C25.svg?style=flat&logo=americanredcross&logoColor=white)
+
 
 ## 📫 Conectemos
 
