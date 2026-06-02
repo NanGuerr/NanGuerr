@@ -192,11 +192,6 @@
   </a>
 </p>
 
-> *Aunque se interpongan muros de granito, no desesperes por su retraso,* 
-> *espera como alguien que entiende que cuando el espíritu surge y manda,* 
-> *hasta los dioses obedecen.*
-> — *Wheeler Wilcox*
-
 
 ### 🎥 Inspiración aquí: 
 
@@ -213,5 +208,9 @@
   <img src="https://img.youtube.com/vi/9g_2B1Ji_CI/0.jpg" alt="Miniatura del video" width="24%">
 </a>
 
+> *Aunque se interpongan muros de granito, no desesperes por su retraso,* 
+> *espera como alguien que entiende que cuando el espíritu surge y manda,* 
+> *hasta los dioses obedecen.*
+> — *Wheeler Wilcox*
 
 *Ultima actualización: Junio 2026*
