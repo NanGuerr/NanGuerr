@@ -110,7 +110,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 
 ## 🛠️ Áreas de interés BLUE TEAM
-*El objetivo documentar y optimizar la lógica aplicada a los sistemas críticos y situsciones de riesgo.*
+*Documentar y optimizar la lógica aplicada a los sistemas críticos y situsciones de riesgo.*
 
 * **🛡️ Ciberseguridad:** Arquitectura Zero Trust, telemetría (MDR), Migración (PQC) y QKD.
 * **✈️ Aeronáutica:** Sistema de Control Fly-By-Wire (A350) y Terrain Following (TFR).
