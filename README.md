@@ -162,7 +162,6 @@
 ![LoRaWAN](https://img.shields.io/badge/LoRaWAN-%234A90E2.svg?style=flat&logo=wireguard&logoColor=white)
 ![SDR](https://img.shields.io/badge/SDR-%23FF6600.svg?style=flat&logo=radio&logoColor=white)
 ![Supervivencia](https://img.shields.io/badge/Supervivencia-%232E8B57.svg?style=flat&logo=foursquare&logoColor=white)
-![First Aid TCCC](https://img.shields.io/badge/First_Aid_TCCC-%234B5320.svg?style=flat&logo=americanredcross&logoColor=white)
 ![First Aid (TCCC)](https://img.shields.io/badge/First_Aid_(TCCC)-%23D32F2F.svg?style=flat&logo=redcross&logoColor=white)
 ![Hermetismo](https://img.shields.io/badge/Hermetismo-%23455A64.svg?style=flat&logo=vault&logoColor=white)
 ![Autonomía](https://img.shields.io/badge/Autonom%C3%ADa-%23F57C00.svg?style=flat&logo=probot&logoColor=white)
