@@ -171,7 +171,8 @@
 ![Proton](https://img.shields.io/badge/Proton-%236D4AFF.svg?style=flat&logo=proton&logoColor=white)
 ![ALIS F-35 L2](https://img.shields.io/badge/ALIS%20(F--35%20L2)-%2351585E.svg?style=flat&logo=lockheedmartin&logoColor=white)
 ![HEAT Training](https://img.shields.io/badge/HEAT_Training-%23A07855.svg?style=flat&logo=guardsquare&logoColor=white)
-
+![COBOL](https://img.shields.io/badge/COBOL-%23003B70.svg?style=flat&logo=ibm&logoColor=white)
+![Legacy Systems](https://img.shields.io/badge/Legacy-Systems-%23718096.svg?style=flat&logo=archive&logoColor=white)
 
 ## 📫 Conectemos
 
