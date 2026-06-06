@@ -19,7 +19,6 @@
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![IL](https://img.shields.io/badge/IL-%23000000.svg?style=flat&logo=codeigniter&logoColor=white)
 ![Ladder](https://img.shields.io/badge/Ladder-%23FFD700.svg?style=flat&logo=arduino&logoColor=black)
-![Structured Text](https://img.shields.io/badge/Structured%20Text-%23005571.svg?style=flat&logo=c&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-%23268BEE.svg?style=flat&logo=kalilinux&logoColor=white) 
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 ![ABB](https://img.shields.io/badge/ABB-%23FF0000.svg?style=flat&logo=abb&logoColor=white)
