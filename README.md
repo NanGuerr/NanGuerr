@@ -91,10 +91,9 @@
 * Recursos estructurados para acelerar el dominio del idioma elegido.
 
 ![Duolingo](https://img.shields.io/badge/Duolingo-749D0C?logo=duolingo&logoColor=white)
-![Super](https://img.shields.io/badge/Super-000000?logo=superhuman&logoColor=white)
 ![Languages](https://img.shields.io/badge/Languages-blue?logo=google-translate&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![Docs](https://img.shields.io/badge/Docs-4285F4?logo=googledocs&logoColor=white)
+
 
 ### 🧠 [Programación en Python](https://github.com/NanGuerr/Introducci-n-a-la-Programaci-n)
 
@@ -104,7 +103,6 @@
 * Estudiantes que buscan dominar las bases de la algoritmia.
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![Programming](https://img.shields.io/badge/Programming-000000?logo=codeforces&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=visualstudiocode&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 
