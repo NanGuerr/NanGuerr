@@ -39,7 +39,7 @@
 * Estrategias de **Defensa en Profundidad** y segmentación según el Modelo de Referencia Purdue.
 * Recursos esenciales para ingenieros y auditores dedicados a la protección de infraestructuras críticas.
 
-![NIST 800-82](https://img.shields.io/badge/NIST-800--82-blue?logo=securityscorecard)
+![NIST 800-82](https://img.shields.io/badge/NIST-blue?logo=securityscorecard)
 ![SCADA/ICS](https://img.shields.io/badge/ICS-SCADA-green?logo=automattic)
 ![OPC UA](https://img.shields.io/badge/Protocolo-OPC%20UA-black)
 ![Siemens S7](https://img.shields.io/badge/Siemens-S7--1500-blue?logo=siemens)
