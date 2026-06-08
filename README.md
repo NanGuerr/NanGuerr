@@ -41,9 +41,9 @@
 
 ![NIST 800-82](https://img.shields.io/badge/NIST-blue?logo=securityscorecard)
 ![SCADA/ICS](https://img.shields.io/badge/ICS-SCADA-green?logo=automattic)
-![OPC UA](https://img.shields.io/badge/Protocolo-OPC%20UA-black)
+![OPC UA](https://img.shields.io/badge/OPC%20UA-black)
 ![Siemens S7](https://img.shields.io/badge/Siemens-S7--1500-blue?logo=siemens)
-![Convergencia IT/OT](https://img.shields.io/badge/IT-OT-darkblue?logo=cisco)
+![Convergencia IT/OT](https://img.shields.io/badge/IT-darkblue?logo=cisco)
 
 ### 🏭 [Smart Factory Expert](https://github.com/NanGuerr/Smart-Factory-Expert)
 
