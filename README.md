@@ -40,10 +40,10 @@
 * Recursos esenciales para ingenieros y auditores dedicados a la protección de infraestructuras críticas.
 
 ![NIST 800-82](https://img.shields.io/badge/NIST-blue?logo=securityscorecard)
-![SCADA/ICS](https://img.shields.io/badge/SCADA-green?logo=automattic)
+![SCADA/ICS](https://img.shields.io/badge/|-SCADA-green?logo=automattic)
 ![OPC UA](https://img.shields.io/badge/OPC%20UA-black)
-![Siemens S7](https://img.shields.io/badge/Siemens-blue?logo=siemens)
-![Convergencia IT/OT](https://img.shields.io/badge/IT-darkblue?logo=cisco)
+![Siemens S7](https://img.shields.io/badge/|-Siemens-blue?logo=siemens)
+![Convergencia IT/OT](https://img.shields.io/badge/|-IT-darkblue?logo=cisco)
 
 ### 🏭 [Smart Factory Expert](https://github.com/NanGuerr/Smart-Factory-Expert)
 
@@ -53,10 +53,10 @@
 * Integración **IA (OpenCV)**, **PLCs (TIA Portal)** y diseño eléctrico EPLAN.
 * Tecnologías como Node-RED, Docker, **Ciberseguridad Industrial** y Robótica (ABB).
 
-![Industria 4.0](https://img.shields.io/badge/Industria-4.0-blue?logo=siemens)
-![PLC](https://img.shields.io/badge/PLC-Controladores_Lógicos-red?logo=logic)
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![IIoT](https://img.shields.io/badge/IIoT-Industrial_IoT-green?logo=internet-of-things)
+![Industria 4.0](https://img.shields.io/badge/|-4.0-blue?logo=siemens)
+![PLC](https://img.shields.io/badge/PLC-red?logo=logic)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![IIoT](https://img.shields.io/badge/|-IIoT-green?logo=internet-of-things)
 
 ### 📡 [Telecom & Electronics](https://github.com/NanGuerr/Telecom)
 
@@ -66,10 +66,10 @@
 * Infraestructura, **multiplexación (WDM/FDM)**, troncales (SDH/SONET), redes **FTTH**...
 * Diseño de hardware con **herramientas CAD**, fabricación de PCBs, microcontroladores...
 
-![Telecom](https://img.shields.io/badge/Telecom-FTTH-blue?logo=data-gript)
-![Redes](https://img.shields.io/badge/Redes-LAN_%7C_MPLS-green?logo=cisco)
-![Electrónica](https://img.shields.io/badge/Electrónica-Embedded-red?logo=microchip)
-![RF](https://img.shields.io/badge/RF-Propagación-orange?logo=ubiquiti)
+![Telecom](https://img.shields.io/badge/FTTH-blue?logo=data-gript)
+![Redes](https://img.shields.io/badge/|-MPLS-green?logo=cisco)
+![Electrónica](https://img.shields.io/badge/Embedded-red?logo=microchip)
+![RF](https://img.shields.io/badge/RF-orange?logo=ubiquiti)
 
 ### 🦅 [Protocolo Fénix](https://github.com/NanGuerr/Protocolo-F-nix)
 
@@ -80,9 +80,9 @@
 * Ejecución mecánica del Protocolo T0 (estabilización y respuesta en <24h).
 * Aplicación de metodologías S.T.O.P. y ciberseguridad analógica (Air-Gapping).
 
-![Meshtastic](https://img.shields.io/badge/Meshtastic-Open_Source-blue?logo=meshtastic)
-![SDR](https://img.shields.io/badge/SDR-Software_Defined_Radio-orange?logo=radio)
-![LoRa](https://img.shields.io/badge/LoRa-Long_Range-green?logo=lora)
+![Meshtastic](https://img.shields.io/badge/|-Meshtastic-blue?logo=meshtastic)
+![SDR](https://img.shields.io/badge/-SDR-orange?logo=radio)
+![LoRa](https://img.shields.io/badge/|-LoRa-green?logo=lora)
 
 ### 🦉 [Duolingo Guía de Optimización](https://github.com/NanGuerr/Duolingo-Gu-a-de-Optimizaci-n)
 
@@ -103,8 +103,8 @@
 * Algoritmos eficientes y lógica pura en **Python**.
 * Estudiantes que buscan dominar las bases de la algoritmia.
 
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=visualstudiocode&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![Visual Studio Code](https://img.shields.io/badge/VS-Code-007ACC?logo=visualstudiocode&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 
 ## 🛠️ Áreas de interés BLUE TEAM
@@ -120,7 +120,7 @@
 
 > *Buscando el "porqué" detrás del error (Debugging is my superpower).*
 
-![Ladder](https://img.shields.io/badge/Ladder-%23FFD700.svg?style=flat&logo=arduino&logoColor=black)
+![Ladder](https://img.shields.io/badge/Ladder-%232D3748.svg?style=flat&logo=ladder&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=flat&logo=mysql&logoColor=white)
 ![TIA Portal](https://img.shields.io/badge/TIA_Portal-%23009999.svg?style=flat&logo=siemens&logoColor=white)
 ![ROS](https://img.shields.io/badge/ROS-%230A0EB2.svg?style=flat&logo=ros&logoColor=white) 
@@ -168,7 +168,7 @@
 ![ALIS F-35 L2](https://img.shields.io/badge/ALIS%20(F--35%20L2)-%2351585E.svg?style=flat&logo=lockheedmartin&logoColor=white)
 ![HEAT Training](https://img.shields.io/badge/HEAT_Training-%23A07855.svg?style=flat&logo=guardsquare&logoColor=white)
 ![COBOL](https://img.shields.io/badge/COBOL-%23003B70.svg?style=flat&logo=ibm&logoColor=white)
-![Legacy Systems](https://img.shields.io/badge/Legacy-Systems-%23718096.svg?style=flat&logo=archive&logoColor=white)
+![Legacy Systems](https://img.shields.io/badge/Legacy-Systems-%230A0EB2.svg?style=flat&logo=archive&logoColor=white)
 
 ## 📫 Conectemos
 
