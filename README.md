@@ -175,7 +175,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Español-Nativo-red?style=flat&logo=spain&logoColor=white" alt="Spanish">
-  <img src="https://img.shields.io/badge/English-Tecnico-2a5499?style=flat&logo=google-translate&logoColor=white" alt="English">
+  <img src="https://img.shields.io/badge/English-Técnico-2a5499?style=flat&logo=google-translate&logoColor=white" alt="English">
   <img src="https://img.shields.io/badge/Português-Medio-green?style=flat&logo=brazil&logoColor=white" alt="Portuguese">
 </p>
 
