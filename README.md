@@ -39,11 +39,10 @@
 * Estrategias de **Defensa en Profundidad** y segmentación según el Modelo de Referencia Purdue.
 * Recursos esenciales para ingenieros y auditores dedicados a la protección de infraestructuras críticas.
 
-![NIST 800-82](https://img.shields.io/badge/NIST-blue?logo=securityscorecard)
-![SCADA/ICS](https://img.shields.io/badge/|-SCADA-green?logo=automattic)
-![OPC UA](https://img.shields.io/badge/OPC%20UA-black)
-![Siemens S7](https://img.shields.io/badge/|-Siemens-blue?logo=siemens)
-![Convergencia IT/OT](https://img.shields.io/badge/|-IT-darkblue?logo=cisco)
+![NIST 800-82](https://img.shields.io/badge/NIST_800--82-%23005a9c?style=flat&logo=nisis&logoColor=white)
+![SCADA/ICS](https://img.shields.io/badge/SCADA--ICS-%235f5f5f?style=flat&logo=siemens&logoColor=white)
+![Siemens S7](https://img.shields.io/badge/Siemens_S7-%23009999?style=flat&logo=siemens&logoColor=white)
+![Convergencia IT--OT](https://img.shields.io/badge/Convergencia_IT--OT-%23049fd9?style=flat&logo=cisco&logoColor=white)
 
 ### 🏭 [Smart Factory Expert](https://github.com/NanGuerr/Smart-Factory-Expert)
 
@@ -53,10 +52,10 @@
 * Integración **IA (OpenCV)**, **PLCs (TIA Portal)** y diseño eléctrico EPLAN.
 * Tecnologías como Node-RED, Docker, **Ciberseguridad Industrial** y Robótica (ABB).
 
-![Industria 4.0](https://img.shields.io/badge/|-4.0-blue?logo=siemens)
-![PLC](https://img.shields.io/badge/PLC-red?logo=logic)
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![IIoT](https://img.shields.io/badge/|-IIoT-green?logo=internet-of-things)
+![Industria 4.0](https://img.shields.io/badge/Industria-4.0-%23009999?style=flat&logo=siemens&logoColor=white)
+![PLC](https://img.shields.io/badge/PLC-%23D32F2F?style=flat&logo=siemens&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB?style=flat&logo=python&logoColor=%23FFD43B)
+![IIoT](https://img.shields.io/badge/IIoT-%232E7D32?style=flat&logo=internet-of-things&logoColor=white)
 
 ### 📡 [Telecom & Electronics](https://github.com/NanGuerr/Telecom)
 
@@ -66,10 +65,10 @@
 * Infraestructura, **multiplexación (WDM/FDM)**, troncales (SDH/SONET), redes **FTTH**...
 * Diseño de hardware con **herramientas CAD**, fabricación de PCBs, microcontroladores...
 
-![Telecom](https://img.shields.io/badge/FTTH-blue?logo=data-gript)
-![Redes](https://img.shields.io/badge/|-MPLS-green?logo=cisco)
-![Electrónica](https://img.shields.io/badge/Embedded-red?logo=microchip)
-![RF](https://img.shields.io/badge/RF-orange?logo=ubiquiti)
+![FTTH](https://img.shields.io/badge/FTTH-%23007ACC.svg?style=flat&logo=fiberplane&logoColor=white)
+![MPLS](https://img.shields.io/badge/MPLS-%23049FD9.svg?style=flat&logo=cisco&logoColor=white)
+![Embedded](https://img.shields.io/badge/Embedded-%23E72027.svg?style=flat&logo=microchip&logoColor=white)
+![RF](https://img.shields.io/badge/RF-%23003366.svg?style=flat&logo=ubiquiti&logoColor=white)
 
 ### 🦅 [Protocolo Fénix](https://github.com/NanGuerr/Protocolo-F-nix)
 
@@ -80,9 +79,9 @@
 * Ejecución mecánica del Protocolo T0 (estabilización y respuesta en <24h).
 * Aplicación de metodologías S.T.O.P. y ciberseguridad analógica (Air-Gapping).
 
-![Meshtastic](https://img.shields.io/badge/|-Meshtastic-blue?logo=meshtastic)
-![SDR](https://img.shields.io/badge/-SDR-orange?logo=radio)
-![LoRa](https://img.shields.io/badge/|-LoRa-green?logo=lora)
+![Meshtastic](https://img.shields.io/badge/Meshtastic-%2300AEEF.svg?style=flat&logo=meshtastic&logoColor=white)
+![SDR](https://img.shields.io/badge/SDR-%23FF8C00.svg?style=flat&logo=radio&logoColor=white)
+![LoRa](https://img.shields.io/badge/LoRa-%23008000.svg?style=flat&logo=lora&logoColor=white)
 
 ### 🦉 [Duolingo Guía de Optimización](https://github.com/NanGuerr/Duolingo-Gu-a-de-Optimizaci-n)
 
@@ -103,9 +102,9 @@
 * Algoritmos eficientes y lógica pura en **Python**.
 * Estudiantes que buscan dominar las bases de la algoritmia.
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![Visual Studio Code](https://img.shields.io/badge/VS-Code-007ACC?logo=visualstudiocode&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=FFD43B)
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ## 🛠️ Áreas de interés BLUE TEAM
 *Documentar y optimizar la lógica aplicada a los sistemas críticos y situsciones de riesgo.*
@@ -176,8 +175,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Español-Nativo-red?style=flat&logo=spain&logoColor=white" alt="Spanish">
-  <img src="https://img.shields.io/badge/English-Technical-2a5499?style=flat&logo=google-translate&logoColor=white" alt="English">
-  <img src="https://img.shields.io/badge/Português-Intermediário-green?style=flat&logo=brazil&logoColor=white" alt="Portuguese">
+  <img src="https://img.shields.io/badge/English-Tecnico-2a5499?style=flat&logo=google-translate&logoColor=white" alt="English">
+  <img src="https://img.shields.io/badge/Português-Medio-green?style=flat&logo=brazil&logoColor=white" alt="Portuguese">
 </p>
 
 <p align="center"><img src="https://github.com/NanGuerr/NanGuerr/blob/main/Duolingo-profile.png?raw=true" width="20%"></p>
