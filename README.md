@@ -110,7 +110,7 @@
 *Documentar y optimizar la lógica aplicada a los sistemas críticos y situsciones de riesgo.*
 
 * **🛡️ Ciberseguridad:** Arquitectura Zero Trust, telemetría (MDR), Migración (PQC) y QKD.
-* **✈️ Aeronáutica:** Dinámica de fluidos computacional (CFD), operaciones VTOL/STOVL y compuestos de matriz cerámica (CMC).
+* **✈️ Aeronáutica:** Dinámica de fluidos (CFD), operaciones VTOL/STOVL y compuestos de matriz cerámica (CMC).
 * **⛓️ Mecánica:** Motor EcoBoost® V6 birurbo y Terrain Management System™ (Ford Raptor).
 * **📡 Telecomunicaciones:** Satelitales LEO, radares SAR y redes de banda ancha.
 * **🆘 Supervivencia:** Protocolos, Operación Descentralizada y Arquitectura Offline-First.
