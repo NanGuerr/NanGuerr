@@ -109,12 +109,12 @@
 ## 🛠️ Áreas de interés BLUE TEAM
 *Documentar y optimizar la lógica aplicada a los sistemas críticos y situsciones de riesgo.*
 
-* **🛡️ Ciberseguridad:** Arquitectura Zero Trust, telemetría (MDR), Migración (PQC) y QKD.
-* **✈️ Aeronáutica:** Aterrizaje (eVTOL), VTOL/STOVL y plataformas estratosféricas (HAPS).
-* **⛓️ Mecánica:** Motor EcoBoost® V6 birurbo y Terrain Management System™ (Ford Raptor).
+* **🛡️ Ciberseguridad:** Zero Trust, telemetría (MDR), Migración (PQC) y QKD.
+* **✈️ Aeronáutica:** Aterrizaje (eVTOL), VTOL/STOVL y plataformas HAPS (LTA y HTA).
+* **⛓️ Mecánica:** Motor EcoBoost® V6 birurbo y Terrain Management System™.
 * **📡 Telecomunicaciones:** Satelitales LEO, radares SAR y redes de banda ancha.
-* **🆘 Supervivencia:** Protocolos, Operación Descentralizada y Arquitectura Offline-First.
-* **🩺 Firts AID:** HEAT (Hostile Environment Awareness Training), Tácticas (TCCC) y estabilización.
+* **🆘 Supervivencia:** Operación Descentralizada y Arquitectura Offline-First.
+* **🩺 Firts AID:** HEAT (Hostile Environment Awareness Training) y Tácticas (TCCC).
 * **👁️ Hermetismo:** Reserva estratégica de información y el dominio lógico-científico.
 
 > *Buscando el "porqué" detrás del error (Debugging is my superpower).*
