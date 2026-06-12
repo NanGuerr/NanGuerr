@@ -174,7 +174,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Español-Nativo-red?style=flat&logo=spain&logoColor=white" alt="Spanish">
   <img src="https://img.shields.io/badge/English-Técnico-2a5499?style=flat&logo=google-translate&logoColor=white" alt="English">
-  <img src="https://img.shields.io/badge/Português-Medio-green?style=flat&logo=brazil&logoColor=white" alt="Portuguese">
+  <img src="https://img.shields.io/badge/Italiano-Medio-green?style=flat&logo=italian&logoColor=white" alt="Italiano">
 </p>
 
 <p align="center"><img src="https://github.com/NanGuerr/NanGuerr/blob/main/Duolingo-profile.png?raw=true" width="20%"></p>
