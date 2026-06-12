@@ -110,7 +110,7 @@
 *Documentar y optimizar la lógica aplicada a los sistemas críticos y situsciones de riesgo.*
 
 * **🛡️ Ciberseguridad:** Arquitectura Zero Trust, telemetría (MDR), Migración (PQC) y QKD.
-* **✈️ Aeronáutica:** Fly-By-Wire (A350), Terrain Following (TFR) y ALICE (F-35 L2)
+* **✈️ Aeronáutica:** Dinámica de fluidos computacional (CFD), operaciones VTOL/STOVL y compuestos de matriz cerámica (CMC).
 * **⛓️ Mecánica:** Motor EcoBoost® V6 birurbo y Terrain Management System™ (Ford Raptor).
 * **📡 Telecomunicaciones:** Satelitales LEO, radares SAR y redes de banda ancha.
 * **🆘 Supervivencia:** Protocolos, Operación Descentralizada y Arquitectura Offline-First.
@@ -166,7 +166,6 @@
 ![Autonomía](https://img.shields.io/badge/Autonom%C3%ADa-%23F57C00.svg?style=flat&logo=probot&logoColor=white)
 ![HDig](https://img.shields.io/badge/HDig-%237EBC6F.svg?style=flat&logo=openstreetmap&logoColor=white)
 ![Heartbeat](https://img.shields.io/badge/Heartbeat-%23FF4081.svg?style=flat&logo=appwrite&logoColor=white)
-![ALIS F-35 L2](https://img.shields.io/badge/ALIS%20(F--35%20L2)-%2351585E.svg?style=flat&logo=lockheedmartin&logoColor=white)
 ![HEAT Training](https://img.shields.io/badge/HEAT-%23092E20.svg?style=flat&logo=guardsquare&logoColor=white)
 
 ## 📫 Conectemos
