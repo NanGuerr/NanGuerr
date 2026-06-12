@@ -167,6 +167,9 @@
 ![HDig](https://img.shields.io/badge/HDig-%237EBC6F.svg?style=flat&logo=openstreetmap&logoColor=white)
 ![Heartbeat](https://img.shields.io/badge/Heartbeat-%23FF4081.svg?style=flat&logo=appwrite&logoColor=white)
 ![HEAT Training](https://img.shields.io/badge/HEAT-%23092E20.svg?style=flat&logo=guardsquare&logoColor=white)
+![Aterrizaje eVTOL](https://img.shields.io/badge/Aterrizaje-eVTOL-brightgreen?logo=airplane)
+![Operaciones](https://img.shields.io/badge/Operaciones-VTOL%2FSTOVL-orange?logo=rocket)
+![HAPS](https://img.shields.io/badge/Plataformas-HAPS-blue?logo=satellite)
 
 ## 📫 Conectemos
 
