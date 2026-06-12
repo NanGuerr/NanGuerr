@@ -1,4 +1,4 @@
-### *"Los desafíos tecnológicos son el código para alcanzar la mejor versión de cada sistema."* 
+> ### *"Los desafíos tecnológicos son el código para alcanzar la mejor versión de cada sistema."* 
 
 <p align="center">
   <a href="#️-áreas-de-interés-blue-team">
