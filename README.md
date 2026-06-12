@@ -107,7 +107,8 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ## 🛠️ Áreas de interés BLUE TEAM
-*Documentar y optimizar la lógica aplicada a los sistemas críticos y situsciones de riesgo.*
+
+*Defensa de Infraestructura Convergente: Resiliencia en Sistemas Críticos y Operaciones Descentralizadas*
 
 * **🛡️ Ciberseguridad:** Zero Trust, telemetría (MDR), Migración (PQC) y QKD.
 * **✈️ Aeronáutica:** Aterrizaje (eVTOL), VTOL/STOVL y plataformas HAPS (LTA y HTA).
