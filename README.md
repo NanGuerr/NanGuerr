@@ -39,9 +39,9 @@
 * Recursos esenciales para ingenieros y auditores dedicados a la protección de infraestructuras críticas.
 
 ![NIST 800-82](https://img.shields.io/badge/NIST_800--82-%23005a9c?style=flat&logo=nisis&logoColor=white)
-![SCADA/ICS](https://img.shields.io/badge/SCADA--ICS-%235f5f5f?style=flat&logo=siemens&logoColor=white)
-![Siemens S7](https://img.shields.io/badge/Siemens_S7-%23009999?style=flat&logo=siemens&logoColor=white)
-![Convergencia IT--OT](https://img.shields.io/badge/Convergencia_IT--OT-%23049fd9?style=flat&logo=cisco&logoColor=white)
+![SCADA/ICS](https://img.shields.io/badge/ICS-%235f5f5f?style=flat&logo=siemens&logoColor=white)
+![Siemens S7](https://img.shields.io/badge/Siemens-%23009999?style=flat&logo=siemens&logoColor=white)
+![Convergencia IT--OT](https://img.shields.io/badge/IT--OT-%23049fd9?style=flat&logo=cisco&logoColor=white)
 
 ### 🏭 [Smart Factory Expert](https://github.com/NanGuerr/Smart-Factory-Expert)
 
