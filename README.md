@@ -169,19 +169,8 @@
 
 ## 📫 Conectemos
 
-⚡ ***HYPERFOCUS** mode: I will **hit you up**; please just leave a SIGNAL on **[DUOLINGO](https://www.duolingo.com/profile/NanGuerr)** if you need anything.*
+⚡*HYPERFOCUS mode; just leave a signal on **[Duolingo](https://www.duolingo.com/profile/NanGuerr)** if you need anything.* ****Just Kidding!*** Leave a message here...* [![Email](https://img.shields.io/badge/Proton-%236D4AFF.svg?style=flat&logo=proton&logoColor=white)](mailto:nanguerdev@pm.me)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Español-Nativo-red?style=flat&logo=spain&logoColor=white" alt="Spanish">
-  <img src="https://img.shields.io/badge/English-Técnico-2a5499?style=flat&logo=google-translate&logoColor=white" alt="English">
-  <img src="https://img.shields.io/badge/Italiano-Medio-green?style=flat&logo=italian&logoColor=white" alt="Italiano">
-</p>
-
-<p align="center"><img src="https://github.com/NanGuerr/NanGuerr/blob/main/Duolingo-profile.png?raw=true" width="20%"></p>
-
-<p align="center">
-   🛸 Debugging at Mach 2.0 | Outpacing the bugs.
-</p>
 
 <p align="center">
   <a href="#-repositorios-principales">
@@ -189,6 +178,9 @@
   </a>
 </p>
 
+<p align="center">
+   🛸 Debugging at Mach 2.0 | Outpacing the bugs.
+</p>
 
 ### 🎥 Inspiración aquí: 
 
@@ -211,4 +203,4 @@
 
 > — *Wheeler Wilcox*
 
-*Ultima actualización: Junio 2026*
+*Ultima actualización: Julio 2026*
