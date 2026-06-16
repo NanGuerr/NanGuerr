@@ -31,6 +31,18 @@
 
 ## 🛠 Repositorios Principales
 
+### 🎮 [[Match Paths](https://github.com/NanGuerr/MatchPaths)
+
+*Minijuego interactivo de Entrenamiento Cognitivo y Memoria a Corto Plazo en niños.*
+* Lógica de componentes, gestión (React Hooks como useState, useEffect) y animaciones (3D perspective).
+* Responsivo y segmentación de niveles progresivos estructurados en entornos (Tierra, Mar y Aire).
+* Estrategias de Diseño para usuarios, dedicados a la estimulación visual y la mejora de la concentración.
+
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%230C162D.svg?style=flat&logo=tailwindcss&logoColor=%2306B6D4)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+
 ### 🛡️ [Ciberseguridad Industrial OT](https://github.com/NanGuerr/Ciberseguridad)
 
 *Repositorio central de Ciberseguridad en Entornos Industriales (OT).*
