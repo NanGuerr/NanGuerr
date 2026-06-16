@@ -165,6 +165,7 @@
 ![Network Defense](https://img.shields.io/badge/Net_Defense-%232D3748.svg?style=flat&logo=cisco&logoColor=white)
 ![Radio_Frequency](https://img.shields.io/badge/RF-%23E63946.svg?style=flat&logo=rss&logoColor=white)
 ![Threat Intel](https://img.shields.io/badge/Threat_Intel-%23744210.svg?style=flat&logo=intel&logoColor=white)
+![HEAT Training](https://img.shields.io/badge/HEAT-%23092E20.svg?style=flat&logo=guardsquare&logoColor=white)
 ![SatCom](https://img.shields.io/badge/Satellite_Comms-%231D3557.svg?style=flat&logo=satellite&logoColor=white)
 ![HAPS](https://img.shields.io/badge/HAPS-green?style=flat&logo=satellite&logoColor=white)
 ![Telemetry](https://img.shields.io/badge/Telemetry-%23F4A261.svg?style=flat&logo=radar&logoColor=white)
@@ -176,7 +177,7 @@
 ![Autonomía](https://img.shields.io/badge/Autonom%C3%ADa-%23F57C00.svg?style=flat&logo=probot&logoColor=white)
 ![HDig](https://img.shields.io/badge/HDig-%237EBC6F.svg?style=flat&logo=openstreetmap&logoColor=white)
 ![Heartbeat](https://img.shields.io/badge/Heartbeat-%23FF4081.svg?style=flat&logo=appwrite&logoColor=white)
-![HEAT Training](https://img.shields.io/badge/HEAT-%23092E20.svg?style=flat&logo=guardsquare&logoColor=white)
+
 
 ## 📫 Conectemos
 
