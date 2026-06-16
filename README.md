@@ -153,7 +153,6 @@
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)
 ![COBOL](https://img.shields.io/badge/COBOL-%23003B70.svg?style=flat&logo=ibm&logoColor=white)
-![Proton](https://img.shields.io/badge/Proton-%236D4AFF.svg?style=flat&logo=proton&logoColor=white)
 ![Digital Forensics](https://img.shields.io/badge/DFIR-%23C53030.svg?style=flat&logo=searxng&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-%231679A6.svg?style=flat&logo=wireshark&logoColor=white) 
 ![Splunk](https://img.shields.io/badge/Splunk-%23000000.svg?style=flat&logo=splunk&logoColor=white)
