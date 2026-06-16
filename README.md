@@ -119,8 +119,8 @@
 
 > *Buscando el "porqué" detrás del error (Debugging is my superpower).*
 
+![Siemens](https://img.shields.io/badge/Siemens-%23009999.svg?style=flat&logo=siemens&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=flat&logo=mysql&logoColor=white)
-![TIA Portal](https://img.shields.io/badge/TIA%20Portal-%23009999.svg?style=flat&logo=siemens&logoColor=white)
 ![ROS](https://img.shields.io/badge/ROS-%230A0EB2.svg?style=flat&logo=ros&logoColor=white) 
 ![SOC Analyst](https://img.shields.io/badge/SOC-%232D3748.svg?style=flat&logo=splunk&logoColor=white)
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-%230696D7.svg?style=flat&logo=autocad&logoColor=white)
