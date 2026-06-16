@@ -158,6 +158,7 @@
 ![Splunk](https://img.shields.io/badge/Splunk-%23000000.svg?style=flat&logo=splunk&logoColor=white)
 ![eVTOL](https://img.shields.io/badge/eVTOL-%231572B6.svg?style=flat&logo=plane&logoColor=white)
 ![Vulnerability Analysis](https://img.shields.io/badge/Vulnerability-%23D9534F.svg?style=flat&logo=securityscorecard&logoColor=white)
+![HDig](https://img.shields.io/badge/HDig-%237EBC6F.svg?style=flat&logo=openstreetmap&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-%23000000.svg?style=flat&logo=cyberdefenders&logoColor=white)
 ![Pentesting](https://img.shields.io/badge/Pentesting-%23FF6600.svg?style=flat&logo=kali-linux&logoColor=white)
 ![Incident Response](https://img.shields.io/badge/Response-%23D69E2E.svg?style=flat&logo=checkmarx&logoColor=white)
@@ -175,7 +176,6 @@
 ![Supervivencia](https://img.shields.io/badge/Supervivencia-%232E8B57.svg?style=flat&logo=foursquare&logoColor=white)
 ![First Aid (TCCC)](https://img.shields.io/badge/First_Aid_(TCCC)-%23D32F2F.svg?style=flat&logo=redcross&logoColor=white)
 ![Autonomía](https://img.shields.io/badge/Autonom%C3%ADa-%23F57C00.svg?style=flat&logo=probot&logoColor=white)
-![HDig](https://img.shields.io/badge/HDig-%237EBC6F.svg?style=flat&logo=openstreetmap&logoColor=white)
 ![Heartbeat](https://img.shields.io/badge/Heartbeat-%23FF4081.svg?style=flat&logo=appwrite&logoColor=white)
 
 
