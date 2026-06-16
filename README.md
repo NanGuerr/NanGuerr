@@ -41,7 +41,7 @@
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-%230C162D.svg?style=flat&logo=tailwindcss&logoColor=%2306B6D4)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 
 ### 🛡️ [Ciberseguridad Industrial OT](https://github.com/NanGuerr/Ciberseguridad)
 
