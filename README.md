@@ -180,7 +180,7 @@
 
 ## 📫 Conectemos
 
-⚡*HYPERFOCUS mode; just leave a signal on **[Duolingo](https://www.duolingo.com/profile/NanGuerr)** if you need anything.* ****Just Kidding!*** Leave a message here...* [![Email](https://img.shields.io/badge/Proton-%236D4AFF.svg?style=flat&logo=proton&logoColor=white)](mailto:nanguerdev@proton.me)
+⚡*HYPERFOCUS mode; just leave a signal on **[Duolingo](https://www.duolingo.com/profile/NanGuerr)** if you need anything.* ****Just Kidding!*** Leave a message here...* [![Email](https://img.shields.io/badge/Proton-%232D3748.svg?style=flat&logo=proton&logoColor=white)](mailto:nanguerdev@proton.me)
 
 
 <p align="center">
