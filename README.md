@@ -33,7 +33,7 @@
 
 ### 🎮 [Match Paths](https://github.com/NanGuerr/MatchPaths)
 
-*Minijuego interactivo de Entrenamiento Cognitivo y Memoria a Corto Plazo en niños.*
+*Minijuego interactivo de Entrenamiento Cognitivo y Memoria a Corto Plazo en niños*
 * Lógica de componentes, gestión (React Hooks como useState, useEffect) y animaciones (3D perspective).
 * Responsivo y segmentación de niveles progresivos estructurados en entornos (Tierra, Mar y Aire).
 * Estrategias de Diseño para usuarios, dedicados a la estimulación visual y la mejora de la concentración.
@@ -45,7 +45,7 @@
 
 ### 🛡️ [Ciberseguridad Industrial OT](https://github.com/NanGuerr/Ciberseguridad)
 
-*Repositorio central de Ciberseguridad en Entornos Industriales (OT).*
+*Repositorio central de Ciberseguridad en Entornos Industriales (OT)*
 * Documentación técnica, marcos de referencia (IEC 62443, NIST SP 800-82) y guías de *hardening* para ICS/SCADA.
 * Estrategias de **Defensa en Profundidad** y segmentación según el Modelo de Referencia Purdue.
 * Recursos esenciales para ingenieros y auditores dedicados a la protección de infraestructuras críticas.
@@ -57,7 +57,7 @@
 
 ### 🏭 [Smart Factory Expert](https://github.com/NanGuerr/Smart-Factory-Expert)
 
-*Especialización en Automatización Industrial 4.0:* 
+*Especialización en Automatización Industrial 4.0* 
 * **Convergencia IT/OT**, vulnerabilidades y Ciberseguridad.
 * Más de **1,500 actividades** prácticas sobre la digitalización industrial.
 * Integración **IA (OpenCV)**, **PLCs (TIA Portal)** y diseño eléctrico EPLAN.
@@ -70,7 +70,7 @@
 
 ### 📡 [Telecom & Electronics](https://github.com/NanGuerr/Telecom)
 
-*Especialización en Tecnologías de la Información y Comunicaciones (TIC):* 
+*Especialización en Tecnologías de la Información y Comunicaciones (TIC)* 
 * **Análisis de Señales** (Fourier), subsistemas y modulación analógica (AM/FM) y digital.
 * Sistemas embebidos (**RTOS**) y teoría de antenas.
 * Infraestructura, **multiplexación (WDM/FDM)**, troncales (SDH/SONET), redes **FTTH**...
@@ -83,7 +83,7 @@
 
 ### 🦅 [Protocolo Fénix](https://github.com/NanGuerr/Protocolo-F-nix)
 
-*Autonomía técnica y radical ante escenarios de colapso sistémico.*
+*Autonomía técnica y radical ante escenarios de colapso sistémico*
 * Implementación de protocolos de invisibilidad térmica y Jaulas de Faraday.
 * Gestión de micro-redes DC de baja firma mediante componentes recuperados.
 * Integración de redes Mesh (LoRa) con **criptografía AES-256 y OTP**.
@@ -96,7 +96,7 @@
 
 ### 🦉 [Duolingo Guía de Optimización](https://github.com/NanGuerr/Duolingo-Gu-a-de-Optimizaci-n)
 
-*Guía estratégica para maximizar el aprendizaje y beneficios en Duolingo.*
+*Guía estratégica para maximizar el aprendizaje y beneficios en Duolingo*
 * Consejos tácticos para la **plataforma N° 1** en aprendizaje de idiomas.
 * Enfoque en la optimización del tiempo y retención de vocabulario.
 * Recursos estructurados para acelerar el dominio del idioma elegido.
@@ -108,7 +108,7 @@
 
 ### 🧠 [Programación en Python](https://github.com/NanGuerr/Introducci-n-a-la-Programaci-n)
 
-*Resolución de exámenes, parciales y finales de Programación I (UP).*
+*Resolución de exámenes, parciales y finales de Programación I (UP)*
 * Repositorio académico con guías RDC/RFD y finales actualizados a **Febrero 2026**.
 * Algoritmos eficientes y lógica pura en **Python**.
 * Estudiantes que buscan dominar las bases de la algoritmia.
