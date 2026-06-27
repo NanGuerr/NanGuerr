@@ -33,7 +33,7 @@
 
 ### 🎮 [Match Paths](https://github.com/NanGuerr/MatchPaths)
 
-*Minijuego interactivo de Entrenamiento Cognitivo y Memoria a Corto Plazo en niños*
+*Minijuego interactivo de Entrenamiento Cognitivo infantil*
 * Lógica de componentes, gestión (React Hooks como useState, useEffect) y animaciones (3D perspective).
 * Responsivo y segmentación de niveles progresivos estructurados en entornos (Tierra, Mar y Aire).
 * Estrategias de Diseño para usuarios, dedicados a la estimulación visual y la mejora de la concentración.
