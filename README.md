@@ -215,4 +215,4 @@
 
 > — *Wheeler Wilcox*
 
-*Ultima actualización: Julio 2026*
+*Ultima actualización: Agosto 2027*
