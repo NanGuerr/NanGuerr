@@ -202,8 +202,8 @@
 <a href="https://www.youtube.com/watch?v=IsGUh_yMxDg" target="_blank">
   <img src="https://img.youtube.com/vi/IsGUh_yMxDg/0.jpg" alt="Miniatura del video" width="24%">
 </a>
-<a href="https://www.youtube.com/watch?v=qPLwzoIEKj8" target="_blank">
-  <img src="https://img.youtube.com/vi/qPLwzoIEKj8/0.jpg" alt="Miniatura del video" width="24%">
+<a href="https://www.youtube.com/watch?v=dxytyRy-O1k" target="_blank">
+  <img src="https://img.youtube.com/vi/dxytyRy-O1k/0.jpg" alt="Miniatura del video" width="24%">
 </a>
 <a href="https://www.youtube.com/watch?v=9g_2B1Ji_CI" target="_blank">
   <img src="https://img.youtube.com/vi/9g_2B1Ji_CI/0.jpg" alt="Miniatura del video" width="24%">
