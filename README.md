@@ -209,10 +209,13 @@
   <img src="https://img.youtube.com/vi/9g_2B1Ji_CI/0.jpg" alt="Miniatura del video" width="24%">
 </a>
 
-> *Aunque se interpongan muros de granito, no desesperes por su retraso,* 
-> *espera como alguien que entiende que cuando el espíritu surge y manda,* 
-> *hasta los dioses obedecen.*
 
+> *That conquers limits by a steadfast state.*
+> *Be not impatient in delay,*
+> *But wait as one who understands;*
+> *When spirit rises and commands,*
+> *The gods are ready to obey.*
+> 
 > — *Wheeler Wilcox*
 
-*Ultima actualización: Agosto 2027*
+*Ultima actualización: Agosto 2028*
