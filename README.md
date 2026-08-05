@@ -106,7 +106,19 @@
 ![Languages](https://img.shields.io/badge/Languages-blue?logo=google-translate&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 
+### 📡 [Ingeniería en Telecomunicaciones](https://www.google.com/search?q=https://github.com/NanGuerr/UP)
 
+*Resúmenes, guías y material de estudio de la carrera de Ingeniería en Telecomunicaciones en la UP*
+* Repositorio con contenido organizado con enfoque técnico y basado en el **Plan de Estudios Reorganizado 2026**.
+* Guía de correlativas de **Matemáticas y Señales**, **Física y Electrónica**, y **Sistemas y Computación**.
+* Incluye la ruta de aprendizaje por semestres, además de contenido extra y certificaciones internacionales.
+
+![Propagación de Ondas](https://img.shields.io/badge/Ondas_e_Irradiaci%C3%B3n-4682B4?style=flat&logo=radio-tower&logoColor=white)
+![DevOps](https://img.shields.io/badge/DevOps-2496ED?style=flat&logo=devops&logoColor=white)
+![Modelos y Simulación](https://img.shields.io/badge/Modelos_%26_Simulaci%C3%B3n-6F42C1?style=flat&logo=matrix&logoColor=white)
+![Robótica](https://img.shields.io/badge/Rob%C3%B3tica-D9381E?style=flat&logo=robot&logoColor=white)
+![Seguridad en Redes](https://img.shields.io/badge/Seguridad_en_Redes-00C7B7?style=flat&logo=shield-check&logoColor=white)
+  
 ### 🧠 [Programación en Python](https://github.com/NanGuerr/Introducci-n-a-la-Programaci-n)
 
 *Resolución de exámenes, parciales y finales de Programación I (UP)*
