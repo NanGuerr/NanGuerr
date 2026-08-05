@@ -1,4 +1,5 @@
-> ### *"Los desafíos tecnológicos son el código para alcanzar la mejor versión de cada sistema."* 
+> [!IMPORTANT]
+> ### *"Los desafíos tecnológicos son el código para alcanzar la mejor versión de cada sistema."*
 
 <p align="center">
   <a href="#️-áreas-de-interés-blue-team">
@@ -209,13 +210,9 @@
   <img src="https://img.youtube.com/vi/9g_2B1Ji_CI/0.jpg" alt="Miniatura del video" width="24%">
 </a>
 
-
-> *That conquers limits by a steadfast state.*
-> *Be not impatient in delay,*
-> *But wait as one who understands;*
-> *When spirit rises and commands,*
-> *The gods are ready to obey.*
+> [!NOTE]
+> *That conquers limits by a steadfast state. Be not impatient in delay, But wait as one who understands; When spirit rises and commands, The gods are ready to obey.*
 > 
 > — *Wheeler Wilcox*
 
-*Ultima actualización: Agosto 2028*
+> ### *Ultima actualización: Agosto 2028*
