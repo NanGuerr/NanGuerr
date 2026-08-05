@@ -113,10 +113,9 @@
 * Guía de correlativas de **Matemáticas y Señales**, **Física y Electrónica**, y **Sistemas y Computación**.
 * Incluye la ruta de aprendizaje por semestres, además de contenido extra y certificaciones internacionales.
 
-![Propagación de Ondas](https://img.shields.io/badge/Ondas_e_Irradiaci%C3%B3n-4682B4?style=flat&logo=radio-tower&logoColor=white)
-![DevOps](https://img.shields.io/badge/DevOps-2496ED?style=flat&logo=devops&logoColor=white)
+![Ondas e Irradiación](https://img.shields.io/badge/Ondas_e_Irradiaci%C3%B3n-4682B4?style=flat&logo=rss&logoColor=white)
+![DevOps](https://img.shields.io/badge/DevOps-2496ED?style=flat&logo=azuredevops&logoColor=white)
 ![Modelos y Simulación](https://img.shields.io/badge/Modelos_%26_Simulaci%C3%B3n-6F42C1?style=flat&logo=matrix&logoColor=white)
-![Robótica](https://img.shields.io/badge/Rob%C3%B3tica-D9381E?style=flat&logo=robot&logoColor=white)
 ![Seguridad en Redes](https://img.shields.io/badge/Seguridad_en_Redes-00C7B7?style=flat&logo=shield-check&logoColor=white)
   
 ### 🧠 [Programación en Python](https://github.com/NanGuerr/Introducci-n-a-la-Programaci-n)
