@@ -106,7 +106,7 @@
 ![Languages](https://img.shields.io/badge/Languages-blue?logo=google-translate&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 
-### 📡 [Ingeniería en Telecomunicaciones](https://www.google.com/search?q=https://github.com/NanGuerr/UP)
+### 📡 [Ingeniería en Telecomunicaciones](https://github.com/NanGuerr/UP)
 
 *Resúmenes, guías y material de estudio de la carrera de Ingeniería en Telecomunicaciones en la UP*
 * Repositorio con contenido organizado con enfoque técnico y basado en el **Plan de Estudios Reorganizado 2026**.
