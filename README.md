@@ -211,10 +211,10 @@
 <a href="https://www.youtube.com/watch?v=D9oH8skIZw0" target="_blank">
   <img src="https://img.youtube.com/vi/D9oH8skIZw0/0.jpg" alt="Miniatura del video" width="24%">
 </a>
-<a href="https://www.youtube.com/watch?v=5YUkVEnvXeQ" target="_blank">
+<a href="https://www.youtube.com/watch?v=D_8ZhH-SaQU" target="_blank">
   <img src="https://img.youtube.com/vi/5YUkVEnvXeQ/0.jpg" alt="Miniatura del video" width="24%">
 </a>
-<a href="https://www.youtube.com/watch?v=wy_Cz-cfVuM" target="_blank">
+<a href="https://www.youtube.com/watch?v=D_8ZhH-SaQU" target="_blank">
   <img src="https://img.youtube.com/vi/wy_Cz-cfVuM/0.jpg" alt="Miniatura del video" width="24%">
 </a>
 <a href="https://www.youtube.com/watch?v=9g_2B1Ji_CI" target="_blank">
