@@ -44,31 +44,6 @@
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-%230C162D.svg?style=flat&logo=tailwindcss&logoColor=%2306B6D4)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 
-### 🛡️ [Ciberseguridad Industrial OT](https://github.com/NanGuerr/Ciberseguridad)
-
-*Repositorio central de Ciberseguridad en Entornos Industriales (OT)*
-* Documentación técnica, marcos de referencia (IEC 62443, NIST SP 800-82) y guías de *hardening* para ICS/SCADA.
-* Estrategias de **Defensa en Profundidad** y segmentación según el Modelo de Referencia Purdue.
-* Recursos esenciales para ingenieros y auditores dedicados a la protección de infraestructuras críticas.
-
-![NIST 800-82](https://img.shields.io/badge/NIST_800--82-%23005a9c?style=flat&logo=nisis&logoColor=white)
-![SCADA/ICS](https://img.shields.io/badge/ICS-%235f5f5f?style=flat&logo=siemens&logoColor=white)
-![Siemens S7](https://img.shields.io/badge/Siemens-%23009999?style=flat&logo=siemens&logoColor=white)
-![Convergencia IT--OT](https://img.shields.io/badge/IT--OT-%23049fd9?style=flat&logo=cisco&logoColor=white)
-
-### 🏭 [Smart Factory Expert](https://github.com/NanGuerr/Smart-Factory-Expert)
-
-*Especialización en Automatización Industrial 4.0* 
-* **Convergencia IT/OT**, vulnerabilidades y Ciberseguridad.
-* Más de **1,500 actividades** prácticas sobre la digitalización industrial.
-* Integración **IA (OpenCV)**, **PLCs (TIA Portal)** y diseño eléctrico EPLAN.
-* Tecnologías como Node-RED, Docker, **Ciberseguridad Industrial** y Robótica (ABB).
-
-![Industria 4.0](https://img.shields.io/badge/Industria-4.0-%23009999?style=flat&logo=siemens&logoColor=white)
-![PLC](https://img.shields.io/badge/PLC-%23D32F2F?style=flat&logo=siemens&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%233776AB?style=flat&logo=python&logoColor=%23FFD43B)
-![IIoT](https://img.shields.io/badge/IIoT-%232E7D32?style=flat&logo=internet-of-things&logoColor=white)
-
 ### 📡 [Telecom & Electronics](https://github.com/NanGuerr/Telecom)
 
 *Especialización en Tecnologías de la Información y Comunicaciones (TIC)* 
