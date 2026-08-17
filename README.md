@@ -186,11 +186,11 @@
 <a href="https://www.youtube.com/watch?v=D9oH8skIZw0" target="_blank">
   <img src="https://img.youtube.com/vi/D9oH8skIZw0/0.jpg" alt="Miniatura del video" width="24%">
 </a>
-<a href="https://www.youtube.com/watch?v=D_8ZhH-SaQU" target="_blank">
-  <img src="https://img.youtube.com/vi/D_8ZhH-SaQU/0.jpg" alt="Miniatura del video" width="24%">
+<a href="https://www.youtube.com/watch?v=Dez1FrtFMJg" target="_blank">
+  <img src="https://img.youtube.com/vi/Dez1FrtFMJg/0.jpg" alt="Miniatura del video" width="24%">
 </a>
-<a href="https://www.youtube.com/watch?v=D_8ZhH-SaQU" target="_blank">
-  <img src="https://img.youtube.com/vi/wy_Cz-cfVuM/0.jpg" alt="Miniatura del video" width="24%">
+<a href="https://www.youtube.com/watch?v=D_8ZhH-SaQUg" target="_blank">
+  <img src="https://img.youtube.com/vi/D_8ZhH-SaQU/0.jpg" alt="Miniatura del video" width="24%">
 </a>
 <a href="https://www.youtube.com/watch?v=9g_2B1Ji_CI" target="_blank">
   <img src="https://img.youtube.com/vi/9g_2B1Ji_CI/0.jpg" alt="Miniatura del video" width="24%">
