@@ -171,11 +171,6 @@
 ⚡*HYPERFOCUS mode; just leave a signal on **[Duolingo](https://www.duolingo.com/profile/NanGuerr)** if you need anything.* ****Just Kidding!*** Leave a message here...* [![Email](https://img.shields.io/badge/Proton-%232D3748.svg?style=flat&logo=proton&logoColor=white)](mailto:nanguerdev@proton.me)
 
 
-<p align="center">
-  <a href="#-repositorios-principales">
-    <img src="https://img.shields.io/badge/Repositorios-4a4a4a?style=for-the-badge&logo=github&logoColor=white" alt="Repositorios">
-  </a>
-</p>
 
 <p align="center">
    🛸 Debugging at Mach 2.0 | Outpacing the bugs.
@@ -195,6 +190,15 @@
 <a href="https://www.youtube.com/watch?v=9g_2B1Ji_CI" target="_blank">
   <img src="https://img.youtube.com/vi/9g_2B1Ji_CI/0.jpg" alt="Miniatura del video" width="24%">
 </a>
+
+
+<p align="center">
+  <a href="#-repositorios-principales">
+    <img src="https://img.shields.io/badge/Repositorios-4a4a4a?style=for-the-badge&logo=github&logoColor=white" alt="Repositorios">
+  </a>
+</p>
+
+---
 
 > [!NOTE]
 > *That conquers limits by a steadfast state. Be not impatient in delay, But wait as one who understands; When spirit rises and commands, The gods are ready to obey.*
