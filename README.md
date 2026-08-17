@@ -171,11 +171,6 @@
 ⚡*HYPERFOCUS mode; just leave a signal on **[Duolingo](https://www.duolingo.com/profile/NanGuerr)** if you need anything.* ****Just Kidding!*** Leave a message here...* [![Email](https://img.shields.io/badge/Proton-%232D3748.svg?style=flat&logo=proton&logoColor=white)](mailto:nanguerdev@proton.me)
 
 
-
-<p align="center">
-   🛸 Debugging at Mach 2.0 | Outpacing the bugs.
-</p>
-
 ### 🎥 Inspiración aquí: 
 
 <a href="https://www.youtube.com/watch?v=D9oH8skIZw0" target="_blank">
