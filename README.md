@@ -1,7 +1,21 @@
+<p align="center">
+  <a href="#️-áreas-de-interés-blue-team">
+    <img src="https://img.shields.io/badge/Áreas_de_Interés-0059b3?style=for-the-badge&logo=securityscorecard&logoColor=white" alt="Áreas de Interés">
+  </a>
+  <a href="#-repositorios-principales">
+    <img src="https://img.shields.io/badge/Repositorios-4a4a4a?style=for-the-badge&logo=github&logoColor=white" alt="Repositorios">
+  </a>
+  <a href="#-conectemos">
+    <img src="https://img.shields.io/badge/Contacto-28a745?style=for-the-badge&logo=gmail&logoColor=white" alt="Contacto">
+  </a>
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/NanGuerr/NanGuerr/refs/heads/main/Banner.png" width="80%">
 </p>
+
+> [!IMPORTANT]
+> ### *"Los desafíos tecnológicos son el código para alcanzar la mejor versión de cada sistema."*
 
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-%23268BEE.svg?style=flat&logo=kalilinux&logoColor=white) 
@@ -15,21 +29,6 @@
 ![Numpy](https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-3776ab?style=flat&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-
-> [!IMPORTANT]
-> ### *"Los desafíos tecnológicos son el código para alcanzar la mejor versión de cada sistema."*
-
-<p align="center">
-  <a href="#️-áreas-de-interés-blue-team">
-    <img src="https://img.shields.io/badge/Áreas_de_Interés-0059b3?style=for-the-badge&logo=securityscorecard&logoColor=white" alt="Áreas de Interés">
-  </a>
-  <a href="#-repositorios-principales">
-    <img src="https://img.shields.io/badge/Repositorios-4a4a4a?style=for-the-badge&logo=github&logoColor=white" alt="Repositorios">
-  </a>
-  <a href="#-conectemos">
-    <img src="https://img.shields.io/badge/Contacto-28a745?style=for-the-badge&logo=gmail&logoColor=white" alt="Contacto">
-  </a>
-</p>
 
 
 ## 🛠 Repositorios Principales
