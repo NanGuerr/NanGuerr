@@ -6,7 +6,7 @@
         <img src="https://img.shields.io/badge/Repositorios-4a4a4a?style=for-the-badge&logo=github&logoColor=white" alt="Repositorios">
     </a>
     <a href="https://github.com/NanGuerr#-conectemos">
-        <img src="https://img.shields.io/badge/Contacto-6F42C1?style=for-the-badge&logo=gmail&logoColor=white" alt="Contacto">
+        <img src="https://img.shields.io/badge/Contacto-6F42C1?style=for-the-badge&logo=proton&logoColor=white" alt="Contacto">
     </a>
 </p> 
 
@@ -188,7 +188,7 @@
 
 
 <p align="center">
-   <a href="#-repositorios-principales">
+   <a href="https://github.com/NanGuerr#-repositorios-principales">
         <img src="https://img.shields.io/badge/Repositorios-4a4a4a?style=for-the-badge&logo=github&logoColor=white" alt="Repositorios">
     </a>
 </p>
