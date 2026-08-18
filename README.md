@@ -31,7 +31,9 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-3776ab?style=flat&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 
+
 <div id="repositorios"></div>
+
 ## 📂 Repositorios Principales
 
 ### 🎮 [Match Paths](https://github.com/NanGuerr/MatchPaths)
@@ -106,7 +108,9 @@
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
+
 <div id="areas-de-interes"></div>
+
 ## 🛡️ Áreas de interés BLUE TEAM
 
 *Defensa de Infraestructura Convergente: Resiliencia en Sistemas Críticos y Operaciones Descentralizadas*
@@ -166,7 +170,9 @@
 ![Autonomía](https://img.shields.io/badge/Autonom%C3%ADa-%23F57C00.svg?style=flat&logo=probot&logoColor=white)
 ![Heartbeat](https://img.shields.io/badge/Heartbeat-%23FF4081.svg?style=flat&logo=appwrite&logoColor=white)
 
+
 <div id="contacto"></div>
+
 ## 📬 Conectemos
 
 ⚡*HYPERFOCUS mode; just leave a signal on **[Duolingo](https://www.duolingo.com/profile/NanGuerr)** if you need anything.* ****Just Kidding!*** Leave a message here...* [![Email](https://img.shields.io/badge/Proton-%236F42C1.svg?style=flat&logo=proton&logoColor=white)](mailto:nanguerdev@proton.me)
