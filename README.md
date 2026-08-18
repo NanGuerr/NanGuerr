@@ -1,14 +1,14 @@
 <p align="center">
-    <a href="https://github.com/NanGuerr#%EF%B8%8F-%C3%A1reas-de-inter%C3%A9s-blue-team">
+    <a href="#áreas-de-interés-blue-team">
         <img src="https://img.shields.io/badge/Áreas_de_Interés-0059b3?style=for-the-badge&logo=securityscorecard&logoColor=white" alt="Áreas de Interés">
     </a>
-    <a href="https://github.com/NanGuerr#-repositorios-principales">
+    <a href="#repositorios-principales">
         <img src="https://img.shields.io/badge/Repositorios-4a4a4a?style=for-the-badge&logo=github&logoColor=white" alt="Repositorios">
     </a>
-    <a href="https://github.com/NanGuerr#-conectemos">
+    <a href="#conectemos">
         <img src="https://img.shields.io/badge/Contacto-6F42C1?style=for-the-badge&logo=proton&logoColor=white" alt="Contacto">
     </a>
-</p> 
+</p>
 
 
 <p align="center">
