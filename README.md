@@ -2,7 +2,7 @@
 
 <p align="center">
     <a href="#-temas-de-interes">
-        <img src="https://img.shields.io/badge/Temas_de_Interés-0059b3?style=for-the-badge&logo=securityscorecard&logoColor=white" alt="Temas de Interés">
+        <img src="https://img.shields.io/badge/Temas-0059b3?style=for-the-badge&logo=securityscorecard&logoColor=white" alt="Temas">
     </a>
     <a href="#-repositorios-principales">
         <img src="https://img.shields.io/badge/Repositorios-4a4a4a?style=for-the-badge&logo=github&logoColor=white" alt="Repositorios">
