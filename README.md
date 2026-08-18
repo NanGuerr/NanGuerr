@@ -1,3 +1,8 @@
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NanGuerr/NanGuerr/refs/heads/main/Banner.png" width="80%">
+</p>
+
 > [!IMPORTANT]
 > ### *"Los desafíos tecnológicos son el código para alcanzar la mejor versión de cada sistema."*
 
@@ -13,9 +18,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/NanGuerr/NanGuerr/refs/heads/main/Banner.png" width="80%">
-</p>
 
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-%23268BEE.svg?style=flat&logo=kalilinux&logoColor=white) 
@@ -142,8 +144,6 @@
 ![COBOL](https://img.shields.io/badge/COBOL-%23003B70.svg?style=flat&logo=ibm&logoColor=white)
 ![Digital Forensics](https://img.shields.io/badge/DFIR-%23C53030.svg?style=flat&logo=searxng&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-%231679A6.svg?style=flat&logo=wireshark&logoColor=white) 
-![Splunk](https://img.shields.io/badge/Splunk-%23000000.svg?style=flat&logo=splunk&logoColor=white)
-![eVTOL](https://img.shields.io/badge/eVTOL-%231572B6.svg?style=flat&logo=plane&logoColor=white)
 ![Vulnerability Analysis](https://img.shields.io/badge/Vulnerability-%23D9534F.svg?style=flat&logo=securityscorecard&logoColor=white)
 ![HDig](https://img.shields.io/badge/HDig-%237EBC6F.svg?style=flat&logo=openstreetmap&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-%23000000.svg?style=flat&logo=cyberdefenders&logoColor=white)
