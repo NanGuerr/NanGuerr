@@ -1,13 +1,13 @@
 > ### *"Los desafíos tecnológicos son el código para alcanzar la mejor versión de cada sistema."*
 
 <p align="center">
-    <a href="#temas-de-interes">
+    <a href="#-temas-de-interes">
         <img src="https://img.shields.io/badge/Temas_de_Interés-0059b3?style=for-the-badge&logo=securityscorecard&logoColor=white" alt="Temas de Interés">
     </a>
-    <a href="#repositorios-principales">
+    <a href="#-repositorios-principales">
         <img src="https://img.shields.io/badge/Repositorios-4a4a4a?style=for-the-badge&logo=github&logoColor=white" alt="Repositorios">
     </a>
-    <a href="#conectemos">
+    <a href="#-conectemos">
         <img src="https://img.shields.io/badge/Contacto-6F42C1?style=for-the-badge&logo=proton&logoColor=white" alt="Contacto">
     </a>
 </p>
