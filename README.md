@@ -1,7 +1,7 @@
 > ### *"Los desafíos tecnológicos son el código para alcanzar la mejor versión de cada sistema."*
 
 <p align="center">
-    <a href="#-temas-de-interes">
+    <a href="#-blue-team">
         <img src="https://img.shields.io/badge/Temas-0059b3?style=for-the-badge&logo=securityscorecard&logoColor=white" alt="Temas">
     </a>
     <a href="#-repositorios-principales">
@@ -109,9 +109,9 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 
-<div id="#-temas-de-interes"></div>
+<div id="#-temas"></div>
 
-## 🛡️ Temas de interés BLUE TEAM
+## 🛡️ BLUE TEAM
 
 *Defensa de Infraestructura Convergente: Resiliencia en Sistemas Críticos y Operaciones Descentralizadas*
 
