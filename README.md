@@ -32,7 +32,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 
 
-<div id="repositorios"></div>
+<div id="#-repositorios"></div>
 
 ## 📂 Repositorios Principales
 
@@ -109,7 +109,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 
-<div id="areas-de-interes"></div>
+<div id="#-temas-de-interes"></div>
 
 ## 🛡️ Temas de interés BLUE TEAM
 
@@ -171,7 +171,7 @@
 ![Heartbeat](https://img.shields.io/badge/Heartbeat-%23FF4081.svg?style=flat&logo=appwrite&logoColor=white)
 
 
-<div id="contacto"></div>
+<div id="#-contacto"></div>
 
 ## 📬 Conectemos
 
