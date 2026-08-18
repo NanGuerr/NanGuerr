@@ -111,7 +111,7 @@
 
 <div id="#-temas"></div>
 
-## 🛡️ Temas
+## Temas
 
 *Defensa de Infraestructura Convergente: Resiliencia en Sistemas Críticos y Operaciones Descentralizadas*
 
