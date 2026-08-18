@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/Repositorios-4a4a4a?style=for-the-badge&logo=github&logoColor=white" alt="Repositorios">
   </a>
   <a href="#-conectemos">
-    <img src="https://img.shields.io/badge/Contacto-28a745?style=for-the-badge&logo=gmail&logoColor=white" alt="Contacto">
+    <img src="https://img.shields.io/badge/Contacto-6F42C1?style=for-the-badge&logo=gmail&logoColor=white" alt="Contacto">
   </a>
 </p>
 
@@ -167,7 +167,7 @@
 
 ## 📫 Conectemos
 
-⚡*HYPERFOCUS mode; just leave a signal on **[Duolingo](https://www.duolingo.com/profile/NanGuerr)** if you need anything.* ****Just Kidding!*** Leave a message here...* [![Email](https://img.shields.io/badge/Proton-%232D3748.svg?style=flat&logo=proton&logoColor=white)](mailto:nanguerdev@proton.me)
+⚡*HYPERFOCUS mode; just leave a signal on **[Duolingo](https://www.duolingo.com/profile/NanGuerr)** if you need anything.* ****Just Kidding!*** Leave a message here...* [![Email](https://img.shields.io/badge/Proton-%236F42C1.svg?style=flat&logo=proton&logoColor=white)](mailto:nanguerdev@proton.me)
 
 
 ### 🎥 Inspiración aquí: 
