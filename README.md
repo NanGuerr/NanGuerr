@@ -109,9 +109,9 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 
-<div id="#-temas"></div>
+<div id="#-blue-team"></div>
 
-## Temas
+## 🔑 Blue Team
 
 *Defensa de Infraestructura Convergente: Resiliencia en Sistemas Críticos y Operaciones Descentralizadas*
 
