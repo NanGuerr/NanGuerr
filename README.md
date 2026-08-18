@@ -111,7 +111,7 @@
 
 <div id="#-temas"></div>
 
-## 🛡️ BLUE TEAM
+## 🛡️ Temas
 
 *Defensa de Infraestructura Convergente: Resiliencia en Sistemas Críticos y Operaciones Descentralizadas*
 
