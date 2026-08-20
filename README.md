@@ -186,8 +186,8 @@
 <a href="https://www.youtube.com/watch?v=Dez1FrtFMJg" target="_blank">
   <img src="https://img.youtube.com/vi/Dez1FrtFMJg/0.jpg" alt="Miniatura del video" width="24%">
 </a>
-<a href="https://www.youtube.com/watch?v=D_8ZhH-SaQUg" target="_blank">
-  <img src="https://img.youtube.com/vi/D_8ZhH-SaQU/0.jpg" alt="Miniatura del video" width="24%">
+<a href="https://www.youtube.com/watch?v=b3O4J_CLlxE" target="_blank">
+  <img src="https://img.youtube.com/vi/b3O4J_CLlxE/0.jpg" alt="Miniatura del video" width="24%">
 </a>
 <a href="https://www.youtube.com/watch?v=9g_2B1Ji_CI" target="_blank">
   <img src="https://img.youtube.com/vi/9g_2B1Ji_CI/0.jpg" alt="Miniatura del video" width="24%">
