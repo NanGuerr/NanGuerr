@@ -180,7 +180,7 @@
 
 ### 🎥 Inspiración aquí: 
 
-<a href="https://www.youtube.com/watch?v=elmKb9oMKgo" target="_blank">
+<a href="https://www.youtube.com/watch?v=A7aJaYt-dNY" target="_blank">
   <img src="https://img.youtube.com/vi/D9oH8skIZw0/0.jpg" alt="Miniatura del video" width="24%">
 </a>
 <a href="https://www.youtube.com/watch?v=Dez1FrtFMJg" target="_blank">
