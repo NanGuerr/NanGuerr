@@ -125,7 +125,6 @@
 
 > *Buscando el "porqué" detrás del error (Debugging is my superpower).*
 
-![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=flat&logo=mysql&logoColor=white)
 ![ROS](https://img.shields.io/badge/ROS-%230A0EB2.svg?style=flat&logo=ros&logoColor=white) 
 ![SOC Analyst](https://img.shields.io/badge/SOC-%232D3748.svg?style=flat&logo=splunk&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-%23C51A4A.svg?style=flat&logo=raspberrypi&logoColor=white) 
@@ -134,7 +133,6 @@
 ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat&logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=flat&logo=flask&logoColor=white)
@@ -161,7 +159,6 @@
 ![LoRaWAN](https://img.shields.io/badge/LoRaWAN-%234A90E2.svg?style=flat&logo=wireguard&logoColor=white)
 ![Legacy Systems](https://img.shields.io/badge/Legacy-Systems-%230A0EB2.svg?style=flat&logo=archive&logoColor=white)
 ![Hermetismo](https://img.shields.io/badge/Hermetismo-%23455A64.svg?style=flat&logo=vault&logoColor=white)
-![Supervivencia](https://img.shields.io/badge/Supervivencia-%232E8B57.svg?style=flat&logo=foursquare&logoColor=white)
 ![First Aid (TCCC)](https://img.shields.io/badge/First_Aid_(TCCC)-%23D32F2F.svg?style=flat&logo=redcross&logoColor=white)
 ![Autonomía](https://img.shields.io/badge/Autonom%C3%ADa-%23F57C00.svg?style=flat&logo=probot&logoColor=white)
 ![Heartbeat](https://img.shields.io/badge/Heartbeat-%23FF4081.svg?style=flat&logo=appwrite&logoColor=white)
