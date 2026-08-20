@@ -184,7 +184,7 @@
   <img src="https://img.youtube.com/vi/D9oH8skIZw0/0.jpg" alt="Miniatura del video" width="24%">
 </a>
 <a href="https://www.youtube.com/watch?v=Dez1FrtFMJg" target="_blank">
-  <img src="https://img.youtube.com/vi/FtukH_bCDHg&t=1246s/0.jpg" alt="Miniatura del video" width="24%">
+  <img src="https://img.youtube.com/vi/D_8ZhH-SaQU/0.jpg" alt="Miniatura del video" width="24%">
 </a>
 <a href="https://www.youtube.com/watch?v=b3O4J_CLlxE" target="_blank">
   <img src="https://img.youtube.com/vi/yNAFtADhzss/0.jpg" alt="Miniatura del video" width="24%">
