@@ -31,23 +31,8 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 
 
-<div id="#-repositorios"></div>
-
-## 📂 Repositorios Principales
-
-* **[Duolingo Guía de Optimización](https://github.com/NanGuerr/Duolingo-Gu-a-de-Optimizaci-n)** Guía estratégica para maximizar el aprendizaje y beneficios en Duolingo
-* **[Ingeniería en Telecomunicaciones](https://github.com/NanGuerr/UP)** Guías y material de Ingeniería en Telecomunicaciones (UP)
-* **[Programación en Python](https://github.com/NanGuerr/Introducci-n-a-la-Programaci-n)** Resolución de exámenes, parciales y finales de Programación I (UP)
-* **[Match Paths](https://github.com/NanGuerr/MatchPaths)** Minijuego interactivo de Entrenamiento Cognitivo infantil
-* **[Ciberseguridad Industrial OT](https://github.com/NanGuerr/Ciberseguridad)** Repositorio central de Ciberseguridad en Entornos Industriales (OT)
-* **[Smart Factory Expert](https://github.com/NanGuerr/Smart-Factory-Expert)** Especialización en Automatización Industrial 4.0
-* **[Telecom & Electronics](https://github.com/NanGuerr/Telecom)** Especialización en Tecnologías de la Información y Comunicaciones (TIC)
-* **[Protocolo Fénix](https://github.com/NanGuerr/Protocolo-F-nix)** Autonomía técnica y radical ante escenarios de colapso sistémico
-
-
 
 <div id="#-blue-team"></div>
-
 
 ## 🛡️ Blue Team
 
@@ -61,7 +46,22 @@
 * **Firts AID:** HEAT (Hostile Environment Awareness Training) y Tácticas (TCCC).
 * **Hermetismo:** Reserva estratégica de información y el dominio lógico-científico.
 
+
+<div id="#-repositorios"></div>
+
+## 📂 Repositorios Principales
+
 *Buscando el "porqué" detrás del error (Debugging is my superpower).*
+
+* **[Duolingo Guía de Optimización](https://github.com/NanGuerr/Duolingo-Gu-a-de-Optimizaci-n)** Guía estratégica para maximizar el aprendizaje y beneficios en Duolingo
+* **[Ingeniería en Telecomunicaciones](https://github.com/NanGuerr/UP)** Guías y material de Ingeniería en Telecomunicaciones (UP)
+* **[Programación en Python](https://github.com/NanGuerr/Introducci-n-a-la-Programaci-n)** Resolución de exámenes, parciales y finales de Programación I (UP)
+* **[Match Paths](https://github.com/NanGuerr/MatchPaths)** Minijuego interactivo de Entrenamiento Cognitivo infantil
+* **[Ciberseguridad Industrial OT](https://github.com/NanGuerr/Ciberseguridad)** Repositorio central de Ciberseguridad en Entornos Industriales (OT)
+* **[Smart Factory Expert](https://github.com/NanGuerr/Smart-Factory-Expert)** Especialización en Automatización Industrial 4.0
+* **[Telecom & Electronics](https://github.com/NanGuerr/Telecom)** Especialización en Tecnologías de la Información y Comunicaciones (TIC)
+* **[Protocolo Fénix](https://github.com/NanGuerr/Protocolo-F-nix)** Autonomía técnica y radical ante escenarios de colapso sistémico
+
 
 
 <div id="#-contacto"></div>
