@@ -129,7 +129,6 @@
 ![Vue.js](https://img.shields.io/badge/Vue-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)
-![COBOL](https://img.shields.io/badge/COBOL-%23003B70.svg?style=flat&logo=ibm&logoColor=white)
 ![Digital Forensics](https://img.shields.io/badge/DFIR-%23C53030.svg?style=flat&logo=searxng&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-%231679A6.svg?style=flat&logo=wireshark&logoColor=white) 
 ![HDig](https://img.shields.io/badge/HDig-%237EBC6F.svg?style=flat&logo=openstreetmap&logoColor=white)
@@ -137,6 +136,7 @@
 ![Pentesting](https://img.shields.io/badge/Pentesting-%23FF6600.svg?style=flat&logo=kali-linux&logoColor=white)
 ![Network Defense](https://img.shields.io/badge/Net_Defense-%232D3748.svg?style=flat&logo=cisco&logoColor=white)
 ![Radio_Frequency](https://img.shields.io/badge/RF-%23E63946.svg?style=flat&logo=rss&logoColor=white)
+![Heartbeat](https://img.shields.io/badge/Heartbeat-%23FF4081.svg?style=flat&logo=appwrite&logoColor=white)
 ![HAPS](https://img.shields.io/badge/HAPS-green?style=flat&logo=satellite&logoColor=white)
 ![Threat Intel](https://img.shields.io/badge/Threat_Intel-%23744210.svg?style=flat&logo=intel&logoColor=white)
 ![SatCom](https://img.shields.io/badge/Satellite_Comms-%231D3557.svg?style=flat&logo=satellite&logoColor=white)
@@ -146,7 +146,6 @@
 ![Hermetismo](https://img.shields.io/badge/Hermetismo-%23455A64.svg?style=flat&logo=vault&logoColor=white)
 ![First Aid (TCCC)](https://img.shields.io/badge/First_Aid_(TCCC)-%23D32F2F.svg?style=flat&logo=redcross&logoColor=white)
 ![Autonomía](https://img.shields.io/badge/Autonom%C3%ADa-%23F57C00.svg?style=flat&logo=probot&logoColor=white)
-![Heartbeat](https://img.shields.io/badge/Heartbeat-%23FF4081.svg?style=flat&logo=appwrite&logoColor=white)
 
 
 ## *Ultima actualización: Agosto 2028*
