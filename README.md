@@ -192,10 +192,7 @@
 
 ---
 
-> [!NOTE]
-> *That conquers limits by a steadfast state. Be not impatient in delay, But wait as one who understands; When spirit rises and commands, The gods are ready to obey.*
-> 
-> — *Wheeler Wilcox*
+*That conquers limits by a steadfast state. Be not impatient in delay, But wait as one who understands; When spirit rises and commands, The gods are ready to obey.* — *Wheeler Wilcox*
 
 ## *Ultima actualización: Agosto 2028*
 *Cada minuto que pasa es una oportunidad para cambiarlo todo*
