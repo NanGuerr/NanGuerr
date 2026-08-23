@@ -55,6 +55,7 @@
 
 <div id="#-blue-team"></div>
 
+
 ## 🛡️ Blue Team
 
 *Defensa de Infraestructura Convergente: Resiliencia en Sistemas Críticos y Operaciones Descentralizadas*
