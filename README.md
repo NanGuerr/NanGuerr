@@ -33,6 +33,32 @@
 
 <div id="#-repositorios"></div>
 
+## 📂 Repositorios Principales
+
+**[Duolingo Guía de Optimización](https://github.com/NanGuerr/Duolingo-Gu-a-de-Optimizaci-n)**
+*Guía estratégica para maximizar el aprendizaje y beneficios en Duolingo*
+
+**[Ingeniería en Telecomunicaciones](https://github.com/NanGuerr/UP)**
+*Guías y material de la carrera de Ingeniería en Telecomunicaciones (UP)*
+  
+**[Programación en Python](https://github.com/NanGuerr/Introducci-n-a-la-Programaci-n)**
+*Resolución de exámenes, parciales y finales de Programación I (UP)*
+
+**[Match Paths](https://github.com/NanGuerr/MatchPaths)**
+*Minijuego interactivo de Entrenamiento Cognitivo infantil*
+
+**[Ciberseguridad Industrial OT](https://github.com/NanGuerr/Ciberseguridad)**
+*Repositorio central de Ciberseguridad en Entornos Industriales (OT)*
+
+**[Smart Factory Expert](https://github.com/NanGuerr/Smart-Factory-Expert)**
+*Especialización en Automatización Industrial 4.0*
+
+**[Telecom & Electronics](https://github.com/NanGuerr/Telecom)**
+*Especialización en Tecnologías de la Información y Comunicaciones (TIC)*
+
+**[Protocolo Fénix](https://github.com/NanGuerr/Protocolo-F-nix)**
+*Autonomía técnica y radical ante escenarios de colapso sistémico*
+
 
 
 <div id="#-blue-team"></div>
@@ -41,13 +67,13 @@
 
 *Defensa de Infraestructura Convergente: Resiliencia en Sistemas Críticos y Operaciones Descentralizadas*
 
-* **🔒 Ciberseguridad:** Zero Trust, telemetría (MDR), Migración (PQC) y QKD.
-* **✈️ Aeronáutica:** Aterrizaje (eVTOL), VTOL/STOVL y plataformas HAPS (LTA y HTA).
-* **⛓️ Mecánica:** Motor EcoBoost® V6 birurbo y Terrain Management System™.
-* **📡 Telecomunicaciones:** Satelitales LEO, radares SAR y redes de banda ancha.
-* **🆘 Supervivencia:** Operación Descentralizada y Arquitectura Offline-First.
-* **🩺 Firts AID:** HEAT (Hostile Environment Awareness Training) y Tácticas (TCCC).
-* **👁️ Hermetismo:** Reserva estratégica de información y el dominio lógico-científico.
+* **Ciberseguridad:** Zero Trust, telemetría (MDR), Migración (PQC) y QKD.
+* **Aeronáutica:** Aterrizaje (eVTOL), VTOL/STOVL y plataformas HAPS (LTA y HTA).
+* **Mecánica:** Motor EcoBoost® V6 birurbo y Terrain Management System™.
+* **Telecomunicaciones:** Satelitales LEO, radares SAR y redes de banda ancha.
+* **Supervivencia:** Operación Descentralizada y Arquitectura Offline-First.
+* **Firts AID:** HEAT (Hostile Environment Awareness Training) y Tácticas (TCCC).
+* **Hermetismo:** Reserva estratégica de información y el dominio lógico-científico.
 
 *Buscando el "porqué" detrás del error (Debugging is my superpower).*
 
