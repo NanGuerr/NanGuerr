@@ -86,7 +86,7 @@
 
 <p align="center">
    <a href="mailto:nanguerdev@proton.me">
-     <img src="https://img.shields.io/badge/Proton-%236F42C1.svg?style=for-the-badge&logo=proton&logoColor=white" alt="Email Proton">
+     <img src="https://img.shields.io/badge/Proton-%236F42C1.svg?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email Proton">
    </a>
    <a href="https://www.duolingo.com/profile/NanGuerr">
      <img src="https://img.shields.io/badge/Duolingo-749D0C?style=for-the-badge&logo=duolingo&logoColor=white" alt="Duolingo Profile">
