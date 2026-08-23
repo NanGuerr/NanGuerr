@@ -110,11 +110,11 @@
 
 <div id="#-blue-team"></div>
 
-## 🔑 Blue Team
+## 🛡️ Blue Team
 
 *Defensa de Infraestructura Convergente: Resiliencia en Sistemas Críticos y Operaciones Descentralizadas*
 
-* **🛡️ Ciberseguridad:** Zero Trust, telemetría (MDR), Migración (PQC) y QKD.
+* **🔒 Ciberseguridad:** Zero Trust, telemetría (MDR), Migración (PQC) y QKD.
 * **✈️ Aeronáutica:** Aterrizaje (eVTOL), VTOL/STOVL y plataformas HAPS (LTA y HTA).
 * **⛓️ Mecánica:** Motor EcoBoost® V6 birurbo y Terrain Management System™.
 * **📡 Telecomunicaciones:** Satelitales LEO, radares SAR y redes de banda ancha.
@@ -122,7 +122,44 @@
 * **🩺 Firts AID:** HEAT (Hostile Environment Awareness Training) y Tácticas (TCCC).
 * **👁️ Hermetismo:** Reserva estratégica de información y el dominio lógico-científico.
 
-> *Buscando el "porqué" detrás del error (Debugging is my superpower).*
+*Buscando el "porqué" detrás del error (Debugging is my superpower).*
+
+
+<div id="#-contacto"></div>
+
+## 📬 Conectemos
+
+> #### *Leave a message on Duolingo... Just Kidding! Drop me a line on Proton or catch me on the app...*
+
+<p align="center">
+   <a href="mailto:nanguerdev@proton.me">
+     <img src="https://img.shields.io/badge/Proton-%236F42C1.svg?style=for-the-badge&logo=proton&logoColor=white" alt="Email Proton">
+   </a>
+   <a href="https://www.duolingo.com/profile/NanGuerr">
+     <img src="https://img.shields.io/badge/Duolingo-749D0C?style=for-the-badge&logo=duolingo&logoColor=white" alt="Duolingo Profile">
+   </a>
+</p>
+
+
+        
+### 🎥 Inspiración aquí: 
+
+<a href="https://www.youtube.com/watch?v=wiGXPfA8Gv4" target="_blank">
+  <img src="https://img.youtube.com/vi/D9oH8skIZw0/0.jpg" alt="Miniatura del video" width="24%">
+</a>
+<a href="https://www.youtube.com/watch?v=Dez1FrtFMJg" target="_blank">
+  <img src="https://img.youtube.com/vi/D_8ZhH-SaQU/0.jpg" alt="Miniatura del video" width="24%">
+</a>
+<a href="https://www.youtube.com/watch?v=b3O4J_CLlxE" target="_blank">
+  <img src="https://img.youtube.com/vi/yNAFtADhzss/0.jpg" alt="Miniatura del video" width="24%">
+</a>
+<a href="https://www.youtube.com/watch?v=9g_2B1Ji_CI" target="_blank">
+  <img src="https://img.youtube.com/vi/9g_2B1Ji_CI/0.jpg" alt="Miniatura del video" width="24%">
+</a>
+
+
+
+*That conquers limits by a steadfast state. Be not impatient in delay, But wait as one who understands; When spirit rises and commands, The gods are ready to obey.* — *Wheeler Wilcox*
 
 ![ROS](https://img.shields.io/badge/ROS-%230A0EB2.svg?style=flat&logo=ros&logoColor=white) 
 ![SOC Analyst](https://img.shields.io/badge/SOC-%232D3748.svg?style=flat&logo=splunk&logoColor=white)
@@ -161,27 +198,8 @@
 ![Heartbeat](https://img.shields.io/badge/Heartbeat-%23FF4081.svg?style=flat&logo=appwrite&logoColor=white)
 
 
-<div id="#-contacto"></div>
-
-## 📬 Conectemos
-
-⚡*HYPERFOCUS mode; just leave a signal on **[Duolingo](https://www.duolingo.com/profile/NanGuerr)** if you need anything.* ****Just Kidding!*** Leave a message here...* [![Email](https://img.shields.io/badge/Proton-%236F42C1.svg?style=flat&logo=proton&logoColor=white)](mailto:nanguerdev@proton.me)
-
-
-### 🎥 Inspiración aquí: 
-
-<a href="https://www.youtube.com/watch?v=wiGXPfA8Gv4" target="_blank">
-  <img src="https://img.youtube.com/vi/D9oH8skIZw0/0.jpg" alt="Miniatura del video" width="24%">
-</a>
-<a href="https://www.youtube.com/watch?v=Dez1FrtFMJg" target="_blank">
-  <img src="https://img.youtube.com/vi/D_8ZhH-SaQU/0.jpg" alt="Miniatura del video" width="24%">
-</a>
-<a href="https://www.youtube.com/watch?v=b3O4J_CLlxE" target="_blank">
-  <img src="https://img.youtube.com/vi/yNAFtADhzss/0.jpg" alt="Miniatura del video" width="24%">
-</a>
-<a href="https://www.youtube.com/watch?v=9g_2B1Ji_CI" target="_blank">
-  <img src="https://img.youtube.com/vi/9g_2B1Ji_CI/0.jpg" alt="Miniatura del video" width="24%">
-</a>
+## *Ultima actualización: Agosto 2028*
+*Cada minuto que pasa es una oportunidad para cambiarlo todo*
 
 
 <p align="center">
@@ -189,10 +207,3 @@
         <img src="https://img.shields.io/badge/Repositorios-4a4a4a?style=for-the-badge&logo=github&logoColor=white" alt="Repositorios">
     </a>
 </p>
-
----
-
-*That conquers limits by a steadfast state. Be not impatient in delay, But wait as one who understands; When spirit rises and commands, The gods are ready to obey.* — *Wheeler Wilcox*
-
-## *Ultima actualización: Agosto 2028*
-*Cada minuto que pasa es una oportunidad para cambiarlo todo*
