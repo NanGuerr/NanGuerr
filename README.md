@@ -82,7 +82,7 @@
 
 ## 📬 Conectemos
 
-> #### *Leave a message on Duolingo... Just Kidding! Drop me a line on Proton or catch me on the app...*
+### *Leave a message on Duolingo... Just Kidding! Drop me a line on Proton or catch me on the app...*
 
 <p align="center">
    <a href="mailto:nanguerdev@proton.me">
