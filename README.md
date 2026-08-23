@@ -197,5 +197,5 @@
 > 
 > — *Wheeler Wilcox*
 
-> ## *Ultima actualización: Agosto 2028*
+## *Ultima actualización: Agosto 2028*
 *Cada minuto que pasa es una oportunidad para cambiarlo todo*
