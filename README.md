@@ -81,7 +81,7 @@
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-%230C162D.svg?style=flat&logo=tailwindcss&logoColor=%2306B6D4)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 
-### 🛡️ [Ciberseguridad Industrial OT](https://github.com/NanGuerr/Ciberseguridad)
+### 🔐 [Ciberseguridad Industrial OT](https://github.com/NanGuerr/Ciberseguridad)
 
 *Repositorio central de Ciberseguridad en Entornos Industriales (OT)*
 * Documentación técnica, marcos de referencia (IEC 62443, NIST SP 800-82) y guías de *hardening* para ICS/SCADA.
