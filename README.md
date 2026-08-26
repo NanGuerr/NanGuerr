@@ -1,7 +1,7 @@
 > ### *"Los desafíos tecnológicos son el código para alcanzar la mejor versión de cada sistema."*
 
 <p align="center">
-    <a href="#-blue-team">
+    <a href="https://github.com/NanGuerr/NanGuerr/blob/main/README.md#%EF%B8%8F-blue-team">
         <img src="https://img.shields.io/badge/Areas_de_interes-0059b3?style=for-the-badge&logo=securityscorecard&logoColor=white" alt="Temas">
     </a>
     <a href="#-repositorios-principales">
