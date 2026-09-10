@@ -82,7 +82,8 @@
         
 ### 🎥 Inspiración aquí: 
 
-<a href="https://www.youtube.com/watch?v=wiGXPfA8Gv4" target="_blank">
+
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
   <img src="https://img.youtube.com/vi/D9oH8skIZw0/0.jpg" alt="Miniatura del video" width="24%">
 </a>
 <a href="https://www.youtube.com/watch?v=ywgQ25shYWQ" target="_blank">
@@ -96,8 +97,7 @@
 </a>
 
 
-
-*That conquers limits by a steadfast state. Be not impatient in delay, But wait as one who understands; When spirit rises and commands, The gods are ready to obey.* — *Wheeler Wilcox*
+> *"A mí, si me conoces, bien elegir sabrás..."* 🎥
 
 ![ROS](https://img.shields.io/badge/ROS-%230A0EB2.svg?style=flat&logo=ros&logoColor=white) 
 ![SOC Analyst](https://img.shields.io/badge/SOC-%232D3748.svg?style=flat&logo=splunk&logoColor=white)
@@ -131,6 +131,7 @@
 ![Hermetismo](https://img.shields.io/badge/Hermetismo-%23455A64.svg?style=flat&logo=vault&logoColor=white)
 ![First Aid (TCCC)](https://img.shields.io/badge/First_Aid_(TCCC)-%23D32F2F.svg?style=flat&logo=redcross&logoColor=white)
 ![Autonomía](https://img.shields.io/badge/Autonom%C3%ADa-%23F57C00.svg?style=flat&logo=probot&logoColor=white)
+---
 
 
 ## *Ultima actualización: Agosto 2028*
