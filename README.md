@@ -97,7 +97,7 @@
 </a>
 
 
-> *"A mí, si me conoces, bien elegir sabrás y el camino del hacker sabio hallarás."* 👽🚀🌌
+> *"Saber elegir, tú debes..."* 👽🚀🌌
 
 ![ROS](https://img.shields.io/badge/ROS-%230A0EB2.svg?style=flat&logo=ros&logoColor=white) 
 ![SOC Analyst](https://img.shields.io/badge/SOC-%232D3748.svg?style=flat&logo=splunk&logoColor=white)
