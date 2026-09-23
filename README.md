@@ -92,12 +92,11 @@
 <a href="https://www.youtube.com/watch?v=b3O4J_CLlxE" target="_blank">
   <img src="https://img.youtube.com/vi/yNAFtADhzss/0.jpg" alt="Miniatura del video" width="24%">
 </a>
-<a href="https://www.youtube.com/watch?v=9g_2B1Ji_CI" target="_blank">
+<a href="https://www.youtube.com/watch?v=HRCfnvxpYP8" target="_blank">
   <img src="https://img.youtube.com/vi/9g_2B1Ji_CI/0.jpg" alt="Miniatura del video" width="24%">
 </a>
 
 
-> *"Saber elegir, tú debes..."* 👽🚀🌌
 
 ![ROS](https://img.shields.io/badge/ROS-%230A0EB2.svg?style=flat&logo=ros&logoColor=white) 
 ![SOC Analyst](https://img.shields.io/badge/SOC-%232D3748.svg?style=flat&logo=splunk&logoColor=white)
